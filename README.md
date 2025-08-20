@@ -2,7 +2,9 @@
 
 An analysis of token efficiency in Large Reasoning Models (LRMs), investigating whether open-weight models systematically require more tokens than closed-weight models for comparable reasoning tasks.
 
-**The complete analysis and findings are detailed in the research report: [Draft](report/report.md) and [published version](https://nousresearch.com/measuring-thinking-efficiency-in-reasoning-models-the-missing-benchmark/)**
+**The complete analysis and findings are detailed in the research report:** <br>
+**[Draft](report/report.md) and [published version (Nous Research): *Measuring Thinking Efficiency in Reasoning Models: The Missing Benchmark*](https://nousresearch.com/measuring-thinking-efficiency-in-reasoning-models-the-missing-benchmark/)**
+
 
 <div align="center">
 <img src="./report/images/average_relative_completion_tokens_chart.png" style="width: 90%;">

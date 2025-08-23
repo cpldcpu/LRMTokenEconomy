@@ -61,14 +61,15 @@ The repository includes several analysis scripts to reproduce the figures used i
 
 ```bash
 # Token efficiency analysis
-python analyze_prompts.py --types knowledge,logic_puzzle,math --output-dir figures/eco_all
-python analyze_prompts.py --types knowledge --output-dir figures/eco_knowledge
+python analyze_prompts.py --preset math
+python analyze_prompts.py --preset logic_puzzle
+python analyze_prompts.py --preset knowledge
 
 # Cost and other analyses
-python analyze_cost.py --input model_prices.csv --output-dir figures/cost
-python analyze_cot_transcription.py --output-dir figures/cot_transcription
-python analyze_model_trends.py --output-dir figures/trends_eco_all
-python analyze_wordstats.py --output-dir figures/wordstatistic
+python analyze_cost.py 
+python analyze_cot_transcription.py 
+python analyze_model_trends.py 
+python analyze_wordstats.py 
 ```
 Use the `--help` command line flag with each script to see available options and configurations.
 

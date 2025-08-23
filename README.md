@@ -7,12 +7,12 @@ An analysis of token efficiency in Large Reasoning Models (LRMs), investigating 
 
 
 <div align="center">
-<img src="./recent_figures/average_relative_completion_tokens_chart.png" style="width: 90%;">
+<img src="./recent_figures/eco_all/average_relative_completion_tokens_chart.png" style="width: 90%;">
 </div>
 
 ## Updates
 
-See [/recent_figures](/recent_figures) folder for updates with the latest models. (Added: Deepseek V3.1)
+See [/recent_figures](/recent_figures) folder for updates with the latest models. (Added: Deepseek V3.1, fixed GPT-OSS, GPT5)
 
 ## Dataset
 

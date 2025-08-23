@@ -288,7 +288,7 @@
       "top_p": 0.95,
       "repetition_penalty": 1
     },
-      {
+          {
         "name": "gpt-oss-120b",
         "model": "openai/gpt-oss-120b",
         "open_weights": true,
@@ -297,6 +297,7 @@
         "temperature": 0.7,
         "top_p": 1.0,
         "repetition_penalty": 1,
+        "provider" : ["groq"],
         "reasoning": {
           "effort": "high",
           "exclude": false
@@ -313,6 +314,7 @@
         "temperature": 0.7,
         "top_p": 1.0,
         "repetition_penalty": 1,
+        "provider" : ["groq"],
         "reasoning": {
           "effort": "high",
           "exclude": false
@@ -333,16 +335,6 @@
         "effort": "high",
         "exclude": false
       }
-    },
-             {
-      "name": "deepseek-V3.1",
-      "model": "deepseek-reasoner",
-      "open_weights": true,
-      "full_cot": true,
-      "max_tokens": 5000,
-      "temperature": 1.0,
-      "top_p": 1.0,
-      "repetition_penalty": 1
     }
   ] 
 }

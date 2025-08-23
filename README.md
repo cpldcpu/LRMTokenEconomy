@@ -77,7 +77,7 @@ Use the `--help` command line flag with each script to see available options and
 ```bash
 # Query models and evaluate results
 python query-script.py --config query_config.json 
-python evaluation-script.py --input data/output_queries_batch.json 
+python evaluation-script.py  
 python aggregate_results.py
 ```
 

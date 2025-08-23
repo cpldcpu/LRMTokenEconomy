@@ -1,0 +1,1978 @@
+{
+  "one_plus_one": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 2",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that 1+1 is 2, fulfilling the given criterion.",
+        "total_score": 1.0,
+        "original_question": "How much is 1+1?",
+        "original_response": "2",
+        "statistics": {
+          "character_count_output": 1,
+          "character_count_reasoning": 1314,
+          "character_count_completion": 1315,
+          "tokens_output": 7,
+          "tokens_reasoning": 448,
+          "tokens_completions": 455
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 2",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that 1+1 is 2, fulfilling the given criterion.",
+        "total_score": 1.0,
+        "original_question": "How much is 1+1?",
+        "original_response": "2",
+        "statistics": {
+          "character_count_output": 1,
+          "character_count_reasoning": 433,
+          "character_count_completion": 434,
+          "tokens_output": 7,
+          "tokens_reasoning": 64,
+          "tokens_completions": 71
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 2",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that 1+1 is 2, fulfilling the given criterion.",
+        "total_score": 1.0,
+        "original_question": "How much is 1+1?",
+        "original_response": "2",
+        "statistics": {
+          "character_count_output": 1,
+          "character_count_reasoning": 441,
+          "character_count_completion": 442,
+          "tokens_output": 7,
+          "tokens_reasoning": 128,
+          "tokens_completions": 135
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 2",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that 1+1 is 2, fulfilling the given criterion.",
+        "total_score": 1.0,
+        "original_question": "How much is 1+1?",
+        "original_response": "2",
+        "statistics": {
+          "character_count_output": 1,
+          "character_count_reasoning": 424,
+          "character_count_completion": 425,
+          "tokens_output": 7,
+          "tokens_reasoning": 128,
+          "tokens_completions": 135
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 2",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that 1+1 is 2, fulfilling the given criterion.",
+        "total_score": 1.0,
+        "original_question": "How much is 1+1?",
+        "original_response": "2",
+        "statistics": {
+          "character_count_output": 1,
+          "character_count_reasoning": 357,
+          "character_count_completion": 358,
+          "tokens_output": 7,
+          "tokens_reasoning": 64,
+          "tokens_completions": 71
+        }
+      }
+    ]
+  },
+  "bridge_torch_easy_10m": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that all four cross together and that it takes 10 minutes.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 10 minutes. How do they do it?",
+        "original_response": "All four cross together with the single torch. They must move at the pace of the slowest (D), so it takes exactly 10 minutes.",
+        "statistics": {
+          "character_count_output": 125,
+          "character_count_reasoning": 2577,
+          "character_count_completion": 2702,
+          "tokens_output": 36,
+          "tokens_reasoning": 1152,
+          "tokens_completions": 1188
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output explicitly states 'All four cross together with the single torch' and 'they take 10 minutes (D\u2019s time), meeting the 10-minute limit', directly fulfilling the criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 10 minutes. How do they do it?",
+        "original_response": "All four cross together with the single torch. Since a group moves at the pace of the slowest person, they take 10 minutes (D\u2019s time), meeting the 10-minute limit.",
+        "statistics": {
+          "character_count_output": 163,
+          "character_count_reasoning": 2533,
+          "character_count_completion": 2696,
+          "tokens_output": 45,
+          "tokens_reasoning": 1472,
+          "tokens_completions": 1517
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that all four people cross together in 10 minutes, which aligns with the criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 10 minutes. How do they do it?",
+        "original_response": "All four cross together, staying with the single torch. Since the group moves at the speed of the slowest (D = 10 minutes) and the bridge can hold all four, they make it across in exactly 10 minutes.",
+        "statistics": {
+          "character_count_output": 199,
+          "character_count_reasoning": 3655,
+          "character_count_completion": 3854,
+          "tokens_output": 53,
+          "tokens_reasoning": 3456,
+          "tokens_completions": 3509
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that all four people cross together and that it takes 10 minutes, which aligns with the criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 10 minutes. How do they do it?",
+        "original_response": "They all cross together with the torch. Since the bridge can hold all four at once, they move at the pace of the slowest (D), so it takes 10 minutes total.",
+        "statistics": {
+          "character_count_output": 155,
+          "character_count_reasoning": 2592,
+          "character_count_completion": 2747,
+          "tokens_output": 44,
+          "tokens_reasoning": 1152,
+          "tokens_completions": 1196
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that all four people cross together in 10 minutes, which aligns with the criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 10 minutes. How do they do it?",
+        "original_response": "All four cross together at once with the single torch, moving at the pace of the slowest (D). Since the bridge can support all four, they arrive in exactly 10 minutes.",
+        "statistics": {
+          "character_count_output": 167,
+          "character_count_reasoning": 4568,
+          "character_count_completion": 4735,
+          "tokens_output": 44,
+          "tokens_reasoning": 4992,
+          "tokens_completions": 5036
+        }
+      }
+    ]
+  },
+  "AIME2023II_P1": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 220",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 220, which matches the expected value for the greatest number of apples.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $990.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "220",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1332,
+          "character_count_completion": 1335,
+          "tokens_output": 7,
+          "tokens_reasoning": 640,
+          "tokens_completions": 647
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 220",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 220, which matches the expected value for the greatest number of apples.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $990.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "220",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1103,
+          "character_count_completion": 1106,
+          "tokens_output": 7,
+          "tokens_reasoning": 384,
+          "tokens_completions": 391
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 220",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 220, which matches the expected value for the greatest number of apples.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $990.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "220",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 2301,
+          "character_count_completion": 2304,
+          "tokens_output": 7,
+          "tokens_reasoning": 1152,
+          "tokens_completions": 1159
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 220",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 220, which matches the expected value for the greatest number of apples.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $990.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "220",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1395,
+          "character_count_completion": 1398,
+          "tokens_output": 7,
+          "tokens_reasoning": 576,
+          "tokens_completions": 583
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 220",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 220, which matches the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $990.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "220\n\nReason:\nLet the six terms be a, a+d, ..., a+5d. Given a+5d = 2a \u21d2 a = 5d. Then the terms are 5d, 6d, 7d, 8d, 9d, 10d with sum 45d = 990 \u21d2 d = 22. Greatest = 10d = 220.",
+        "statistics": {
+          "character_count_output": 172,
+          "character_count_reasoning": 991,
+          "character_count_completion": 1163,
+          "tokens_output": 92,
+          "tokens_reasoning": 320,
+          "tokens_completions": 412
+        }
+      }
+    ]
+  },
+  "AIME2023II_P1_mod": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 660",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 660.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $2970.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "660",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1470,
+          "character_count_completion": 1473,
+          "tokens_output": 7,
+          "tokens_reasoning": 576,
+          "tokens_completions": 583
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 660",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 660.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $2970.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "660",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1990,
+          "character_count_completion": 1993,
+          "tokens_output": 7,
+          "tokens_reasoning": 704,
+          "tokens_completions": 711
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 660",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies the answer as 660.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $2970.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "Let the six terms be a, a+d, a+2d, a+3d, a+4d, a+5d. The largest equals double the smallest: a+5d = 2a \u21d2 a = 5d. Thus the terms are 5d, 6d, 7d, 8d, 9d, 10d with sum 45d = 2970, so d = 66. The greatest is 10d = 660.\n\nAnswer: 660",
+        "statistics": {
+          "character_count_output": 227,
+          "character_count_reasoning": 1264,
+          "character_count_completion": 1491,
+          "tokens_output": 115,
+          "tokens_reasoning": 576,
+          "tokens_completions": 691
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 660",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 660.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $2970.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "660",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1422,
+          "character_count_completion": 1425,
+          "tokens_output": 7,
+          "tokens_reasoning": 704,
+          "tokens_completions": 711
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 660",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 660.",
+        "total_score": 1.0,
+        "original_question": "The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $2970.$ Find the greatest number of apples growing on any of the six trees.$",
+        "original_response": "660",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 1847,
+          "character_count_completion": 1850,
+          "tokens_output": 7,
+          "tokens_reasoning": 704,
+          "tokens_completions": 711
+        }
+      }
+    ]
+  },
+  "AIME2025I_P2_modified": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 41",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 41, which matches the criterion.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+7).$",
+        "original_response": "41\n\nReason: Let m = n + 2. Then n = m \u2212 2 and\n3(n+3)(n^2+7) = 3(m+1)((m\u22122)^2+7) \u2261 3\u00b71\u00b711 = 33 (mod m).\nSo m | 33. With m \u2265 3, m \u2208 {3, 11, 33}, giving n \u2208 {1, 9, 31}. Their sum is 41.",
+        "statistics": {
+          "character_count_output": 182,
+          "character_count_reasoning": 2518,
+          "character_count_completion": 2700,
+          "tokens_output": 111,
+          "tokens_reasoning": 1536,
+          "tokens_completions": 1647
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 41",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly identified the sum as 41.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+7).$",
+        "original_response": "41\n\nReason:\nWorking modulo n+2, we have n \u2261 \u22122, so\n3(n+3)(n^2+7) \u2261 3\u00b71\u00b711 = 33 (mod n+2).\nThus n+2 must divide 33. With n positive, n+2 \u2208 {3, 11, 33}, giving n \u2208 {1, 9, 31}. Their sum is 41.",
+        "statistics": {
+          "character_count_output": 190,
+          "character_count_reasoning": 2197,
+          "character_count_completion": 2387,
+          "tokens_output": 100,
+          "tokens_reasoning": 1536,
+          "tokens_completions": 1636
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 41",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 41, which matches the criterion.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+7).$",
+        "original_response": "41\n\nReason: Let f(n) = 3(n+3)(n^2+7). Since n \u2261 -2 mod (n+2), we have f(n) \u2261 f(-2) mod (n+2). Compute f(-2) = 3\u00b71\u00b711 = 33. Thus (n+2) | f(n) iff (n+2) | 33. With n > 0, n+2 \u2208 {3, 11, 33}, giving n \u2208 {1, 9, 31}. Sum = 1 + 9 + 31 = 41.",
+        "statistics": {
+          "character_count_output": 233,
+          "character_count_reasoning": 2487,
+          "character_count_completion": 2720,
+          "tokens_output": 139,
+          "tokens_reasoning": 1472,
+          "tokens_completions": 1611
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 41",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 41, which matches the criterion.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+7).$",
+        "original_response": "41\n\nReason: Let m = n+2. Then 3(n+3)(n^2+7) \u2261 3\u00b71\u00b711 = 33 (mod m), so m | 33. With n positive, m \u2265 3, so m \u2208 {3, 11, 33}, giving n \u2208 {1, 9, 31}. Their sum is 41.",
+        "statistics": {
+          "character_count_output": 161,
+          "character_count_reasoning": 1748,
+          "character_count_completion": 1909,
+          "tokens_output": 92,
+          "tokens_reasoning": 1088,
+          "tokens_completions": 1180
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 41",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies the sum as 41.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+7).$",
+        "original_response": "Compute modulo n+2:\n- n+3 \u2261 1 (mod n+2)\n- n^2+7 \u2261 11 (mod n+2)\n\nThus 3(n+3)(n^2+7) \u2261 3\u00b71\u00b711 = 33 (mod n+2), so n+2 | 33.\nWith n \u2265 1, n+2 \u2208 {3, 11, 33} \u21d2 n \u2208 {1, 9, 31}. Their sum is 41.",
+        "statistics": {
+          "character_count_output": 185,
+          "character_count_reasoning": 2466,
+          "character_count_completion": 2651,
+          "tokens_output": 119,
+          "tokens_reasoning": 2560,
+          "tokens_completions": 2679
+        }
+      }
+    ]
+  },
+  "AIME2025I_Problem_2": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 49",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies the sum as 49.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+9).$",
+        "original_response": "Let m = n+2. Then n \u2261 \u22122 (mod m), so\n3(n+3)(n^2+9) \u2261 3(1)(4+9) = 39 (mod m).\nThus m | 39. With n > 0, m \u2208 {3, 13, 39}, giving n \u2208 {1, 11, 37}. Their sum is 49.\n\nAnswer: 49",
+        "statistics": {
+          "character_count_output": 171,
+          "character_count_reasoning": 2277,
+          "character_count_completion": 2448,
+          "tokens_output": 101,
+          "tokens_reasoning": 2176,
+          "tokens_completions": 2277
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 49",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the sum of 49.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+9).$",
+        "original_response": "49\n\nReason: Let m = n+2. Then n = m\u22122, and\n3(n+3)(n^2+9) = 3(m+1)(m^2\u22124m+13) \u2261 3\u00b71\u00b713 = 39 (mod m).\nThus m | 3(n+3)(n^2+9) \u21d4 m | 39. With m \u2265 3 (since n > 0), m \u2208 {3, 13, 39}, giving n \u2208 {1, 11, 37}. Their sum is 1 + 11 + 37 = 49.",
+        "statistics": {
+          "character_count_output": 230,
+          "character_count_reasoning": 2451,
+          "character_count_completion": 2681,
+          "tokens_output": 142,
+          "tokens_reasoning": 1024,
+          "tokens_completions": 1166
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 49",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the sum of all positive integers n as 49, which matches the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+9).$",
+        "original_response": "49",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 2426,
+          "character_count_completion": 2428,
+          "tokens_output": 7,
+          "tokens_reasoning": 2304,
+          "tokens_completions": 2311
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 49",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the sum of all positive integers n as 49, which matches the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+9).$",
+        "original_response": "49",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 2347,
+          "character_count_completion": 2349,
+          "tokens_output": 7,
+          "tokens_reasoning": 1856,
+          "tokens_completions": 1863
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 49",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies the sum as 49.",
+        "total_score": 1.0,
+        "original_question": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+9).$",
+        "original_response": "Let m = n + 2. Then the condition is m | 3(m+1)(m^2 \u2212 4m + 13). Reducing modulo m gives 3\u00b71\u00b713 \u2261 39 (mod m), so m | 39. With n positive, m \u2265 3, so m \u2208 {3, 13, 39}, yielding n \u2208 {1, 11, 37}. Their sum is 49.",
+        "statistics": {
+          "character_count_output": 206,
+          "character_count_reasoning": 2978,
+          "character_count_completion": 3184,
+          "tokens_output": 103,
+          "tokens_reasoning": 2880,
+          "tokens_completions": 2983
+        }
+      }
+    ]
+  },
+  "capital_of_australia": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is Canberra",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified Canberra as the capital of Australia.",
+        "total_score": 1.0,
+        "original_question": "What is the capital of Australia?",
+        "original_response": "Canberra",
+        "statistics": {
+          "character_count_output": 8,
+          "character_count_reasoning": 0,
+          "character_count_completion": 8,
+          "tokens_output": 8,
+          "tokens_reasoning": 192,
+          "tokens_completions": 200
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is Canberra",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified Canberra as the capital of Australia.",
+        "total_score": 1.0,
+        "original_question": "What is the capital of Australia?",
+        "original_response": "Answer: Canberra",
+        "statistics": {
+          "character_count_output": 16,
+          "character_count_reasoning": 439,
+          "character_count_completion": 455,
+          "tokens_output": 9,
+          "tokens_reasoning": 64,
+          "tokens_completions": 73
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is Canberra",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified Canberra as the capital of Australia.",
+        "total_score": 1.0,
+        "original_question": "What is the capital of Australia?",
+        "original_response": "Canberra",
+        "statistics": {
+          "character_count_output": 8,
+          "character_count_reasoning": 0,
+          "character_count_completion": 8,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is Canberra",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified Canberra as the capital of Australia.",
+        "total_score": 1.0,
+        "original_question": "What is the capital of Australia?",
+        "original_response": "Canberra",
+        "statistics": {
+          "character_count_output": 8,
+          "character_count_reasoning": 430,
+          "character_count_completion": 438,
+          "tokens_output": 8,
+          "tokens_reasoning": 64,
+          "tokens_completions": 72
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is Canberra",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified Canberra as the capital of Australia.",
+        "total_score": 1.0,
+        "original_question": "What is the capital of Australia?",
+        "original_response": "Canberra.",
+        "statistics": {
+          "character_count_output": 9,
+          "character_count_reasoning": 492,
+          "character_count_completion": 501,
+          "tokens_output": 9,
+          "tokens_reasoning": 128,
+          "tokens_completions": 137
+        }
+      }
+    ]
+  },
+  "train_distance": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 150 kilometers",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states '150 kilometers' which matches the specified answer in the criterion.",
+        "total_score": 1.0,
+        "original_question": "If a train travels 60 kilometers per hour for 2.5 hours, how far does it go?",
+        "original_response": "150 kilometers",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 415,
+          "character_count_completion": 429,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 150 kilometers",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states '150 kilometers' which matches the specified answer in the criterion.",
+        "total_score": 1.0,
+        "original_question": "If a train travels 60 kilometers per hour for 2.5 hours, how far does it go?",
+        "original_response": "150 kilometers",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 0,
+          "character_count_completion": 14,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 150 kilometers",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states '150 kilometers' which matches the specified answer in the criterion.",
+        "total_score": 1.0,
+        "original_question": "If a train travels 60 kilometers per hour for 2.5 hours, how far does it go?",
+        "original_response": "150 kilometers",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 432,
+          "character_count_completion": 446,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 150 kilometers",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states '150 kilometers' which matches the specified answer in the criterion.",
+        "total_score": 1.0,
+        "original_question": "If a train travels 60 kilometers per hour for 2.5 hours, how far does it go?",
+        "original_response": "150 kilometers",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 429,
+          "character_count_completion": 443,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 150 kilometers",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states '150 kilometers' which matches the specified answer in the criterion.",
+        "total_score": 1.0,
+        "original_question": "If a train travels 60 kilometers per hour for 2.5 hours, how far does it go?",
+        "original_response": "150 kilometers",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 417,
+          "character_count_completion": 431,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      }
+    ]
+  },
+  "brazil_continent": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is South America",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified South America as the continent where Brazil is located.",
+        "total_score": 1.0,
+        "original_question": "Which continent is Brazil located on?",
+        "original_response": "South America.",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 923,
+          "character_count_completion": 937,
+          "tokens_output": 9,
+          "tokens_reasoning": 192,
+          "tokens_completions": 201
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is South America",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies South America as the continent where Brazil is located.",
+        "total_score": 1.0,
+        "original_question": "Which continent is Brazil located on?",
+        "original_response": "South America",
+        "statistics": {
+          "character_count_output": 13,
+          "character_count_reasoning": 326,
+          "character_count_completion": 339,
+          "tokens_output": 8,
+          "tokens_reasoning": 0,
+          "tokens_completions": 8
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is South America",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies South America as the continent where Brazil is located.",
+        "total_score": 1.0,
+        "original_question": "Which continent is Brazil located on?",
+        "original_response": "South America",
+        "statistics": {
+          "character_count_output": 13,
+          "character_count_reasoning": 386,
+          "character_count_completion": 399,
+          "tokens_output": 8,
+          "tokens_reasoning": 64,
+          "tokens_completions": 72
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is South America",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identified South America as the continent where Brazil is located.",
+        "total_score": 1.0,
+        "original_question": "Which continent is Brazil located on?",
+        "original_response": "South America.",
+        "statistics": {
+          "character_count_output": 14,
+          "character_count_reasoning": 0,
+          "character_count_completion": 14,
+          "tokens_output": 9,
+          "tokens_reasoning": 256,
+          "tokens_completions": 265
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is South America",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies South America as the continent where Brazil is located.",
+        "total_score": 1.0,
+        "original_question": "Which continent is Brazil located on?",
+        "original_response": "South America",
+        "statistics": {
+          "character_count_output": 13,
+          "character_count_reasoning": 0,
+          "character_count_completion": 13,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      }
+    ]
+  },
+  "leap_year_february_days": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 29",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that there are 29 days in February during a leap year.",
+        "total_score": 1.0,
+        "original_question": "How many days are there in February during a leap year?",
+        "original_response": "29 days",
+        "statistics": {
+          "character_count_output": 7,
+          "character_count_reasoning": 439,
+          "character_count_completion": 446,
+          "tokens_output": 8,
+          "tokens_reasoning": 128,
+          "tokens_completions": 136
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 29",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that there are 29 days in February during a leap year.",
+        "total_score": 1.0,
+        "original_question": "How many days are there in February during a leap year?",
+        "original_response": "29",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 785,
+          "character_count_completion": 787,
+          "tokens_output": 7,
+          "tokens_reasoning": 192,
+          "tokens_completions": 199
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 29",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly identified that there are 29 days in February during a leap year.",
+        "total_score": 1.0,
+        "original_question": "How many days are there in February during a leap year?",
+        "original_response": "29 days.",
+        "statistics": {
+          "character_count_output": 8,
+          "character_count_reasoning": 441,
+          "character_count_completion": 449,
+          "tokens_output": 9,
+          "tokens_reasoning": 128,
+          "tokens_completions": 137
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 29",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly identified that there are 29 days in February during a leap year.",
+        "total_score": 1.0,
+        "original_question": "How many days are there in February during a leap year?",
+        "original_response": "29 days.",
+        "statistics": {
+          "character_count_output": 8,
+          "character_count_reasoning": 416,
+          "character_count_completion": 424,
+          "tokens_output": 9,
+          "tokens_reasoning": 64,
+          "tokens_completions": 73
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 29",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that there are 29 days in February during a leap year.",
+        "total_score": 1.0,
+        "original_question": "How many days are there in February during a leap year?",
+        "original_response": "Answer: 29",
+        "statistics": {
+          "character_count_output": 10,
+          "character_count_reasoning": 466,
+          "character_count_completion": 476,
+          "tokens_output": 10,
+          "tokens_reasoning": 128,
+          "tokens_completions": 138
+        }
+      }
+    ]
+  },
+  "roses_logic": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "No, we cannot conclude that some roses are red.",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states 'No' and provides a valid explanation for why the conclusion cannot be drawn, aligning with the given criterion.",
+        "total_score": 1.0,
+        "original_question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
+        "original_response": "No. From \u201cAll roses are flowers\u201d and \u201cSome flowers are red,\u201d it doesn\u2019t follow that any of the red flowers are roses. For example, the red flowers could all be tulips, or there might even be no roses at all.",
+        "statistics": {
+          "character_count_output": 207,
+          "character_count_reasoning": 2629,
+          "character_count_completion": 2836,
+          "tokens_output": 57,
+          "tokens_reasoning": 1088,
+          "tokens_completions": 1145
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "No, we cannot conclude that some roses are red.",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states that we cannot conclude that some roses are red.",
+        "total_score": 1.0,
+        "original_question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
+        "original_response": "No. The red flowers might all be non-roses (e.g., red tulips), and there may even be no roses at all. So the conclusion doesn\u2019t logically follow from the premises.",
+        "statistics": {
+          "character_count_output": 163,
+          "character_count_reasoning": 2551,
+          "character_count_completion": 2714,
+          "tokens_output": 47,
+          "tokens_reasoning": 1536,
+          "tokens_completions": 1583
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "No, we cannot conclude that some roses are red.",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states that we cannot conclude that some roses are red.",
+        "total_score": 1.0,
+        "original_question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
+        "original_response": "No. The red flowers mentioned could all be non-roses. For example, if all roses are white and only tulips are red, then both premises are true but no roses are red.",
+        "statistics": {
+          "character_count_output": 164,
+          "character_count_reasoning": 2557,
+          "character_count_completion": 2721,
+          "tokens_output": 46,
+          "tokens_reasoning": 1088,
+          "tokens_completions": 1134
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "No, we cannot conclude that some roses are red.",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states 'No' and provides a valid explanation for why the conclusion cannot be drawn.",
+        "total_score": 1.0,
+        "original_question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
+        "original_response": "No. The red flowers could all be non-roses (e.g., all roses are white while some tulips are red), so the conclusion doesn\u2019t follow.",
+        "statistics": {
+          "character_count_output": 131,
+          "character_count_reasoning": 2532,
+          "character_count_completion": 2663,
+          "tokens_output": 40,
+          "tokens_reasoning": 1024,
+          "tokens_completions": 1064
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "No, we cannot conclude that some roses are red.",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that we cannot conclude that some roses are red.",
+        "total_score": 1.0,
+        "original_question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
+        "original_response": "No. It doesn\u2019t follow. \u201cSome flowers are red\u201d could refer only to non-rose flowers. For example, if all roses are white and some tulips (flowers) are red, both premises are true but no roses are red.",
+        "statistics": {
+          "character_count_output": 199,
+          "character_count_reasoning": 2738,
+          "character_count_completion": 2937,
+          "tokens_output": 56,
+          "tokens_reasoning": 1152,
+          "tokens_completions": 1208
+        }
+      }
+    ]
+  },
+  "Ice cream parlor": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 16",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 16.",
+        "total_score": 1.0,
+        "original_question": "The 9 members of a baseball team went to an ice cream parlor after their game. Each player had a singlescoop cone of chocolate, vanilla, or strawberry ice cream. At least one player chose each flavor, and the number of players who chose chocolate was greater than the number of players who chose vanilla, which was greater than the number of players who chose strawberry. Let $N$ be the number of different assignments of flavors to players that meet these conditions. Find the remainder when $N$ is divided by 1000.",
+        "original_response": "16",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 2312,
+          "character_count_completion": 2314,
+          "tokens_output": 7,
+          "tokens_reasoning": 1344,
+          "tokens_completions": 1351
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 16",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 16.",
+        "total_score": 1.0,
+        "original_question": "The 9 members of a baseball team went to an ice cream parlor after their game. Each player had a singlescoop cone of chocolate, vanilla, or strawberry ice cream. At least one player chose each flavor, and the number of players who chose chocolate was greater than the number of players who chose vanilla, which was greater than the number of players who chose strawberry. Let $N$ be the number of different assignments of flavors to players that meet these conditions. Find the remainder when $N$ is divided by 1000.",
+        "original_response": "16",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 2612,
+          "character_count_completion": 2614,
+          "tokens_output": 7,
+          "tokens_reasoning": 2304,
+          "tokens_completions": 2311
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 16",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly identified the answer as 16.",
+        "total_score": 1.0,
+        "original_question": "The 9 members of a baseball team went to an ice cream parlor after their game. Each player had a singlescoop cone of chocolate, vanilla, or strawberry ice cream. At least one player chose each flavor, and the number of players who chose chocolate was greater than the number of players who chose vanilla, which was greater than the number of players who chose strawberry. Let $N$ be the number of different assignments of flavors to players that meet these conditions. Find the remainder when $N$ is divided by 1000.",
+        "original_response": "Possible (chocolate, vanilla, strawberry) count triples with c > v > s \u2265 1 and c + v + s = 9 are:\n- (6, 2, 1), (5, 3, 1), (4, 3, 2)\n\nNumber of assignments for each:\n- 9!/(6!2!1!) = 252\n- 9!/(5!3!1!) = 504\n- 9!/(4!3!2!) = 1260\n\nTotal N = 252 + 504 + 1260 = 2016. Thus N mod 1000 = 16.\n\nAnswer: 16",
+        "statistics": {
+          "character_count_output": 295,
+          "character_count_reasoning": 3371,
+          "character_count_completion": 3666,
+          "tokens_output": 148,
+          "tokens_reasoning": 3136,
+          "tokens_completions": 3284
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 16",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 16.",
+        "total_score": 1.0,
+        "original_question": "The 9 members of a baseball team went to an ice cream parlor after their game. Each player had a singlescoop cone of chocolate, vanilla, or strawberry ice cream. At least one player chose each flavor, and the number of players who chose chocolate was greater than the number of players who chose vanilla, which was greater than the number of players who chose strawberry. Let $N$ be the number of different assignments of flavors to players that meet these conditions. Find the remainder when $N$ is divided by 1000.",
+        "original_response": "16",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 3117,
+          "character_count_completion": 3119,
+          "tokens_output": 7,
+          "tokens_reasoning": 3328,
+          "tokens_completions": 3335
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 16",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly provides the answer 16.",
+        "total_score": 1.0,
+        "original_question": "The 9 members of a baseball team went to an ice cream parlor after their game. Each player had a singlescoop cone of chocolate, vanilla, or strawberry ice cream. At least one player chose each flavor, and the number of players who chose chocolate was greater than the number of players who chose vanilla, which was greater than the number of players who chose strawberry. Let $N$ be the number of different assignments of flavors to players that meet these conditions. Find the remainder when $N$ is divided by 1000.",
+        "original_response": "16",
+        "statistics": {
+          "character_count_output": 2,
+          "character_count_reasoning": 3317,
+          "character_count_completion": 3319,
+          "tokens_output": 7,
+          "tokens_reasoning": 2880,
+          "tokens_completions": 2887
+        }
+      }
+    ]
+  },
+  "Integer pairs": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 117",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 117.",
+        "total_score": 1.0,
+        "original_question": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+        "original_response": "117",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 3522,
+          "character_count_completion": 3525,
+          "tokens_output": 7,
+          "tokens_reasoning": 3648,
+          "tokens_completions": 3655
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 117",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 117.",
+        "total_score": 1.0,
+        "original_question": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+        "original_response": "117",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 3529,
+          "character_count_completion": 3532,
+          "tokens_output": 7,
+          "tokens_reasoning": 4288,
+          "tokens_completions": 4295
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 117",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 117.",
+        "total_score": 1.0,
+        "original_question": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+        "original_response": "117",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 4052,
+          "character_count_completion": 4055,
+          "tokens_output": 7,
+          "tokens_reasoning": 4864,
+          "tokens_completions": 4871
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 117",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 117.",
+        "total_score": 1.0,
+        "original_question": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+        "original_response": "117",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 2708,
+          "character_count_completion": 2711,
+          "tokens_output": 7,
+          "tokens_reasoning": 3584,
+          "tokens_completions": 3591
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer is 117",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states the answer as 117.",
+        "total_score": 1.0,
+        "original_question": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+        "original_response": "117",
+        "statistics": {
+          "character_count_output": 3,
+          "character_count_reasoning": 3174,
+          "character_count_completion": 3177,
+          "tokens_output": 7,
+          "tokens_reasoning": 3520,
+          "tokens_completions": 3527
+        }
+      }
+    ]
+  },
+  "bridge_torch_impossible": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer concludes that it is impossible to solve within 17 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states that 17 minutes is impossible with the given times.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can only support two people at a time, and they share a single torch. Person A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four across in no more than 17 minutes. How can they do it?",
+        "original_response": "With the given times (1, 3, 5, 10), 17 minutes is impossible. The fastest possible is 20 minutes. One optimal sequence:\n\n- A and B cross: 3 (total 3)\n- A returns: 1 (total 4)\n- C and D cross: 10 (total 14)\n- B returns: 3 (total 17)\n- A and B cross: 3 (total 20)\n\nIf B were 2 minutes (the classic version), then 17 minutes is achievable:\n- A and B cross (2), A returns (1), C and D cross (10), B returns (2), A and B cross (2) = 17.",
+        "statistics": {
+          "character_count_output": 431,
+          "character_count_reasoning": 8003,
+          "character_count_completion": 8434,
+          "tokens_output": 155,
+          "tokens_reasoning": 10944,
+          "tokens_completions": 11099
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer concludes that it is impossible to solve within 17 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states that it is not possible to solve the problem within 17 minutes with the given times.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can only support two people at a time, and they share a single torch. Person A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four across in no more than 17 minutes. How can they do it?",
+        "original_response": "It\u2019s not possible in 17 minutes with times 1, 3, 5, and 10. The optimal plan takes 20 minutes:\n- A+B cross (3)\n- A returns (1)\n- C+D cross (10)\n- B returns (3)\n- A+B cross (3)\nTotal = 20.\n\nNote: The classic 17-minute solution works when the times are 1, 2, 5, and 10:\nA+B (2), A back (1), C+D (10), B back (2), A+B (2) = 17.",
+        "statistics": {
+          "character_count_output": 324,
+          "character_count_reasoning": 4726,
+          "character_count_completion": 5050,
+          "tokens_output": 130,
+          "tokens_reasoning": 6336,
+          "tokens_completions": 6466
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer concludes that it is impossible to solve within 17 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states that it cannot be done in 17 minutes with the given times.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can only support two people at a time, and they share a single torch. Person A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four across in no more than 17 minutes. How can they do it?",
+        "original_response": "It can\u2019t be done in 17 minutes with times 1, 3, 5, and 10. The minimum is 20.\n\nReason (brief): The three forward crossings must include D (\u226510), C (\u22655), and one more pair (\u22653), totaling at least 18 minutes. Even if the fastest person (A) returns both times (2 minutes), that\u2019s \u226520. An optimal 20-minute sequence is:\n- A + C cross (5)\n- A returns (1)  [total 6]\n- A + D cross (10)\n- A returns (1)  [total 17]\n- A + B cross (3)  [total 20]\n\nIf B were 2 (the classic version: 1, 2, 5, 10), then 17 minutes is achievable:\n- A + B cross (2), A returns (1)\n- C + D cross (10), B returns (2)\n- A + B cross (2)  \u2192 total 17.",
+        "statistics": {
+          "character_count_output": 615,
+          "character_count_reasoning": 6204,
+          "character_count_completion": 6819,
+          "tokens_output": 222,
+          "tokens_reasoning": 8512,
+          "tokens_completions": 8734
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer concludes that it is impossible to solve within 17 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output clearly states that it cannot be done in 17 minutes with the given times.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can only support two people at a time, and they share a single torch. Person A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four across in no more than 17 minutes. How can they do it?",
+        "original_response": "It can\u2019t be done in 17 with times 1, 3, 5, 10. Minimum is 20 minutes.\n\nOne optimal sequence (20 min):\n- A+B cross: 3 (total 3)\n- A returns: 1 (4)\n- C+D cross: 10 (14)\n- B returns: 3 (17)\n- A+B cross: 3 (20)\n\nReason it can\u2019t be 17: the three forward crossings must take at least 10 + 5 + 3 = 18 minutes (since D, C, and then at least A+B must cross), and you need at least two returns totaling \u22652 minutes, so \u226520 overall.\n\nIf B were 2 minutes (the classic version 1,2,5,10), then 17 is achievable:\n- A+B cross (2), A returns (1), C+D cross (10), B returns (2), A+B cross (2) \u2192 17.",
+        "statistics": {
+          "character_count_output": 579,
+          "character_count_reasoning": 5945,
+          "character_count_completion": 6524,
+          "tokens_output": 209,
+          "tokens_reasoning": 8448,
+          "tokens_completions": 8657
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer concludes that it is impossible to solve within 17 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states that it is not possible to solve the puzzle in 17 minutes with the given times.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can only support two people at a time, and they share a single torch. Person A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four across in no more than 17 minutes. How can they do it?",
+        "original_response": "It\u2019s not possible in 17 minutes with times 1, 3, 5, and 10. The minimum is 20 minutes. One optimal schedule:\n\n- A and B cross: 3\n- A returns: 1\n- C and D cross: 10\n- B returns: 3\n- A and B cross: 3\nTotal = 20.\n\n(Note: The classic 17-minute puzzle uses times 1, 2, 5, 10, with sequence 1+2 cross (2), 1 back (1), 5+10 cross (10), 2 back (2), 1+2 cross (2) = 17.)",
+        "statistics": {
+          "character_count_output": 361,
+          "character_count_reasoning": 4781,
+          "character_count_completion": 5142,
+          "tokens_output": 150,
+          "tokens_reasoning": 6912,
+          "tokens_completions": 7062
+        }
+      }
+    ]
+  },
+  "bridge_torch_easy": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output explicitly states: 'And if the bridge really supports four at once, all four can cross together in 10 minutes.'",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "Assuming the standard version of the puzzle (only two can cross at a time, and B = 2 minutes), the 17\u2011minute plan is:\n- A(1) and B(2) cross: 2\n- A returns: 1\n- C(5) and D(10) cross: 10\n- B returns: 2\n- A and B cross: 2\nTotal = 17 minutes.\n\nNote: With your stated times (B = 3), the minimum is 20 minutes. And if the bridge really supports four at once, all four can cross together in 10 minutes.",
+        "statistics": {
+          "character_count_output": 395,
+          "character_count_reasoning": 5328,
+          "character_count_completion": 5723,
+          "tokens_output": 136,
+          "tokens_reasoning": 7104,
+          "tokens_completions": 7240
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output explicitly states 'They all cross together carrying the torch. The crossing takes 10 minutes (set by D), which is under 17.', directly meeting the criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "They all cross together carrying the torch. The crossing takes 10 minutes (set by D), which is under 17.\n\nNote: If you meant the classic \u201conly two at a time\u201d puzzle, 17 minutes is achievable for times 1,2,5,10. With 1,3,5,10 the minimum under that rule is 20.",
+        "statistics": {
+          "character_count_output": 259,
+          "character_count_reasoning": 6246,
+          "character_count_completion": 6505,
+          "tokens_output": 81,
+          "tokens_reasoning": 7104,
+          "tokens_completions": 7185
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that all four cross together in 10 minutes, which aligns with the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "All four cross together with the single torch. Since the bridge supports four at once, they move at the pace of the slowest (D), taking 10 minutes\u2014well under 17.",
+        "statistics": {
+          "character_count_output": 161,
+          "character_count_reasoning": 3730,
+          "character_count_completion": 3891,
+          "tokens_output": 45,
+          "tokens_reasoning": 5248,
+          "tokens_completions": 5293
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output explicitly states 'all four go together with the torch; the time is set by the slowest, so 10 minutes\u2014well under 17.', which directly addresses the criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "As stated (bridge supports four at once), all four go together with the torch; the time is set by the slowest, so 10 minutes\u2014well under 17.\n\nIf you meant the classic \u201conly two at a time\u201d puzzle: with times 1,3,5,10 it can\u2019t be done in 17 (minimum is 20). With 1,2,5,10 the 17-minute sequence is: A+B cross (2), A returns (1), C+D cross (10), B returns (2), A+B cross (2).",
+        "statistics": {
+          "character_count_output": 371,
+          "character_count_reasoning": 4239,
+          "character_count_completion": 4610,
+          "tokens_output": 124,
+          "tokens_reasoning": 5376,
+          "tokens_completions": 5500
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests all four people crossing together in 10 minutes",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states that all four cross together and that it takes 10 minutes.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support four people at a time, and they share a single torch. A takes 1 minute, B takes 3, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "They all cross together with the torch. The group moves at the pace of the slowest (D), so it takes 10 minutes\u2014well under 17.",
+        "statistics": {
+          "character_count_output": 125,
+          "character_count_reasoning": 3721,
+          "character_count_completion": 3846,
+          "tokens_output": 39,
+          "tokens_reasoning": 5056,
+          "tokens_completions": 5095
+        }
+      }
+    ]
+  },
+  "bridge_torch_default": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.",
+            "met": true
+          }
+        ],
+        "feedback": "The output provides a sequence of crossings that totals 17 minutes, meeting the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support two people at a time, and they share a single torch. A takes 1 minute, B takes 2, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "- A and B cross: 2 minutes (total 2)\n- A returns: 1 minute (total 3)\n- C and D cross: 10 minutes (total 13)\n- B returns: 2 minutes (total 15)\n- A and B cross: 2 minutes (total 17)\n\nAll four are across in 17 minutes.",
+        "statistics": {
+          "character_count_output": 215,
+          "character_count_reasoning": 2590,
+          "character_count_completion": 2805,
+          "tokens_output": 81,
+          "tokens_reasoning": 1536,
+          "tokens_completions": 1617
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.",
+            "met": true
+          }
+        ],
+        "feedback": "The output provides a sequence of crossings that totals 17 minutes, meeting the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support two people at a time, and they share a single torch. A takes 1 minute, B takes 2, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "- A and B cross with the torch: 2 minutes (total 2)\n- A returns with the torch: 1 minute (total 3)\n- C and D cross with the torch: 10 minutes (total 13)\n- B returns with the torch: 2 minutes (total 15)\n- A and B cross again: 2 minutes (total 17)\n\nTotal time: 17 minutes.",
+        "statistics": {
+          "character_count_output": 270,
+          "character_count_reasoning": 3639,
+          "character_count_completion": 3909,
+          "tokens_output": 92,
+          "tokens_reasoning": 3648,
+          "tokens_completions": 3740
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.",
+            "met": true
+          }
+        ],
+        "feedback": "The output provides a sequence of crossings that totals 17 minutes, meeting the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support two people at a time, and they share a single torch. A takes 1 minute, B takes 2, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "A and B cross (2 min). A returns (1) \u2014 total 3.\nC and D cross (10) \u2014 total 13.\nB returns (2) \u2014 total 15.\nA and B cross again (2) \u2014 total 17.",
+        "statistics": {
+          "character_count_output": 140,
+          "character_count_reasoning": 1871,
+          "character_count_completion": 2011,
+          "tokens_output": 59,
+          "tokens_reasoning": 1280,
+          "tokens_completions": 1339
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.",
+            "met": true
+          }
+        ],
+        "feedback": "The output provides a sequence of crossings that totals 17 minutes, meeting the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support two people at a time, and they share a single torch. A takes 1 minute, B takes 2, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "- A and B cross: 2 minutes\n- A returns: 1 minute (total 3)\n- C and D cross: 10 minutes (total 13)\n- B returns: 2 minutes (total 15)\n- A and B cross: 2 minutes (total 17)\n\nTotal time = 17 minutes.",
+        "statistics": {
+          "character_count_output": 195,
+          "character_count_reasoning": 2692,
+          "character_count_completion": 2887,
+          "tokens_output": 75,
+          "tokens_reasoning": 1088,
+          "tokens_completions": 1163
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.",
+            "met": true
+          }
+        ],
+        "feedback": "The output provides a sequence of crossings that totals 17 minutes, meeting the specified criterion.",
+        "total_score": 1.0,
+        "original_question": "Four people come to a rickety bridge at night. The bridge can support two people at a time, and they share a single torch. A takes 1 minute, B takes 2, C takes 5, D takes 10. The challenge is to get all four over in no more than 17 minutes. How do they do it?",
+        "original_response": "- A and B cross: 2 minutes (total 2)\n- A returns: 1 minute (total 3)\n- C and D cross: 10 minutes (total 13)\n- B returns: 2 minutes (total 15)\n- A and B cross: 2 minutes (total 17)",
+        "statistics": {
+          "character_count_output": 179,
+          "character_count_reasoning": 2405,
+          "character_count_completion": 2584,
+          "tokens_output": 72,
+          "tokens_reasoning": 1344,
+          "tokens_completions": 1416
+        }
+      }
+    ]
+  },
+  "monty_hall_inverse": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to keep the existing door",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to 'Stay with your original door'.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a donkey, and behind the other two are luxury cars. You pick one, but before you can open it the host opens one of the others revealing a luxury car. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Stay with your original door. With two cars and one donkey, your first pick is a car with probability 2/3. Since the host always reveals a car, switching only helps in the 1/3 case where you initially picked the donkey. So staying gives a 2/3 chance to win a car; switching gives 1/3.",
+        "statistics": {
+          "character_count_output": 284,
+          "character_count_reasoning": 2887,
+          "character_count_completion": 3171,
+          "tokens_output": 78,
+          "tokens_reasoning": 2368,
+          "tokens_completions": 2446
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to keep the existing door",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to 'Stay with your original door', fulfilling the criterion.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a donkey, and behind the other two are luxury cars. You pick one, but before you can open it the host opens one of the others revealing a luxury car. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Stay with your original door. Initially you have a 2/3 chance of having picked a car. Since the host always reveals a car on another door, the remaining unopened door is the donkey in those 2/3 cases. So staying wins with probability 2/3, while switching wins only 1/3 of the time.",
+        "statistics": {
+          "character_count_output": 281,
+          "character_count_reasoning": 3446,
+          "character_count_completion": 3727,
+          "tokens_output": 75,
+          "tokens_reasoning": 3200,
+          "tokens_completions": 3275
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to keep the existing door",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to \"Stay with your original door\" as requested by the criterion.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a donkey, and behind the other two are luxury cars. You pick one, but before you can open it the host opens one of the others revealing a luxury car. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Stay with your original door. Initially you have a 2/3 chance of having picked a car. Since the host always reveals a car, switching only helps when your first pick was the donkey (1/3 of the time). So staying wins a car with probability 2/3, while switching wins with probability 1/3.",
+        "statistics": {
+          "character_count_output": 285,
+          "character_count_reasoning": 3082,
+          "character_count_completion": 3367,
+          "tokens_output": 75,
+          "tokens_reasoning": 2624,
+          "tokens_completions": 2699
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to keep the existing door",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to stay with the original door, which aligns with the provided criterion.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a donkey, and behind the other two are luxury cars. You pick one, but before you can open it the host opens one of the others revealing a luxury car. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Stay with your original door.\n\nReason: Initially you have a 2/3 chance of having picked a car. The host deliberately reveals a car from the other doors. Switching only helps when your first pick was the donkey (1/3 of the time). So staying wins a car 2/3 of the time; switching wins only 1/3.",
+        "statistics": {
+          "character_count_output": 292,
+          "character_count_reasoning": 3563,
+          "character_count_completion": 3855,
+          "tokens_output": 79,
+          "tokens_reasoning": 3456,
+          "tokens_completions": 3535
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to keep the existing door",
+            "met": true
+          }
+        ],
+        "feedback": "The output clearly states to 'Stay with your original door', which directly addresses the criterion.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a donkey, and behind the other two are luxury cars. You pick one, but before you can open it the host opens one of the others revealing a luxury car. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Stay with your original door. With two cars and one donkey, you initially picked a car with probability 2/3. The host can always reveal a car on another door, so switching only wins in the 1/3 case where your first pick was the donkey. Thus staying maximizes your chance of winning a car.",
+        "statistics": {
+          "character_count_output": 288,
+          "character_count_reasoning": 3696,
+          "character_count_completion": 3984,
+          "tokens_output": 72,
+          "tokens_reasoning": 3584,
+          "tokens_completions": 3656
+        }
+      }
+    ]
+  },
+  "monty_hall_default": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to switch doors",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to switch doors.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a luxury car, and behind the other two are donkeys. You pick one, but before you can open it the host opens one of the others revealing a donkey. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Switch to the other unopened door. Your initial pick has a 1/3 chance of the car; the remaining 2/3 chance (that you picked a donkey) transfers to the other unopened door once the host reveals a donkey. So switching wins with probability 2/3, staying wins with 1/3.",
+        "statistics": {
+          "character_count_output": 265,
+          "character_count_reasoning": 1082,
+          "character_count_completion": 1347,
+          "tokens_output": 72,
+          "tokens_reasoning": 320,
+          "tokens_completions": 392
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to switch doors",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to switch doors, which aligns with the provided criterion.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a luxury car, and behind the other two are donkeys. You pick one, but before you can open it the host opens one of the others revealing a donkey. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Switch to the other unopened door. Your initial pick has a 1/3 chance of being the car; after the host reveals a donkey, the other door has a 2/3 chance, so switching doubles your odds of winning.",
+        "statistics": {
+          "character_count_output": 196,
+          "character_count_reasoning": 903,
+          "character_count_completion": 1099,
+          "tokens_output": 54,
+          "tokens_reasoning": 384,
+          "tokens_completions": 438
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to switch doors",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to switch doors, fulfilling the criterion.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a luxury car, and behind the other two are donkeys. You pick one, but before you can open it the host opens one of the others revealing a donkey. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Switch to the other unopened door; it raises your chance of winning from 1/3 to 2/3.",
+        "statistics": {
+          "character_count_output": 84,
+          "character_count_reasoning": 1409,
+          "character_count_completion": 1493,
+          "tokens_output": 30,
+          "tokens_reasoning": 576,
+          "tokens_completions": 606
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to switch doors",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly states to switch doors.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a luxury car, and behind the other two are donkeys. You pick one, but before you can open it the host opens one of the others revealing a donkey. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Switch to the other unrevealed door. Under the usual rules (host knows where the car is, always opens a donkey, and always offers a switch), switching wins with probability 2/3, while staying wins with probability 1/3.",
+        "statistics": {
+          "character_count_output": 218,
+          "character_count_reasoning": 955,
+          "character_count_completion": 1173,
+          "tokens_output": 57,
+          "tokens_reasoning": 384,
+          "tokens_completions": 441
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer states to switch doors",
+            "met": true
+          }
+        ],
+        "feedback": "The model correctly states to switch doors.",
+        "total_score": 1.0,
+        "original_question": "You're on a game show and are presented with three doors. Behind one is a luxury car, and behind the other two are donkeys. You pick one, but before you can open it the host opens one of the others revealing a donkey. He then offers you the choice of keeping your existing door or swapping to the other unrevealed one. What should you do to win a car?",
+        "original_response": "Switch doors. Your first pick has a 1/3 chance of being the car; after the host reveals a donkey, the other unopened door carries the remaining 2/3 chance, so switching doubles your odds.",
+        "statistics": {
+          "character_count_output": 187,
+          "character_count_reasoning": 910,
+          "character_count_completion": 1097,
+          "tokens_output": 50,
+          "tokens_reasoning": 320,
+          "tokens_completions": 370
+        }
+      }
+    ]
+  },
+  "monty_appliance_simple": {
+    "gpt-5": [
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests to take the box the clerk tested",
+            "met": true
+          }
+        ],
+        "feedback": "The output clearly states to pick 'The box the clerk opened and tested', which directly addresses the criterion.",
+        "total_score": 1.0,
+        "original_question": "A customer comes into a hardware store and is about to pick up a boxed appliance from a stack of four. The sales clerk interrupts, 'one of the appliances may be defective' and proceeds to randomly open one of the boxes and test the product to find that one is in flawless order. Which box should the customer pick?",
+        "original_response": "The box the clerk opened and tested. It\u2019s the only one known to be good; each of the other three still has some chance of being the defective one.",
+        "statistics": {
+          "character_count_output": 146,
+          "character_count_reasoning": 5244,
+          "character_count_completion": 5390,
+          "tokens_output": 39,
+          "tokens_reasoning": 6208,
+          "tokens_completions": 6247
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests to take the box the clerk tested",
+            "met": true
+          }
+        ],
+        "feedback": "The output directly suggests taking the box the clerk opened and tested, which aligns with the criterion.",
+        "total_score": 1.0,
+        "original_question": "A customer comes into a hardware store and is about to pick up a boxed appliance from a stack of four. The sales clerk interrupts, 'one of the appliances may be defective' and proceeds to randomly open one of the boxes and test the product to find that one is in flawless order. Which box should the customer pick?",
+        "original_response": "The one the clerk opened and tested\u2014it\u2019s the only one known to be good.",
+        "statistics": {
+          "character_count_output": 71,
+          "character_count_reasoning": 4910,
+          "character_count_completion": 4981,
+          "tokens_output": 23,
+          "tokens_reasoning": 5312,
+          "tokens_completions": 5335
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests to take the box the clerk tested",
+            "met": true
+          }
+        ],
+        "feedback": "The output directly suggests taking the box the clerk opened and tested, which aligns with the criterion.",
+        "total_score": 1.0,
+        "original_question": "A customer comes into a hardware store and is about to pick up a boxed appliance from a stack of four. The sales clerk interrupts, 'one of the appliances may be defective' and proceeds to randomly open one of the boxes and test the product to find that one is in flawless order. Which box should the customer pick?",
+        "original_response": "The one the clerk opened and tested. It\u2019s verified to be good; the other three still include any possible defective unit.",
+        "statistics": {
+          "character_count_output": 121,
+          "character_count_reasoning": 3510,
+          "character_count_completion": 3631,
+          "tokens_output": 31,
+          "tokens_reasoning": 3392,
+          "tokens_completions": 3423
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests to take the box the clerk tested",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly identifies that the customer should pick the opened, tested box, as it is guaranteed to be good.",
+        "total_score": 1.0,
+        "original_question": "A customer comes into a hardware store and is about to pick up a boxed appliance from a stack of four. The sales clerk interrupts, 'one of the appliances may be defective' and proceeds to randomly open one of the boxes and test the product to find that one is in flawless order. Which box should the customer pick?",
+        "original_response": "The opened, tested box. It\u2019s guaranteed to be good; each of the other three has a 1-in-3 chance of being the defective one.",
+        "statistics": {
+          "character_count_output": 123,
+          "character_count_reasoning": 4136,
+          "character_count_completion": 4259,
+          "tokens_output": 38,
+          "tokens_reasoning": 3776,
+          "tokens_completions": 3814
+        }
+      },
+      {
+        "criteria_results": [
+          {
+            "criterion": "Answer suggests to take the box the clerk tested",
+            "met": true
+          }
+        ],
+        "feedback": "The output correctly suggests taking the box the clerk tested.",
+        "total_score": 1.0,
+        "original_question": "A customer comes into a hardware store and is about to pick up a boxed appliance from a stack of four. The sales clerk interrupts, 'one of the appliances may be defective' and proceeds to randomly open one of the boxes and test the product to find that one is in flawless order. Which box should the customer pick?",
+        "original_response": "The one the clerk opened and tested. It\u2019s confirmed to work; among the other three, the defect (if any) is equally likely, so there\u2019s no advantage between them.",
+        "statistics": {
+          "character_count_output": 160,
+          "character_count_reasoning": 5371,
+          "character_count_completion": 5531,
+          "tokens_output": 43,
+          "tokens_reasoning": 5632,
+          "tokens_completions": 5675
+        }
+      }
+    ]
+  }
+}

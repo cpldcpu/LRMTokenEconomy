@@ -1,0 +1,287 @@
+{
+  "one_plus_one": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 2": 1.0
+      },
+      "avg_character_count_output": 1.0,
+      "avg_character_count_reasoning": 593.8,
+      "avg_character_count_completion": 594.8,
+      "avg_tokens_output": 7.0,
+      "avg_tokens_reasoning": 166.4,
+      "avg_tokens_completions": 173.4
+    }
+  },
+  "bridge_torch_easy_10m": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 1.0
+      },
+      "avg_character_count_output": 161.8,
+      "avg_character_count_reasoning": 3185.0,
+      "avg_character_count_completion": 3346.8,
+      "avg_tokens_output": 44.4,
+      "avg_tokens_reasoning": 2444.8,
+      "avg_tokens_completions": 2489.2
+    }
+  },
+  "AIME2023II_P1": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 220": 1.0
+      },
+      "avg_character_count_output": 36.8,
+      "avg_character_count_reasoning": 1424.4,
+      "avg_character_count_completion": 1461.2,
+      "avg_tokens_output": 24.0,
+      "avg_tokens_reasoning": 614.4,
+      "avg_tokens_completions": 638.4
+    }
+  },
+  "AIME2023II_P1_mod": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 660": 1.0
+      },
+      "avg_character_count_output": 47.8,
+      "avg_character_count_reasoning": 1598.6,
+      "avg_character_count_completion": 1646.4,
+      "avg_tokens_output": 28.6,
+      "avg_tokens_reasoning": 652.8,
+      "avg_tokens_completions": 681.4
+    }
+  },
+  "AIME2025I_P2_modified": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 41": 1.0
+      },
+      "avg_character_count_output": 190.2,
+      "avg_character_count_reasoning": 2283.2,
+      "avg_character_count_completion": 2473.4,
+      "avg_tokens_output": 112.2,
+      "avg_tokens_reasoning": 1638.4,
+      "avg_tokens_completions": 1750.6
+    }
+  },
+  "AIME2025I_Problem_2": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 49": 1.0
+      },
+      "avg_character_count_output": 122.2,
+      "avg_character_count_reasoning": 2495.8,
+      "avg_character_count_completion": 2618.0,
+      "avg_tokens_output": 72.0,
+      "avg_tokens_reasoning": 2048.0,
+      "avg_tokens_completions": 2120.0
+    }
+  },
+  "capital_of_australia": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is Canberra": 1.0
+      },
+      "avg_character_count_output": 9.8,
+      "avg_character_count_reasoning": 272.2,
+      "avg_character_count_completion": 282.0,
+      "avg_tokens_output": 8.4,
+      "avg_tokens_reasoning": 115.2,
+      "avg_tokens_completions": 123.6
+    }
+  },
+  "train_distance": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 150 kilometers": 1.0
+      },
+      "avg_character_count_output": 14.0,
+      "avg_character_count_reasoning": 338.6,
+      "avg_character_count_completion": 352.6,
+      "avg_tokens_output": 8.0,
+      "avg_tokens_reasoning": 128.0,
+      "avg_tokens_completions": 136.0
+    }
+  },
+  "brazil_continent": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is South America": 1.0
+      },
+      "avg_character_count_output": 13.4,
+      "avg_character_count_reasoning": 327.0,
+      "avg_character_count_completion": 340.4,
+      "avg_tokens_output": 8.4,
+      "avg_tokens_reasoning": 128.0,
+      "avg_tokens_completions": 136.4
+    }
+  },
+  "leap_year_february_days": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 29": 1.0
+      },
+      "avg_character_count_output": 7.0,
+      "avg_character_count_reasoning": 509.4,
+      "avg_character_count_completion": 516.4,
+      "avg_tokens_output": 8.6,
+      "avg_tokens_reasoning": 128.0,
+      "avg_tokens_completions": 136.6
+    }
+  },
+  "roses_logic": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "No, we cannot conclude that some roses are red.": 1.0
+      },
+      "avg_character_count_output": 172.8,
+      "avg_character_count_reasoning": 2601.4,
+      "avg_character_count_completion": 2774.2,
+      "avg_tokens_output": 49.2,
+      "avg_tokens_reasoning": 1177.6,
+      "avg_tokens_completions": 1226.8
+    }
+  },
+  "Ice cream parlor": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 16": 1.0
+      },
+      "avg_character_count_output": 60.6,
+      "avg_character_count_reasoning": 2945.8,
+      "avg_character_count_completion": 3006.4,
+      "avg_tokens_output": 35.2,
+      "avg_tokens_reasoning": 2598.4,
+      "avg_tokens_completions": 2633.6
+    }
+  },
+  "Integer pairs": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 117": 1.0
+      },
+      "avg_character_count_output": 3.0,
+      "avg_character_count_reasoning": 3397.0,
+      "avg_character_count_completion": 3400.0,
+      "avg_tokens_output": 7.0,
+      "avg_tokens_reasoning": 3980.8,
+      "avg_tokens_completions": 3987.8
+    }
+  },
+  "bridge_torch_impossible": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer concludes that it is impossible to solve within 17 minutes": 1.0
+      },
+      "avg_character_count_output": 462.0,
+      "avg_character_count_reasoning": 5931.8,
+      "avg_character_count_completion": 6393.8,
+      "avg_tokens_output": 173.2,
+      "avg_tokens_reasoning": 8230.4,
+      "avg_tokens_completions": 8403.6
+    }
+  },
+  "bridge_torch_easy": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 1.0
+      },
+      "avg_character_count_output": 262.2,
+      "avg_character_count_reasoning": 4652.8,
+      "avg_character_count_completion": 4915.0,
+      "avg_tokens_output": 85.0,
+      "avg_tokens_reasoning": 5977.6,
+      "avg_tokens_completions": 6062.6
+    }
+  },
+  "bridge_torch_default": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.": 1.0
+      },
+      "avg_character_count_output": 199.8,
+      "avg_character_count_reasoning": 2639.4,
+      "avg_character_count_completion": 2839.2,
+      "avg_tokens_output": 75.8,
+      "avg_tokens_reasoning": 1779.2,
+      "avg_tokens_completions": 1855.0
+    }
+  },
+  "monty_hall_inverse": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to keep the existing door": 1.0
+      },
+      "avg_character_count_output": 286.0,
+      "avg_character_count_reasoning": 3334.8,
+      "avg_character_count_completion": 3620.8,
+      "avg_tokens_output": 75.8,
+      "avg_tokens_reasoning": 3046.4,
+      "avg_tokens_completions": 3122.2
+    }
+  },
+  "monty_hall_default": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to switch doors": 1.0
+      },
+      "avg_character_count_output": 190.0,
+      "avg_character_count_reasoning": 1051.8,
+      "avg_character_count_completion": 1241.8,
+      "avg_tokens_output": 52.6,
+      "avg_tokens_reasoning": 396.8,
+      "avg_tokens_completions": 449.4
+    }
+  },
+  "monty_appliance_simple": {
+    "gpt-5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests to take the box the clerk tested": 1.0
+      },
+      "avg_character_count_output": 124.2,
+      "avg_character_count_reasoning": 4634.2,
+      "avg_character_count_completion": 4758.4,
+      "avg_tokens_output": 34.8,
+      "avg_tokens_reasoning": 4864.0,
+      "avg_tokens_completions": 4898.8
+    }
+  }
+}

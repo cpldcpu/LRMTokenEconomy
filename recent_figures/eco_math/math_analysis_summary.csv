@@ -1,0 +1,97 @@
+llm,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1,Math,True,True,2082.6,0.7754486506394729,1.0,5
+DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1_mod,Math,True,True,1754.8,0.7824573211552002,1.0,5
+DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.8814328429128342,1.0,5
+DeepHermes-3-Mistral-24B-Pre,AIME2025I_Problem_2,Math,True,True,7966.4,0.9316416323883994,1.0,5
+DeepHermes-3-Mistral-24B-Pre,Ice cream parlor,Math,True,True,4094.6,0.8666108124658033,0.8,5
+DeepHermes-3-Mistral-24B-Pre,Integer pairs,Math,True,True,8754.8,0.9207421373719237,0.6,5
+claude-4-sonnet-0522-thinking,AIME2023II_P1,Math,False,False,1831.4,0.6972889237080703,1.0,5
+claude-4-sonnet-0522-thinking,AIME2023II_P1_mod,Math,False,False,2650.0,0.7801433370770015,1.0,5
+claude-4-sonnet-0522-thinking,AIME2025I_P2_modified,Math,False,False,7479.4,0.9356501530731911,1.0,5
+claude-4-sonnet-0522-thinking,AIME2025I_Problem_2,Math,False,False,5118.2,0.8828246934418484,1.0,5
+claude-4-sonnet-0522-thinking,Ice cream parlor,Math,False,False,3905.6,0.7990363081194171,1.0,5
+claude-4-sonnet-0522-thinking,Integer pairs,Math,False,False,8508.4,0.914769117559819,1.0,5
+claude-opus-4.1,AIME2023II_P1,Math,False,False,1103.2,0.6189751466049487,1.0,5
+claude-opus-4.1,AIME2023II_P1_mod,Math,False,False,1540.4,0.6837265348596889,1.0,5
+claude-opus-4.1,AIME2025I_P2_modified,Math,False,False,2275.4,0.8050469170598691,1.0,5
+claude-opus-4.1,AIME2025I_Problem_2,Math,False,False,3314.6,0.8344058462402375,1.0,5
+claude-opus-4.1,Ice cream parlor,Math,False,False,3077.8,0.7775144591349518,1.0,5
+claude-opus-4.1,Integer pairs,Math,False,False,4914.4,0.8461016760552571,1.0,5
+deepseek-r1-0528,AIME2023II_P1,Math,True,True,4122.6,0.7517499955303253,1.0,5
+deepseek-r1-0528,AIME2023II_P1_mod,Math,True,True,4005.2,0.7596158947621519,1.0,5
+deepseek-r1-0528,AIME2025I_P2_modified,Math,True,True,6261.6,0.6320592969756006,1.0,5
+deepseek-r1-0528,AIME2025I_Problem_2,Math,True,True,7673.4,0.6722797835085202,1.0,5
+deepseek-r1-0528,Ice cream parlor,Math,True,True,11761.6,0.7951428292191849,1.0,5
+deepseek-r1-0528,Integer pairs,Math,True,True,13108.0,0.7012631194377559,1.0,5
+gemini-2.5-flash-high,AIME2023II_P1,Math,False,False,4612.4,0.7509345903010345,1.0,5
+gemini-2.5-flash-high,AIME2023II_P1_mod,Math,False,False,4206.2,0.7051603859375808,1.0,5
+gemini-2.5-flash-high,AIME2025I_P2_modified,Math,False,False,2878.2,0.6767252147069028,1.0,5
+gemini-2.5-flash-high,AIME2025I_Problem_2,Math,False,False,3551.0,0.6849696278116582,1.0,5
+gemini-2.5-flash-high,Ice cream parlor,Math,False,False,5752.4,0.733081053454214,1.0,5
+gemini-2.5-flash-high,Integer pairs,Math,False,False,5679.2,0.7200639256588726,1.0,5
+gemini-2.5-pro,AIME2023II_P1,Math,False,False,2627.8,0.7668080142735223,1.0,5
+gemini-2.5-pro,AIME2023II_P1_mod,Math,False,False,2502.2,0.7800854273723588,1.0,5
+gemini-2.5-pro,AIME2025I_P2_modified,Math,False,False,6104.2,0.8380631655424893,1.0,5
+gemini-2.5-pro,AIME2025I_Problem_2,Math,False,False,5457.4,0.8289888694178579,1.0,5
+gemini-2.5-pro,Ice cream parlor,Math,False,False,9480.8,0.8162300045585109,1.0,5
+gemini-2.5-pro,Integer pairs,Math,False,False,5951.2,0.7562423742066052,1.0,5
+glm-4.5,AIME2023II_P1,Math,True,True,2945.2,0.6877835303647977,1.0,5
+glm-4.5,AIME2023II_P1_mod,Math,True,True,3238.8,0.6700382769417946,1.0,5
+glm-4.5,AIME2025I_P2_modified,Math,True,True,7682.8,0.6406280424465303,1.0,5
+glm-4.5,AIME2025I_Problem_2,Math,True,True,7284.0,0.6396240435600836,1.0,5
+glm-4.5,Ice cream parlor,Math,True,True,11828.0,0.7523180404546309,1.0,5
+glm-4.5,Integer pairs,Math,True,True,12466.2,0.6806493386266441,1.0,5
+gpt-5,AIME2023II_P1,Math,False,False,638.4,0.9459860999994885,1.0,5
+gpt-5,AIME2023II_P1_mod,Math,False,False,681.4,0.9584063607249563,1.0,5
+gpt-5,AIME2025I_P2_modified,Math,False,False,1750.6,0.9325625135472089,1.0,5
+gpt-5,AIME2025I_Problem_2,Math,False,False,2120.0,0.9585088287848693,1.0,5
+gpt-5,Ice cream parlor,Math,False,False,2633.6,0.9884398113587114,1.0,5
+gpt-5,Integer pairs,Math,False,False,3987.8,0.9982167858747447,1.0,5
+gpt-oss-120b,AIME2023II_P1,Math,True,True,555.8,0.28765212735427953,1.0,5
+gpt-oss-120b,AIME2023II_P1_mod,Math,True,True,582.2,0.2899763875781489,1.0,5
+gpt-oss-120b,AIME2025I_P2_modified,Math,True,True,1056.4,0.3949745771040422,1.0,5
+gpt-oss-120b,AIME2025I_Problem_2,Math,True,True,1127.0,0.42604791682064896,1.0,5
+gpt-oss-120b,Ice cream parlor,Math,True,True,1552.6,0.44008997143459466,1.0,5
+gpt-oss-120b,Integer pairs,Math,True,True,2428.2,0.4972090144834425,1.0,5
+grok-4-07-09,AIME2023II_P1,Math,False,False,967.4,0.9989172799187325,1.0,5
+grok-4-07-09,AIME2023II_P1_mod,Math,False,False,1014.6,0.9988932266730641,1.0,5
+grok-4-07-09,AIME2025I_P2_modified,Math,False,False,1922.6,0.9994439359449497,1.0,5
+grok-4-07-09,AIME2025I_Problem_2,Math,False,False,2093.0,0.9994997007845438,1.0,5
+grok-4-07-09,Ice cream parlor,Math,False,False,1953.0,0.9983129749387215,1.0,5
+grok-4-07-09,Integer pairs,Math,False,False,2340.0,0.9995455657458537,1.0,5
+llama-3.3-nemotron-super-49b-v1,AIME2023II_P1,Math,True,True,1352.0,0.6951046858077288,1.0,5
+llama-3.3-nemotron-super-49b-v1,AIME2023II_P1_mod,Math,True,True,1348.4,0.6792001528318392,1.0,5
+llama-3.3-nemotron-super-49b-v1,AIME2025I_P2_modified,Math,True,True,2893.4,0.8474965267835444,1.0,5
+llama-3.3-nemotron-super-49b-v1,AIME2025I_Problem_2,Math,True,True,2626.2,0.8531466884286028,1.0,5
+llama-3.3-nemotron-super-49b-v1,Ice cream parlor,Math,True,True,3399.4,0.8535690785141131,1.0,5
+llama-3.3-nemotron-super-49b-v1,Integer pairs,Math,True,True,5347.0,0.8976721876811202,1.0,5
+magistral-medium-2506-thinking,AIME2023II_P1,Math,True,True,4047.0,0.8009359720611094,1.0,5
+magistral-medium-2506-thinking,AIME2023II_P1_mod,Math,True,True,6957.8,0.7927400352316507,1.0,5
+magistral-medium-2506-thinking,AIME2025I_P2_modified,Math,True,True,15442.4,0.6640565314035468,1.0,5
+magistral-medium-2506-thinking,AIME2025I_Problem_2,Math,True,True,12691.0,0.6686758769395205,1.0,5
+magistral-medium-2506-thinking,Ice cream parlor,Math,True,True,18182.4,0.7004302934273026,1.0,5
+magistral-medium-2506-thinking,Integer pairs,Math,True,True,11920.4,0.7079806723145469,1.0,5
+magistral-small-2506,AIME2023II_P1,Math,True,True,4621.2,0.800601249846182,1.0,5
+magistral-small-2506,AIME2023II_P1_mod,Math,True,True,6520.6,0.7830932079011278,1.0,5
+magistral-small-2506,AIME2025I_P2_modified,Math,True,True,12274.3,0.6666723241978741,1.0,10
+magistral-small-2506,AIME2025I_Problem_2,Math,True,True,11594.8,0.6816257633356103,1.0,5
+magistral-small-2506,Ice cream parlor,Math,True,True,14684.6,0.7299312445505164,1.0,5
+magistral-small-2506,Integer pairs,Math,True,True,17729.0,0.7036731588780671,1.0,5
+minimax-m1,AIME2023II_P1,Math,True,True,3911.2,0.8816408688894315,1.0,5
+minimax-m1,AIME2023II_P1_mod,Math,True,True,3660.8,0.846344819330265,1.0,5
+minimax-m1,AIME2025I_P2_modified,Math,True,True,8652.8,0.9426956171837778,1.0,5
+minimax-m1,AIME2025I_Problem_2,Math,True,True,7188.0,0.942268644655117,1.0,5
+minimax-m1,Ice cream parlor,Math,True,True,9809.0,0.9538222793801401,1.0,5
+minimax-m1,Integer pairs,Math,True,True,12751.6,0.9502739867041015,1.0,5
+o4-mini-high-long,AIME2023II_P1,Math,False,False,417.6,0.8644624987998935,1.0,5
+o4-mini-high-long,AIME2023II_P1_mod,Math,False,False,572.2,0.7561581896669181,1.0,5
+o4-mini-high-long,AIME2025I_P2_modified,Math,False,False,1631.6,0.8814917321425874,1.0,5
+o4-mini-high-long,AIME2025I_Problem_2,Math,False,False,1506.2,0.9082620536967585,1.0,5
+o4-mini-high-long,Ice cream parlor,Math,False,False,2068.0,0.9097087607193244,1.0,5
+o4-mini-high-long,Integer pairs,Math,False,False,2264.0,0.8741448384014273,1.0,5
+qwen3-235b-a22b-thinking-2507,AIME2023II_P1,Math,True,True,5032.4,0.6867106145921784,1.0,5
+qwen3-235b-a22b-thinking-2507,AIME2023II_P1_mod,Math,True,True,5114.0,0.710502324512319,1.0,5
+qwen3-235b-a22b-thinking-2507,AIME2025I_P2_modified,Math,True,True,9257.8,0.5913461408335117,1.0,5
+qwen3-235b-a22b-thinking-2507,AIME2025I_Problem_2,Math,True,True,8739.6,0.59755290319126,1.0,5
+qwen3-235b-a22b-thinking-2507,Ice cream parlor,Math,True,True,15039.666666666666,0.7108630439779193,1.0,3
+qwen3-235b-a22b-thinking-2507,Integer pairs,Math,True,True,12182.0,0.593325219821246,1.0,5

@@ -19,6 +19,11 @@ claude-opus-4.1,capital_of_australia,knowledge,False,False,81.8,0.85039937487680
 claude-opus-4.1,leap_year_february_days,knowledge,False,False,108.6,0.6869986884391748,1.0,5
 claude-opus-4.1,one_plus_one,knowledge,False,False,49.2,0.9409682375450179,1.0,5
 claude-opus-4.1,train_distance,knowledge,False,False,147.8,0.49562789946875885,1.0,5
+deepseek-V3.1,brazil_continent,knowledge,True,True,112.2,0.8544463587788158,1.0,5
+deepseek-V3.1,capital_of_australia,knowledge,True,True,126.2,0.7810890745140744,1.0,5
+deepseek-V3.1,leap_year_february_days,knowledge,True,True,153.6,0.8729904597258227,1.0,5
+deepseek-V3.1,one_plus_one,knowledge,True,True,95.2,0.9422028002647561,1.0,5
+deepseek-V3.1,train_distance,knowledge,True,True,276.6,0.7887480560582109,1.0,5
 deepseek-r1-0528,brazil_continent,knowledge,True,True,234.6,0.7975364112589689,1.0,5
 deepseek-r1-0528,capital_of_australia,knowledge,True,True,360.2,0.6071182573154031,1.0,5
 deepseek-r1-0528,leap_year_february_days,knowledge,True,True,454.6,0.8000288728374947,1.0,5

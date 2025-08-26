@@ -1,4 +1,42 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1,Math,True,True,2082.6,0.7754486506394729,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1_mod,Math,True,True,1754.8,0.7824573211552002,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.8814328429128342,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2025I_Problem_2,Math,True,True,7966.4,0.9316416323883994,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,Ice cream parlor,Math,True,True,4094.6,0.8666108124658033,0.8,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,Integer pairs,Math,True,True,8754.8,0.9207421373719237,0.6,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,brazil_continent,knowledge,True,True,182.2,0.9267117310302732,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_default,logic puzzle,True,True,2025.8,0.8582392443225076,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy,logic puzzle,True,True,13207.6,0.7671649048843106,0.2,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy_10m,logic puzzle,True,True,6842.6,0.9610184909989901,0.8,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_impossible,logic puzzle,True,True,11863.2,0.9686167038088696,0.2,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,capital_of_australia,knowledge,True,True,337.2,0.7904934563718511,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,leap_year_february_days,knowledge,True,True,501.4,0.8202228919314793,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_appliance_simple,logic puzzle,True,True,6444.2,0.9593827471483334,0.8,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_hall_default,logic puzzle,True,True,1124.2,0.7933718289156426,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_hall_inverse,logic puzzle,True,True,3225.2,0.8203498959686311,0.4,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,one_plus_one,knowledge,True,True,497.8,0.902538892035192,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,roses_logic,logic puzzle,True,True,1066.6,0.7839006449121901,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,train_distance,knowledge,True,True,548.4,0.8312690796252735,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2023II_P1,Math,True,True,1486.8,0.6943524648882804,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2023II_P1_mod,Math,True,True,1470.4,0.7090073536608053,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2025I_P2_modified,Math,True,True,3074.4,0.8541754965642496,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2025I_Problem_2,Math,True,True,3360.0,0.8575977834064252,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,Ice cream parlor,Math,True,True,3846.2,0.8889628144089284,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,Integer pairs,Math,True,True,5158.0,0.9037270220086272,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,brazil_continent,knowledge,True,True,268.4,0.7333751551464867,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_default,logic puzzle,True,True,1814.8,0.8308415023469466,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_easy,logic puzzle,True,True,8835.4,0.9232913056874826,0.6,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_easy_10m,logic puzzle,True,True,2013.4,0.9428268108706266,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_impossible,logic puzzle,True,True,10052.0,0.9277765021775393,0.4,5
+Hermes-4-405B,nous,Hermes-4-405B,capital_of_australia,knowledge,True,True,291.0,0.7439618934010326,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,leap_year_february_days,knowledge,True,True,324.4,0.7089024264143651,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,monty_appliance_simple,logic puzzle,True,True,5634.2,0.9687531040579163,0.2,5
+Hermes-4-405B,nous,Hermes-4-405B,monty_hall_default,logic puzzle,True,True,1152.0,0.8049769215651533,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,monty_hall_inverse,logic puzzle,True,True,3520.6,0.9211270862273164,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,one_plus_one,knowledge,True,True,281.2,0.8138907828282378,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,roses_logic,logic puzzle,True,True,750.6,0.7467024974442585,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,train_distance,knowledge,True,True,428.4,0.8283385551851131,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2023II_P1,Math,False,True,2848.8,0.8596737032947264,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2023II_P1_mod,Math,False,True,2766.8,0.8368931305177713,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2025I_P2_modified,Math,False,True,7756.8,0.944303737375427,1.0,5

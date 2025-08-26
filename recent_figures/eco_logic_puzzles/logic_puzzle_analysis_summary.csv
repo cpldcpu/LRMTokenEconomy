@@ -31,6 +31,14 @@ claude-opus-4.1,monty_appliance_simple,logic puzzle,False,False,1069.0,0.6332722
 claude-opus-4.1,monty_hall_default,logic puzzle,False,False,622.0,0.57227122312891,1.0,5
 claude-opus-4.1,monty_hall_inverse,logic puzzle,False,False,730.6,0.5624805869177731,1.0,5
 claude-opus-4.1,roses_logic,logic puzzle,False,False,558.6,0.47321036910679865,1.0,5
+deepseek-V3.1,bridge_torch_default,logic puzzle,True,True,1504.4,0.8568931718542153,1.0,5
+deepseek-V3.1,bridge_torch_easy,logic puzzle,True,True,13855.4,0.9841351868137638,0.4,5
+deepseek-V3.1,bridge_torch_easy_10m,logic puzzle,True,True,5316.6,0.9752093536689973,1.0,5
+deepseek-V3.1,bridge_torch_impossible,logic puzzle,True,True,21088.2,0.9860141128682127,0.2,5
+deepseek-V3.1,monty_appliance_simple,logic puzzle,True,True,5471.4,0.9658401030541708,0.6,5
+deepseek-V3.1,monty_hall_default,logic puzzle,True,True,454.0,0.6584678221056371,1.0,5
+deepseek-V3.1,monty_hall_inverse,logic puzzle,True,True,2128.6,0.8807579172150627,0.8,5
+deepseek-V3.1,roses_logic,logic puzzle,True,True,386.4,0.6885303034526812,1.0,5
 deepseek-r1-0528,bridge_torch_default,logic puzzle,True,True,5915.6,0.9166766772995238,1.0,5
 deepseek-r1-0528,bridge_torch_easy,logic puzzle,True,True,12177.0,0.9695592971356713,1.0,5
 deepseek-r1-0528,bridge_torch_easy_10m,logic puzzle,True,True,5451.0,0.9354679335273246,1.0,5

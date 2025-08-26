@@ -23,6 +23,12 @@ claude-opus-4.1,AIME2025I_P2_modified,Math,False,False,2275.4,0.8050469170598691
 claude-opus-4.1,AIME2025I_Problem_2,Math,False,False,3314.6,0.8344058462402375,1.0,5
 claude-opus-4.1,Ice cream parlor,Math,False,False,3077.8,0.7775144591349518,1.0,5
 claude-opus-4.1,Integer pairs,Math,False,False,4914.4,0.8461016760552571,1.0,5
+deepseek-V3.1,AIME2023II_P1,Math,True,True,547.2,0.4598117328338307,1.0,5
+deepseek-V3.1,AIME2023II_P1_mod,Math,True,True,579.2,0.4458795149685576,1.0,5
+deepseek-V3.1,AIME2025I_P2_modified,Math,True,True,1759.8,0.6640753662819914,1.0,5
+deepseek-V3.1,AIME2025I_Problem_2,Math,True,True,1404.8,0.6385664451175981,1.0,5
+deepseek-V3.1,Ice cream parlor,Math,True,True,2007.0,0.6770559319093747,1.0,5
+deepseek-V3.1,Integer pairs,Math,True,True,1801.4,0.5958939857209815,1.0,5
 deepseek-r1-0528,AIME2023II_P1,Math,True,True,4122.6,0.7517499955303253,1.0,5
 deepseek-r1-0528,AIME2023II_P1_mod,Math,True,True,4005.2,0.7596158947621519,1.0,5
 deepseek-r1-0528,AIME2025I_P2_modified,Math,True,True,6261.6,0.6320592969756006,1.0,5

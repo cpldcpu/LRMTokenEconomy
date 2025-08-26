@@ -113,6 +113,25 @@ claude-opus-4.1,monty_hall_inverse,logic puzzle,False,False,730.6,0.562480586917
 claude-opus-4.1,one_plus_one,knowledge,False,False,49.2,0.9409682375450179,1.0,5
 claude-opus-4.1,roses_logic,logic puzzle,False,False,558.6,0.47321036910679865,1.0,5
 claude-opus-4.1,train_distance,knowledge,False,False,147.8,0.49562789946875885,1.0,5
+deepseek-V3.1,AIME2023II_P1,Math,True,True,547.2,0.4598117328338307,1.0,5
+deepseek-V3.1,AIME2023II_P1_mod,Math,True,True,579.2,0.4458795149685576,1.0,5
+deepseek-V3.1,AIME2025I_P2_modified,Math,True,True,1759.8,0.6640753662819914,1.0,5
+deepseek-V3.1,AIME2025I_Problem_2,Math,True,True,1404.8,0.6385664451175981,1.0,5
+deepseek-V3.1,Ice cream parlor,Math,True,True,2007.0,0.6770559319093747,1.0,5
+deepseek-V3.1,Integer pairs,Math,True,True,1801.4,0.5958939857209815,1.0,5
+deepseek-V3.1,brazil_continent,knowledge,True,True,112.2,0.8544463587788158,1.0,5
+deepseek-V3.1,bridge_torch_default,logic puzzle,True,True,1504.4,0.8568931718542153,1.0,5
+deepseek-V3.1,bridge_torch_easy,logic puzzle,True,True,13855.4,0.9841351868137638,0.4,5
+deepseek-V3.1,bridge_torch_easy_10m,logic puzzle,True,True,5316.6,0.9752093536689973,1.0,5
+deepseek-V3.1,bridge_torch_impossible,logic puzzle,True,True,21088.2,0.9860141128682127,0.2,5
+deepseek-V3.1,capital_of_australia,knowledge,True,True,126.2,0.7810890745140744,1.0,5
+deepseek-V3.1,leap_year_february_days,knowledge,True,True,153.6,0.8729904597258227,1.0,5
+deepseek-V3.1,monty_appliance_simple,logic puzzle,True,True,5471.4,0.9658401030541708,0.6,5
+deepseek-V3.1,monty_hall_default,logic puzzle,True,True,454.0,0.6584678221056371,1.0,5
+deepseek-V3.1,monty_hall_inverse,logic puzzle,True,True,2128.6,0.8807579172150627,0.8,5
+deepseek-V3.1,one_plus_one,knowledge,True,True,95.2,0.9422028002647561,1.0,5
+deepseek-V3.1,roses_logic,logic puzzle,True,True,386.4,0.6885303034526812,1.0,5
+deepseek-V3.1,train_distance,knowledge,True,True,276.6,0.7887480560582109,1.0,5
 deepseek-r1,AIME2023II_P1,Math,True,True,1982.2,0.769239131778362,1.0,5
 deepseek-r1,AIME2023II_P1_mod,Math,True,True,1449.2,0.7232953699324952,1.0,5
 deepseek-r1,AIME2025I_P2_modified,Math,True,True,3170.4,0.8725225763557625,1.0,5

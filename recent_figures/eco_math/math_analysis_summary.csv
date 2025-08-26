@@ -5,6 +5,12 @@ DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.88143
 DeepHermes-3-Mistral-24B-Pre,AIME2025I_Problem_2,Math,True,True,7966.4,0.9316416323883994,1.0,5
 DeepHermes-3-Mistral-24B-Pre,Ice cream parlor,Math,True,True,4094.6,0.8666108124658033,0.8,5
 DeepHermes-3-Mistral-24B-Pre,Integer pairs,Math,True,True,8754.8,0.9207421373719237,0.6,5
+Hermes-4-405B,AIME2023II_P1,Math,True,True,1486.8,0.6943524648882804,1.0,5
+Hermes-4-405B,AIME2023II_P1_mod,Math,True,True,1470.4,0.7090073536608053,1.0,5
+Hermes-4-405B,AIME2025I_P2_modified,Math,True,True,3074.4,0.8541754965642496,1.0,5
+Hermes-4-405B,AIME2025I_Problem_2,Math,True,True,3360.0,0.8575977834064252,1.0,5
+Hermes-4-405B,Ice cream parlor,Math,True,True,3846.2,0.8889628144089284,1.0,5
+Hermes-4-405B,Integer pairs,Math,True,True,5158.0,0.9037270220086272,1.0,5
 claude-4-sonnet-0522-thinking,AIME2023II_P1,Math,False,False,1831.4,0.6972889237080703,1.0,5
 claude-4-sonnet-0522-thinking,AIME2023II_P1_mod,Math,False,False,2650.0,0.7801433370770015,1.0,5
 claude-4-sonnet-0522-thinking,AIME2025I_P2_modified,Math,False,False,7479.4,0.9356501530731911,1.0,5

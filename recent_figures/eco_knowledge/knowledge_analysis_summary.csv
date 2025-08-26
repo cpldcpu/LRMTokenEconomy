@@ -4,6 +4,11 @@ DeepHermes-3-Mistral-24B-Pre,capital_of_australia,knowledge,True,True,337.2,0.79
 DeepHermes-3-Mistral-24B-Pre,leap_year_february_days,knowledge,True,True,501.4,0.8202228919314793,1.0,5
 DeepHermes-3-Mistral-24B-Pre,one_plus_one,knowledge,True,True,497.8,0.902538892035192,1.0,5
 DeepHermes-3-Mistral-24B-Pre,train_distance,knowledge,True,True,548.4,0.8312690796252735,1.0,5
+Hermes-4-405B,brazil_continent,knowledge,True,True,268.4,0.7333751551464867,1.0,5
+Hermes-4-405B,capital_of_australia,knowledge,True,True,291.0,0.7439618934010326,1.0,5
+Hermes-4-405B,leap_year_february_days,knowledge,True,True,324.4,0.7089024264143651,1.0,5
+Hermes-4-405B,one_plus_one,knowledge,True,True,281.2,0.8138907828282378,1.0,5
+Hermes-4-405B,train_distance,knowledge,True,True,428.4,0.8283385551851131,1.0,5
 claude-4-sonnet-0522-thinking,brazil_continent,knowledge,False,False,55.6,0.6982442079175211,1.0,5
 claude-4-sonnet-0522-thinking,capital_of_australia,knowledge,False,False,86.8,0.861971565795535,1.0,5
 claude-4-sonnet-0522-thinking,leap_year_february_days,knowledge,False,False,161.0,0.5719644720179738,1.0,5

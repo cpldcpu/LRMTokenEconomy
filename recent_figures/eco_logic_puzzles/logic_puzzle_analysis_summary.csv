@@ -7,6 +7,14 @@ DeepHermes-3-Mistral-24B-Pre,monty_appliance_simple,logic puzzle,True,True,6444.
 DeepHermes-3-Mistral-24B-Pre,monty_hall_default,logic puzzle,True,True,1124.2,0.7933718289156426,1.0,5
 DeepHermes-3-Mistral-24B-Pre,monty_hall_inverse,logic puzzle,True,True,3225.2,0.8203498959686311,0.4,5
 DeepHermes-3-Mistral-24B-Pre,roses_logic,logic puzzle,True,True,1066.6,0.7839006449121901,1.0,5
+Hermes-4-405B,bridge_torch_default,logic puzzle,True,True,1814.8,0.8308415023469466,1.0,5
+Hermes-4-405B,bridge_torch_easy,logic puzzle,True,True,8835.4,0.9232913056874826,0.6,5
+Hermes-4-405B,bridge_torch_easy_10m,logic puzzle,True,True,2013.4,0.9428268108706266,1.0,5
+Hermes-4-405B,bridge_torch_impossible,logic puzzle,True,True,10052.0,0.9277765021775393,0.4,5
+Hermes-4-405B,monty_appliance_simple,logic puzzle,True,True,5634.2,0.9687531040579163,0.2,5
+Hermes-4-405B,monty_hall_default,logic puzzle,True,True,1152.0,0.8049769215651533,1.0,5
+Hermes-4-405B,monty_hall_inverse,logic puzzle,True,True,3520.6,0.9211270862273164,1.0,5
+Hermes-4-405B,roses_logic,logic puzzle,True,True,750.6,0.7467024974442585,1.0,5
 claude-4-sonnet-0522-thinking,bridge_torch_default,logic puzzle,False,False,1821.6,0.7915007490655801,1.0,5
 claude-4-sonnet-0522-thinking,bridge_torch_easy,logic puzzle,False,False,5745.0,0.9302379352608595,0.6,5
 claude-4-sonnet-0522-thinking,bridge_torch_easy_10m,logic puzzle,False,False,4446.2,0.9116074420764615,1.0,5

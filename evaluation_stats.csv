@@ -39,6 +39,11 @@ one_plus_one,Knowledge,knowledge,One plus one,deepseek-r1,deepseek,2,True,True,6
 one_plus_one,Knowledge,knowledge,One plus one,deepseek-r1,deepseek,3,True,True,60000,1,1,1,1,90.0,254.0,344,258,1011,1269,4.15763,123,1.05128,0.5197,4.48428,546,0.64923,0.56054
 one_plus_one,Knowledge,knowledge,One plus one,deepseek-r1,deepseek,4,True,True,60000,1,1,1,1,28.0,143.0,171,138,566,704,4.26468,136,0.98551,0.53309,4.41851,393,0.69435,0.55231
 one_plus_one,Knowledge,knowledge,One plus one,deepseek-r1,deepseek,5,True,True,60000,1,1,1,1,23.0,230.0,253,130,914,1044,4.16065,138,1.06154,0.52008,4.42494,555,0.60722,0.55312
+one_plus_one,Knowledge,knowledge,One plus one,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,694,414,2486,2900,4.51258,312,0.75362,0.56407,4.46045,1211,0.48713,0.55756
+one_plus_one,Knowledge,knowledge,One plus one,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,793,454,2698,3152,4.46821,339,0.7467,0.55853,4.47772,1259,0.46664,0.55971
+one_plus_one,Knowledge,knowledge,One plus one,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,399,229,1356,1585,3.48418,59,2.95,0.43552,4.42494,688,0.54517,0.55312
+one_plus_one,Knowledge,knowledge,One plus one,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,295,45,1068,1113,4.20567,191,0.83406,0.52571,4.49276,750,0.5531,0.5616
+one_plus_one,Knowledge,knowledge,One plus one,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,308,20,1262,1282,3.87565,86,1.91111,0.48446,4.47972,613,0.57397,0.55997
 one_plus_one,Knowledge,knowledge,One plus one,deepseek-V3.1,deepseek,1,True,True,60000,1,1,1,1,5.0,104.0,109,9,424,433,4.022,76,2.17143,0.50275,4.50083,323,0.69313,0.5626
 one_plus_one,Knowledge,knowledge,One plus one,deepseek-V3.1,deepseek,2,True,True,60000,1,1,1,1,5.0,76.0,81,9,313,322,0.0,37,37.0,0.0,4.51745,258,0.83226,0.56468
 one_plus_one,Knowledge,knowledge,One plus one,deepseek-V3.1,deepseek,3,True,True,60000,1,1,1,1,17.0,114.0,131,35,466,501,3.16993,52,5.77778,0.39624,4.52185,255,0.8147,0.56523
@@ -49,6 +54,11 @@ one_plus_one,Knowledge,knowledge,One plus one,grok-4-07-09,x-ai,2,False,False,30
 one_plus_one,Knowledge,knowledge,One plus one,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,5.0,199.0,204,9,24,33,0.0,37,37.0,0.0,2.85539,51,2.125,0.35692
 one_plus_one,Knowledge,knowledge,One plus one,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,167.0,168,1,24,25,0.0,37,37.0,0.0,2.85539,51,2.125,0.35692
 one_plus_one,Knowledge,knowledge,One plus one,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,123.0,124,1,24,25,0.0,37,37.0,0.0,2.85539,51,2.125,0.35692
+one_plus_one,Knowledge,knowledge,One plus one,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,442,244,1501,1745,4.29779,147,0.94231,0.53722,4.37751,340,0.70393,0.54719
+one_plus_one,Knowledge,knowledge,One plus one,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,264,263,791,1054,4.39935,134,1.08943,0.54992,4.50116,458,0.65522,0.56264
+one_plus_one,Knowledge,knowledge,One plus one,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,323,189,1093,1282,4.48804,182,0.96296,0.561,4.4988,643,0.58829,0.56235
+one_plus_one,Knowledge,knowledge,One plus one,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,158,156,483,639,4.37834,213,0.87295,0.54729,4.51112,814,0.54231,0.56389
+one_plus_one,Knowledge,knowledge,One plus one,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,219,123,699,822,4.3608,222,0.84411,0.5451,4.50763,515,0.65107,0.56345
 one_plus_one,Knowledge,knowledge,One plus one,o3-mini-high,openai,1,False,False,30000,1,1,1,1,9.0,128.0,137,15,0,15,3.24022,55,3.66667,0.40503,0.0,0,0.0,0.0
 one_plus_one,Knowledge,knowledge,One plus one,o3-mini-high,openai,2,False,False,30000,1,1,1,1,9.0,64.0,73,15,0,15,3.24022,55,3.66667,0.40503,0.0,0,0.0,0.0
 one_plus_one,Knowledge,knowledge,One plus one,o3-mini-high,openai,3,False,False,30000,1,1,1,1,7.0,128.0,135,16,0,16,3.24022,55,3.66667,0.40503,0.0,0,0.0,0.0
@@ -134,11 +144,21 @@ bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem 
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),deepseek-r1,deepseek,3,True,True,60000,1,1,1,1,20.0,3200.0,3220,528,12396,12924,4.4035,327,0.61932,0.55044,4.49887,3485,0.28114,0.56236
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),deepseek-r1,deepseek,4,True,True,60000,1,1,1,1,154.0,2592.0,2746,880,10173,11053,4.4971,496,0.56364,0.56214,4.50114,3031,0.29795,0.56264
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),deepseek-r1,deepseek,5,True,True,60000,1,1,1,1,-54.0,1841.0,1787,396,7232,7628,4.48965,265,0.66919,0.56121,4.43118,2372,0.32799,0.5539
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,0,0,1,0,,,12427,1312,41055,42367,4.49811,585,0.44588,0.56226,4.59453,5651,0.13764,0.57432
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,7687,878,26940,27818,4.50264,390,0.58647,0.56283,4.58736,4309,0.18175,0.57342
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,6921,665,23708,24373,4.36641,300,0.61728,0.5458,4.54226,3429,0.22869,0.56778
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,4178,486,14994,15480,4.49325,515,0.58656,0.56166,4.60946,4689,0.17405,0.57618
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,3000,893,11224,12117,4.4631,467,0.52296,0.55789,4.48919,2829,0.25205,0.56115
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,1,False,False,30000,1,1,1,1,25.0,2718.0,2743,123,336,459,4.15751,129,1.04878,0.51969,2.85539,58,0.17262,0.35692
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,2,False,False,30000,1,1,1,1,23.0,1629.0,1652,111,204,315,4.27724,230,0.78498,0.53466,2.85539,58,0.23016,0.35692
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,72.0,2080.0,2152,293,252,545,4.20048,126,1.13514,0.52506,2.85539,57,0.27941,0.35692
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,26.0,3283.0,3309,121,396,517,4.26264,129,1.06612,0.53283,2.85539,58,0.14646,0.35692
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,43.0,4722.0,4765,200,576,776,4.21147,170,0.85,0.52643,2.85539,58,0.10069,0.35692
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,1563,360,6054,6414,4.43604,290,0.73048,0.5545,4.41984,2705,0.25428,0.55248
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,2648,397,10638,11035,4.37877,269,0.74722,0.54735,4.45991,1812,0.29931,0.55749
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,1695,429,6200,6629,4.38116,294,0.68531,0.54765,4.52143,1827,0.29468,0.56518
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,1087,348,4392,4740,4.42575,409,0.60682,0.55322,4.50432,2714,0.2372,0.56304
+bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,3074,674,11442,12116,4.44367,271,0.77874,0.55546,4.34332,1410,0.32104,0.54292
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),o3-mini-high,openai,1,False,False,30000,1,1,1,1,109.0,1920.0,2029,475,0,475,4.41338,271,0.75487,0.55167,0.0,0,0.0,0.0
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),o3-mini-high,openai,2,False,False,30000,1,1,1,1,61.0,1664.0,1725,262,0,262,4.2616,218,0.83206,0.5327,0.0,0,0.0,0.0
 bridge_torch_easy_10m,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),o3-mini-high,openai,3,False,False,30000,1,1,1,1,88.0,1344.0,1432,359,0,359,4.29762,313,0.65895,0.5372,0.0,0,0.0,0.0
@@ -219,6 +239,11 @@ AIME2023II_P1,AIME2023,Math,apple trees,deepseek-r1,deepseek,2,True,True,60000,1
 AIME2023II_P1,AIME2023,Math,apple trees,deepseek-r1,deepseek,3,True,True,60000,1,1,1,1,630.0,2369.0,2999,1311,9191,10502,4.77258,582,0.44394,0.59657,4.65875,2972,0.32336,0.58234
 AIME2023II_P1,AIME2023,Math,apple trees,deepseek-r1,deepseek,4,True,True,60000,1,1,1,1,580.0,899.0,1479,1297,3392,4689,4.62566,548,0.43218,0.57821,4.75354,1224,0.43652,0.59419
 AIME2023II_P1,AIME2023,Math,apple trees,deepseek-r1,deepseek,5,True,True,60000,1,1,1,1,549.0,731.0,1280,1268,2804,4072,4.60053,560,0.43177,0.57507,4.71562,1433,0.42246,0.58945
+AIME2023II_P1,AIME2023,Math,apple trees,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,1811,1214,3915,5129,4.64723,526,0.43328,0.5809,4.6751,1409,0.3599,0.58439
+AIME2023II_P1,AIME2023,Math,apple trees,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,1633,1161,3223,4384,4.72906,522,0.44961,0.59113,4.6954,1334,0.4139,0.58692
+AIME2023II_P1,AIME2023,Math,apple trees,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,1682,1224,3330,4554,4.62639,487,0.459,0.5783,4.75196,1529,0.38916,0.594
+AIME2023II_P1,AIME2023,Math,apple trees,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,3523,1217,7486,8703,4.59154,540,0.44118,0.57394,4.72053,1265,0.37988,0.59007
+AIME2023II_P1,AIME2023,Math,apple trees,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,1764,1061,3929,4990,4.62699,542,0.44536,0.57837,4.82543,2449,0.32714,0.60318
 AIME2023II_P1,AIME2023,Math,apple trees,deepseek-V3.1,deepseek,1,True,True,60000,1,1,1,1,334.0,250.0,584,841,695,1536,4.77429,481,0.57194,0.59679,4.70979,382,0.54964,0.58872
 AIME2023II_P1,AIME2023,Math,apple trees,deepseek-V3.1,deepseek,2,True,True,60000,1,1,1,1,291.0,251.0,542,727,706,1433,4.87043,431,0.59285,0.6088,4.67448,368,0.52125,0.58431
 AIME2023II_P1,AIME2023,Math,apple trees,deepseek-V3.1,deepseek,3,True,True,60000,1,1,1,1,271.0,257.0,528,673,726,1399,4.90477,453,0.58301,0.6131,4.69954,365,0.52899,0.58744
@@ -229,6 +254,11 @@ AIME2023II_P1,AIME2023,Math,apple trees,grok-4-07-09,x-ai,2,False,False,30000,1,
 AIME2023II_P1,AIME2023,Math,apple trees,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,1.0,963.0,964,3,120,123,0.9183,37,12.33333,0.11479,2.85539,56,0.46667,0.35692
 AIME2023II_P1,AIME2023,Math,apple trees,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,881.0,882,3,108,111,0.9183,37,12.33333,0.11479,2.85539,56,0.38889,0.35692
 AIME2023II_P1,AIME2023,Math,apple trees,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,1181.0,1182,3,144,147,0.9183,37,12.33333,0.11479,2.85539,56,0.51852,0.35692
+AIME2023II_P1,AIME2023,Math,apple trees,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,1348,1147,2911,4058,4.7293,555,0.44507,0.59116,4.71956,1269,0.38807,0.58994
+AIME2023II_P1,AIME2023,Math,apple trees,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,1317,1276,2533,3809,4.83619,542,0.47254,0.60452,4.72318,1191,0.40914,0.5904
+AIME2023II_P1,AIME2023,Math,apple trees,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,1374,1425,2616,4041,4.67882,566,0.44357,0.58485,4.77165,1117,0.44098,0.59646
+AIME2023II_P1,AIME2023,Math,apple trees,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,1930,1578,4020,5598,4.59674,583,0.40912,0.57459,4.67253,1120,0.42813,0.58407
+AIME2023II_P1,AIME2023,Math,apple trees,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,1465,1247,3270,4517,4.68153,641,0.40621,0.58519,4.74536,1536,0.38209,0.59317
 AIME2023II_P1,AIME2023,Math,apple trees,o3-mini-high,openai,1,False,False,30000,1,1,1,1,309.0,128.0,437,747,0,747,4.70956,389,0.60592,0.5887,0.0,0,0.0,0.0
 AIME2023II_P1,AIME2023,Math,apple trees,o3-mini-high,openai,2,False,False,30000,1,1,1,1,277.0,192.0,469,642,0,642,4.60307,404,0.54083,0.57538,0.0,0,0.0,0.0
 AIME2023II_P1,AIME2023,Math,apple trees,o3-mini-high,openai,3,False,False,30000,1,1,1,1,258.0,128.0,386,609,0,609,4.69268,369,0.60591,0.58658,0.0,0,0.0,0.0
@@ -309,6 +339,11 @@ AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-r1,deepseek,2,T
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-r1,deepseek,3,True,True,60000,1,1,1,1,522.0,803.0,1325,1140,2951,4091,4.63223,526,0.4562,0.57903,4.78168,1369,0.43227,0.59771
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-r1,deepseek,4,True,True,60000,1,1,1,1,562.0,748.0,1310,1254,2719,3973,4.69169,530,0.46491,0.58646,4.76704,1285,0.43545,0.59588
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-r1,deepseek,5,True,True,60000,1,1,1,1,593.0,807.0,1400,1153,3167,4320,4.6647,554,0.44179,0.58309,4.76588,1190,0.43766,0.59574
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,2143,977,4846,5823,4.72238,471,0.4816,0.5903,4.76461,1419,0.36915,0.59558
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,1882,1014,4171,5185,4.85871,466,0.53136,0.60734,4.78351,1082,0.43541,0.59794
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,2001,978,3844,4822,4.65195,484,0.49539,0.58149,4.78386,1704,0.35163,0.59798
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,1261,877,2485,3362,4.65219,477,0.47041,0.58152,4.69787,1516,0.36346,0.58723
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,1487,1006,2853,3859,4.64118,494,0.49105,0.58015,4.88024,1194,0.41851,0.61003
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-V3.1,deepseek,1,True,True,60000,1,1,1,1,376.0,250.0,626,962,712,1674,4.86609,411,0.58883,0.60826,4.6931,382,0.53727,0.58664
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-V3.1,deepseek,2,True,True,60000,1,1,1,1,283.0,255.0,538,698,711,1409,4.87281,389,0.60217,0.6091,4.71225,396,0.53951,0.58903
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,deepseek-V3.1,deepseek,3,True,True,60000,1,1,1,1,348.0,263.0,611,872,724,1596,4.85327,514,0.5343,0.60666,4.70138,374,0.52528,0.58767
@@ -319,6 +354,11 @@ AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,grok-4-07-09,x-ai,2,Fals
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,1.0,933.0,934,3,120,123,0.9183,37,12.33333,0.11479,2.85539,54,0.64286,0.35692
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,672.0,673,3,84,87,0.9183,37,12.33333,0.11479,2.85539,54,0.64286,0.35692
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,1604.0,1605,3,204,207,0.9183,37,12.33333,0.11479,2.85539,57,0.27941,0.35692
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,1251,1290,2382,3672,4.66772,584,0.42878,0.58346,4.79378,1024,0.43742,0.59922
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,1959,1318,4934,6252,4.66945,582,0.44158,0.58368,4.66223,1689,0.34232,0.58278
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,1253,1362,2341,3703,4.85595,580,0.44961,0.60699,4.75661,1033,0.43367,0.59458
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,1532,1260,3380,4640,4.62207,482,0.48152,0.57776,4.74199,1221,0.41418,0.59275
+AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,1357,1001,2948,3949,4.64054,556,0.44127,0.58007,4.7732,1393,0.41213,0.59665
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,o3-mini-high,openai,1,False,False,30000,1,1,1,1,338.0,192.0,530,804,0,804,4.71444,471,0.58582,0.5893,0.0,0,0.0,0.0
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,o3-mini-high,openai,2,False,False,30000,1,1,1,1,258.0,192.0,450,573,0,573,4.63134,347,0.60558,0.57892,0.0,0,0.0,0.0
 AIME2023II_P1_mod,AIME2023mod,Math,apple trees modified,o3-mini-high,openai,3,False,False,30000,1,1,1,1,268.0,128.0,396,573,0,573,4.57633,328,0.57243,0.57204,0.0,0,0.0,0.0
@@ -399,6 +439,11 @@ AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-r1,deepseek,2,True,
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-r1,deepseek,3,True,True,60000,1,1,1,1,1070.0,1649.0,2719,1285,6274,7559,4.61692,475,0.51463,0.57711,4.89589,2276,0.38537,0.61199
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-r1,deepseek,4,True,True,60000,1,1,1,1,970.0,1903.0,2873,1212,7126,8338,4.60765,457,0.54862,0.57596,4.91065,3159,0.35959,0.61383
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-r1,deepseek,5,True,True,60000,1,1,1,1,1097.0,2312.0,3409,833,8785,9618,4.65545,572,0.47195,0.58193,4.89198,2583,0.36248,0.6115
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,4037,1033,9091,10124,4.64034,502,0.48596,0.58004,4.73772,2527,0.27797,0.59222
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,2607,864,4679,5543,4.60109,477,0.5129,0.57514,5.00504,2648,0.3613,0.62563
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,23398,1259,55001,56260,4.65053,456,0.52778,0.58132,4.84983,1728,0.36931,0.60623
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,3576,1483,5934,7417,4.69332,618,0.49087,0.58666,4.94315,10364,0.18843,0.61789
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,4446,930,7329,8259,4.70522,648,0.43695,0.58815,4.90451,2001,0.33721,0.61306
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-V3.1,deepseek,1,True,True,60000,1,1,1,1,529.0,1049.0,1578,1262,2625,3887,4.7927,597,0.47306,0.59909,4.97074,1070,0.40762,0.62134
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-V3.1,deepseek,2,True,True,60000,1,1,1,1,469.0,1028.0,1497,1075,2617,3692,4.81768,570,0.50442,0.60221,4.97493,673,0.53883,0.62187
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,deepseek-V3.1,deepseek,3,True,True,60000,1,1,1,1,485.0,566.0,1051,1130,1249,2379,4.67487,695,0.43356,0.58436,4.92136,2147,0.35611,0.61517
@@ -409,6 +454,11 @@ AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,grok-4-07-09,x-ai,2,False,Fa
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,1.0,1918.0,1919,2,240,242,1.0,37,18.5,0.125,2.85539,56,0.35897,0.35692
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,1252.0,1253,2,156,158,1.0,37,18.5,0.125,2.85539,57,0.2375,0.35692
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,1699.0,1700,2,204,206,1.0,37,18.5,0.125,2.85539,57,0.27941,0.35692
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,2638,1121,5420,6541,4.64363,520,0.46387,0.58045,4.78514,1916,0.35351,0.59814
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,2740,1017,5757,6774,4.586,491,0.48279,0.57325,4.81017,1948,0.33837,0.60127
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,2863,1245,6056,7301,4.62429,561,0.4506,0.57804,4.85848,2179,0.35981,0.60731
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,3201,1164,7030,8194,4.58535,528,0.45361,0.57317,4.85394,2327,0.33101,0.60674
+AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,3930,954,9085,10039,4.58637,490,0.51363,0.5733,4.80206,2770,0.3049,0.60026
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,o3-mini-high,openai,1,False,False,30000,1,1,1,1,467.0,512.0,979,1080,0,1080,4.74355,575,0.53241,0.59294,0.0,0,0.0,0.0
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,o3-mini-high,openai,2,False,False,30000,1,1,1,1,527.0,576.0,1103,1066,0,1066,4.71727,583,0.5469,0.58966,0.0,0,0.0,0.0
 AIME2025I_P2_modified,AIME2025mod,Math,Find the sum,o3-mini-high,openai,3,False,False,30000,1,1,1,1,560.0,576.0,1136,1271,0,1271,4.72277,634,0.49882,0.59035,0.0,0,0.0,0.0
@@ -464,6 +514,11 @@ AIME2025I_Problem_2,AIME2025,Math,Find the sum,grok-4-07-09,x-ai,2,False,False,3
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,1.0,2614.0,2615,2,324,326,1.0,37,18.5,0.125,2.85539,58,0.17901,0.35692
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,1879.0,1880,2,228,230,1.0,37,18.5,0.125,2.85539,58,0.17901,0.35692
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,1636.0,1637,2,204,206,1.0,37,18.5,0.125,2.85539,58,0.25439,0.35692
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,6093,1128,15968,17096,4.67089,581,0.45856,0.58386,4.83104,1829,0.37758,0.60388
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,2880,894,6657,7551,4.63084,536,0.47518,0.57886,4.75474,4157,0.26033,0.59434
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,2710,1354,5586,6940,4.64336,485,0.5266,0.58042,4.80581,2157,0.3352,0.60073
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,2382,1267,4844,6111,4.636,462,0.51678,0.5795,4.84036,2221,0.33363,0.60504
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,2735,921,6435,7356,4.66245,600,0.44313,0.58281,4.85773,1967,0.35213,0.60722
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,o4-mini-high-long,openai,1,False,False,30000,1,1,1,1,132.0,1536.0,1668,202,1448,1650,4.84565,228,1.1122,0.60571,4.67395,649,0.48944,0.58424
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,o4-mini-high-long,openai,2,False,False,30000,1,1,1,1,121.0,1472.0,1593,205,1326,1531,4.81031,214,0.82308,0.60129,4.65671,640,0.49117,0.58209
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,o4-mini-high-long,openai,3,False,False,30000,1,1,1,1,126.0,1088.0,1214,233,1358,1591,4.90797,249,1.06867,0.6135,4.5717,742,0.54639,0.57146
@@ -499,6 +554,11 @@ AIME2025I_Problem_2,AIME2025,Math,Find the sum,deepseek-r1,deepseek,2,True,True,
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,deepseek-r1,deepseek,3,True,True,60000,1,1,1,1,967.0,2244.0,3211,1096,8590,9686,4.68577,530,0.45183,0.58572,4.98882,2222,0.40883,0.6236
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,deepseek-r1,deepseek,4,True,True,60000,1,1,1,1,692.0,1155.0,1847,1000,4419,5419,4.54533,484,0.484,0.56817,4.82682,1796,0.40643,0.60335
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,deepseek-r1,deepseek,5,True,True,60000,1,1,1,1,1000.0,2014.0,3014,1162,7498,8660,4.65299,551,0.47418,0.58162,4.89961,2657,0.35436,0.61245
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,7666,1093,16865,17958,4.65635,514,0.47027,0.58204,4.85934,4140,0.24548,0.60742
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,11368,1246,24536,25782,4.67165,563,0.45185,0.58396,4.68325,4896,0.19954,0.58541
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,5424,1190,11862,13052,4.63727,521,0.5133,0.57966,4.98269,6013,0.24592,0.62284
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,10603,1015,24451,25466,4.72909,562,0.47227,0.59114,4.89494,3559,0.30003,0.61187
+AIME2025I_Problem_2,AIME2025,Math,Find the sum,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,4771,1062,9394,10456,4.72884,515,0.48493,0.59111,4.92536,2803,0.29838,0.61567
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,o3-mini-high,openai,1,False,False,30000,1,1,1,1,488.0,640.0,1128,1085,0,1085,4.65885,574,0.52903,0.58236,0.0,0,0.0,0.0
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,o3-mini-high,openai,2,False,False,30000,1,1,1,1,450.0,384.0,834,1093,0,1093,4.66858,590,0.5398,0.58357,0.0,0,0.0,0.0
 AIME2025I_Problem_2,AIME2025,Math,Find the sum,o3-mini-high,openai,3,False,False,30000,1,1,1,1,391.0,448.0,839,893,0,893,4.67721,493,0.55207,0.58465,0.0,0,0.0,0.0
@@ -574,6 +634,11 @@ capital_of_australia,Basic questions,knowledge,Capital of Australia,grok-4-07-09
 capital_of_australia,Basic questions,knowledge,Capital of Australia,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,2.0,113.0,115,8,24,32,2.5,45,5.625,0.3125,2.85539,51,2.125,0.35692
 capital_of_australia,Basic questions,knowledge,Capital of Australia,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,2.0,123.0,125,8,24,32,2.5,45,5.625,0.3125,2.85539,51,2.125,0.35692
 capital_of_australia,Basic questions,knowledge,Capital of Australia,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,2.0,107.0,109,8,24,32,2.5,45,5.625,0.3125,2.85539,51,2.125,0.35692
+capital_of_australia,Basic questions,knowledge,Capital of Australia,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,258,337,869,1206,4.44276,266,0.78932,0.55534,4.41458,493,0.56732,0.55182
+capital_of_australia,Basic questions,knowledge,Capital of Australia,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,304,333,1103,1436,4.45261,265,0.7958,0.55658,4.4564,628,0.56936,0.55705
+capital_of_australia,Basic questions,knowledge,Capital of Australia,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,455,372,1717,2089,4.40637,243,0.78641,0.5508,4.4011,442,0.6156,0.55014
+capital_of_australia,Basic questions,knowledge,Capital of Australia,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,215,309,718,1027,4.45888,255,0.80696,0.55736,4.40933,453,0.58527,0.55117
+capital_of_australia,Basic questions,knowledge,Capital of Australia,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,223,316,774,1090,4.46819,283,0.76075,0.55852,4.4966,872,0.50786,0.56208
 capital_of_australia,Basic questions,knowledge,Capital of Australia,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,-14.0,523.0,509,476,2055,2531,4.37645,271,0.75698,0.54706,4.4607,685,0.54408,0.55759
 capital_of_australia,Basic questions,knowledge,Capital of Australia,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,49.0,307.0,356,474,1210,1684,4.49912,333,0.70253,0.56239,4.48117,654,0.5405,0.56015
 capital_of_australia,Basic questions,knowledge,Capital of Australia,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,26.0,346.0,372,370,1363,1733,4.44733,286,0.77297,0.55592,4.46276,701,0.51431,0.55784
@@ -604,6 +669,11 @@ capital_of_australia,Basic questions,knowledge,Capital of Australia,claude-opus-
 capital_of_australia,Basic questions,knowledge,Capital of Australia,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,11.93548,74.06452,86,37,307,344,4.00326,74,2.0,0.50041,4.39099,243,0.79153,0.54887
 capital_of_australia,Basic questions,knowledge,Capital of Australia,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,11.93548,68.06452,80,37,279,316,4.00326,74,2.0,0.50041,4.3571,226,0.81004,0.54464
 capital_of_australia,Basic questions,knowledge,Capital of Australia,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,11.93548,71.06452,83,37,294,331,4.00326,74,2.0,0.50041,4.31448,222,0.7551,0.53931
+capital_of_australia,Basic questions,knowledge,Capital of Australia,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,484,357,1908,2265,4.33835,259,0.72549,0.54229,4.48759,911,0.47746,0.56095
+capital_of_australia,Basic questions,knowledge,Capital of Australia,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,297,303,1087,1390,4.37268,242,0.79868,0.54659,4.38184,566,0.5207,0.54773
+capital_of_australia,Basic questions,knowledge,Capital of Australia,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,189,227,625,852,4.4073,210,0.86777,0.55091,4.4712,953,0.48573,0.5589
+capital_of_australia,Basic questions,knowledge,Capital of Australia,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,484,242,1962,2204,4.41042,201,0.88546,0.5513,4.466,394,0.6304,0.55825
+capital_of_australia,Basic questions,knowledge,Capital of Australia,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,232,330,786,1116,4.37476,250,0.75758,0.54685,4.38228,444,0.56489,0.54778
 capital_of_australia,Basic questions,knowledge,Capital of Australia,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,4.0,44.0,48,9,174,183,2.72548,49,5.44444,0.34069,4.37196,165,0.94828,0.54649
 capital_of_australia,Basic questions,knowledge,Capital of Australia,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,4.0,42.0,46,9,166,175,2.72548,49,5.44444,0.34069,4.39452,157,0.94578,0.54932
 capital_of_australia,Basic questions,knowledge,Capital of Australia,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,4.0,54.0,58,9,215,224,2.72548,49,5.44444,0.34069,4.34038,150,0.92593,0.54255
@@ -664,6 +734,11 @@ train_distance,Basic questions,knowledge,Distance traveled by train,grok-4-07-09
 train_distance,Basic questions,knowledge,Distance traveled by train,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,2.0,155.0,157,14,24,38,3.6645,53,3.78571,0.45806,2.85539,51,2.125,0.35692
 train_distance,Basic questions,knowledge,Distance traveled by train,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,12.0,129.0,141,46,24,70,4.49923,85,1.84783,0.5624,2.85539,51,2.125,0.35692
 train_distance,Basic questions,knowledge,Distance traveled by train,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,2.0,166.0,168,14,24,38,3.6645,53,3.78571,0.45806,2.85539,51,2.125,0.35692
+train_distance,Basic questions,knowledge,Distance traveled by train,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,451,260,1260,1520,4.54439,212,0.85484,0.56805,4.54047,726,0.51453,0.56756
+train_distance,Basic questions,knowledge,Distance traveled by train,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,481,248,1411,1659,4.57556,221,0.85328,0.57194,4.55449,685,0.51855,0.56931
+train_distance,Basic questions,knowledge,Distance traveled by train,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,448,259,1321,1580,4.63735,215,0.82692,0.57967,4.54421,650,0.51587,0.56803
+train_distance,Basic questions,knowledge,Distance traveled by train,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,313,228,855,1083,4.54877,208,0.91228,0.5686,4.51233,482,0.56374,0.56404
+train_distance,Basic questions,knowledge,Distance traveled by train,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,449,260,1332,1592,4.63735,215,0.82692,0.57967,4.53811,687,0.51577,0.56726
 train_distance,Basic questions,knowledge,Distance traveled by train,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,190.0,290.0,480,332,1131,1463,4.77468,243,0.73193,0.59683,4.5608,607,0.53669,0.5701
 train_distance,Basic questions,knowledge,Distance traveled by train,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,110.0,252.0,362,205,980,1185,4.68214,191,0.93171,0.58527,4.5503,562,0.57347,0.56879
 train_distance,Basic questions,knowledge,Distance traveled by train,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,248.0,331.0,579,715,1305,2020,4.88624,455,0.63636,0.61078,4.47784,678,0.51954,0.55973
@@ -694,6 +769,11 @@ train_distance,Basic questions,knowledge,Distance traveled by train,claude-opus-
 train_distance,Basic questions,knowledge,Distance traveled by train,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,77.09677,71.90323,149,239,196,435,4.66341,205,0.85774,0.58293,4.67436,184,0.93878,0.58429
 train_distance,Basic questions,knowledge,Distance traveled by train,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,76.77419,72.22581,149,238,194,432,4.57852,173,0.89637,0.57231,4.63782,218,0.90083,0.57973
 train_distance,Basic questions,knowledge,Distance traveled by train,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,62.25806,79.74194,142,193,242,435,4.66513,204,0.85714,0.58314,4.67834,184,0.94845,0.58479
+train_distance,Basic questions,knowledge,Distance traveled by train,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,686,257,1826,2083,4.7612,222,0.86381,0.59515,4.56516,896,0.49069,0.57065
+train_distance,Basic questions,knowledge,Distance traveled by train,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,619,256,1841,2097,4.85343,255,0.75668,0.60668,4.56104,884,0.48975,0.57013
+train_distance,Basic questions,knowledge,Distance traveled by train,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,205,519,2058,2577,4.68206,216,0.84375,0.58526,4.52506,825,0.44813,0.56563
+train_distance,Basic questions,knowledge,Distance traveled by train,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,578,415,1318,1733,4.90395,304,0.73253,0.61299,4.57615,676,0.5129,0.57202
+train_distance,Basic questions,knowledge,Distance traveled by train,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,654,337,1805,2142,4.8095,312,0.60116,0.60119,4.59742,956,0.46453,0.57468
 train_distance,Basic questions,knowledge,Distance traveled by train,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,81.0,36.0,117,167,141,308,4.60374,160,0.95808,0.57547,4.48033,146,1.03546,0.56004
 train_distance,Basic questions,knowledge,Distance traveled by train,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,85.0,30.0,115,162,118,280,4.55119,148,0.91358,0.5689,4.42936,130,1.10169,0.55367
 train_distance,Basic questions,knowledge,Distance traveled by train,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,79.0,23.0,102,167,89,256,4.55665,152,0.91018,0.56958,4.29696,114,1.2809,0.53712
@@ -754,6 +834,11 @@ brazil_continent,Basic questions,knowledge,Continent of Brazil,grok-4-07-09,x-ai
 brazil_continent,Basic questions,knowledge,Continent of Brazil,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,2.0,132.0,134,13,24,37,3.70044,55,4.23077,0.46255,2.85539,51,2.125,0.35692
 brazil_continent,Basic questions,knowledge,Continent of Brazil,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,2.0,183.0,185,13,24,37,3.70044,55,4.23077,0.46255,2.85539,51,2.125,0.35692
 brazil_continent,Basic questions,knowledge,Continent of Brazil,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,2.0,184.0,186,13,24,37,3.70044,55,4.23077,0.46255,2.85539,51,2.125,0.35692
+brazil_continent,Basic questions,knowledge,Continent of Brazil,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,247,243,979,1222,4.36059,212,0.7881,0.54507,4.49106,563,0.56244,0.56138
+brazil_continent,Basic questions,knowledge,Continent of Brazil,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,370,453,1385,1838,4.3369,197,0.8107,0.54211,4.44541,534,0.54545,0.55568
+brazil_continent,Basic questions,knowledge,Continent of Brazil,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,256,389,831,1220,4.44997,299,0.66004,0.55625,4.54253,730,0.52708,0.56782
+brazil_continent,Basic questions,knowledge,Continent of Brazil,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,257,269,1001,1270,4.44249,290,0.7455,0.55531,4.48326,501,0.60289,0.56041
+brazil_continent,Basic questions,knowledge,Continent of Brazil,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,212,390,702,1092,4.38931,273,0.7,0.54866,4.39339,398,0.56695,0.54917
 brazil_continent,Basic questions,knowledge,Continent of Brazil,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,4.0,398.0,402,377,1562,1939,4.32365,106,1.30864,0.54046,4.45713,794,0.49501,0.55714
 brazil_continent,Basic questions,knowledge,Continent of Brazil,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,-8.0,261.0,253,188,1019,1207,4.3113,277,0.73475,0.53891,4.41028,723,0.46287,0.55128
 brazil_continent,Basic questions,knowledge,Continent of Brazil,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,-64.0,410.0,346,81,1604,1685,4.17541,157,0.83511,0.52193,4.39473,530,0.52012,0.54934
@@ -784,6 +869,11 @@ brazil_continent,Basic questions,knowledge,Continent of Brazil,claude-opus-4.1,a
 brazil_continent,Basic questions,knowledge,Continent of Brazil,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,16.77419,42.22581,59,52,198,250,4.03257,86,1.65385,0.50407,4.30644,178,0.89899,0.53831
 brazil_continent,Basic questions,knowledge,Continent of Brazil,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,16.77419,42.22581,59,52,198,250,4.03257,86,1.65385,0.50407,4.30644,178,0.89899,0.53831
 brazil_continent,Basic questions,knowledge,Continent of Brazil,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,16.77419,40.22581,57,52,175,227,4.03257,86,1.65385,0.50407,4.3575,163,0.93143,0.54469
+brazil_continent,Basic questions,knowledge,Continent of Brazil,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,190,56,805,861,4.11576,89,1.58929,0.51447,4.44186,580,0.49743,0.55523
+brazil_continent,Basic questions,knowledge,Continent of Brazil,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,116,56,498,554,4.11576,89,1.58929,0.51447,4.43823,341,0.63383,0.55478
+brazil_continent,Basic questions,knowledge,Continent of Brazil,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,254,56,1166,1222,4.11576,89,1.58929,0.51447,4.40809,455,0.56522,0.55101
+brazil_continent,Basic questions,knowledge,Continent of Brazil,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,136,56,538,594,4.11576,89,1.58929,0.51447,4.34394,301,0.60442,0.54299
+brazil_continent,Basic questions,knowledge,Continent of Brazil,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,215,56,874,930,4.11576,89,1.58929,0.51447,4.44363,472,0.54005,0.55545
 brazil_continent,Basic questions,knowledge,Continent of Brazil,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,-3.0,85.0,82,14,332,346,3.80735,55,3.92857,0.47592,4.55499,250,0.75301,0.56937
 brazil_continent,Basic questions,knowledge,Continent of Brazil,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,17.0,29.0,46,56,115,171,4.11576,89,1.58929,0.51447,4.5568,161,1.0,0.5696
 brazil_continent,Basic questions,knowledge,Continent of Brazil,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,12.0,42.0,54,56,161,217,4.11576,89,1.58929,0.51447,4.44063,132,1.14783,0.55508
@@ -844,6 +934,11 @@ leap_year_february_days,Basic questions,knowledge,Days in February during leap y
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,5.0,138.0,143,10,24,34,3.32193,50,5.0,0.41524,2.85539,51,2.125,0.35692
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,7.0,152.0,159,15,24,39,3.50689,58,3.86667,0.43836,2.85539,51,2.125,0.35692
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,5.0,138.0,143,10,24,34,3.32193,50,5.0,0.41524,2.85539,51,2.125,0.35692
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,414,445,1219,1664,4.55094,222,0.86047,0.56887,4.506,424,0.55863,0.56325
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,249,345,658,1003,4.59565,322,0.7236,0.57446,4.49786,637,0.52256,0.56223
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,352,376,1111,1487,4.56772,280,0.81159,0.57096,4.41232,399,0.60638,0.55154
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,271,258,759,1017,4.58543,325,0.71586,0.57318,4.4015,497,0.5578,0.55019
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,336,454,891,1345,4.50051,284,0.75532,0.56256,4.47369,611,0.54995,0.55921
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,115.0,295.0,410,432,1174,1606,4.51379,345,0.6998,0.56422,4.44858,667,0.48651,0.55607
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,129.0,348.0,477,493,1371,1864,4.56202,310,0.71759,0.57025,4.47086,619,0.52726,0.55886
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,45.0,452.0,497,248,1781,2029,4.47663,218,0.87903,0.55958,4.46173,873,0.49017,0.55772
@@ -874,6 +969,11 @@ leap_year_february_days,Basic questions,knowledge,Days in February during leap y
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,70.96774,52.03226,123,220,265,485,4.43228,188,0.85455,0.55404,4.36703,230,0.86792,0.54588
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,15.80645,90.19355,106,49,305,354,3.8226,86,1.7551,0.47782,4.46581,239,0.78361,0.55823
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,15.80645,77.19355,93,49,285,334,3.8226,86,1.7551,0.47782,4.40585,234,0.82105,0.55073
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,663,449,2082,2531,4.3653,302,0.67261,0.54566,4.49698,919,0.4414,0.56212
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,663,435,2054,2489,4.46831,294,0.67586,0.55854,4.49473,923,0.44937,0.56184
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,347,275,1055,1330,4.52064,237,0.86182,0.56508,4.40852,533,0.50521,0.55107
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,372,185,1149,1334,4.63477,187,1.01081,0.57935,4.49361,602,0.52393,0.5617
+leap_year_february_days,Basic questions,knowledge,Days in February during leap year,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,462,349,1385,1734,4.54946,280,0.80229,0.56868,4.52409,685,0.49458,0.56551
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,10.0,73.0,83,44,277,321,3.90814,79,1.92683,0.48852,4.35252,161,0.95266,0.54407
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,17.0,43.0,60,41,169,210,3.94418,81,1.84091,0.49302,4.51953,233,0.84116,0.56494
 leap_year_february_days,Basic questions,knowledge,Days in February during leap year,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,9.0,41.0,50,8,163,171,3.0,49,6.125,0.375,4.49729,169,1.03681,0.56216
@@ -934,6 +1034,11 @@ roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,grok-4-07
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,91.0,356.0,447,462,48,510,4.3354,321,0.69481,0.54192,2.85539,53,1.10417,0.35692
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,106.0,435.0,541,495,60,555,4.30214,318,0.64242,0.53777,2.85539,54,0.9,0.35692
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,69.0,358.0,427,361,48,409,4.2654,273,0.75623,0.53318,2.85539,53,1.10417,0.35692
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,764,846,2556,3402,4.35737,430,0.60309,0.54467,4.28932,981,0.3879,0.53617
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,628,787,2121,2908,4.35579,476,0.56265,0.54447,4.34143,1016,0.3975,0.54268
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,739,713,2529,3242,4.3168,455,0.57814,0.5396,4.24353,851,0.40123,0.53044
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,960,1174,3123,4297,4.44222,632,0.53833,0.55528,4.33717,1219,0.39033,0.54215
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,662,755,2217,2972,4.35044,438,0.58013,0.54381,4.27172,891,0.40189,0.53396
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,177.0,532.0,709,1018,2092,3110,4.37504,695,0.47376,0.54688,4.34634,1576,0.36072,0.54329
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,242.0,1058.0,1300,1597,4115,5712,4.48751,540,0.53045,0.56094,4.2872,890,0.42543,0.5359
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,240.0,1109.0,1349,1467,4369,5836,4.40072,700,0.43832,0.55009,4.40598,1524,0.37035,0.55075
@@ -964,6 +1069,11 @@ roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,claude-op
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,274.51613,239.48387,514,851,1306,2157,4.44315,513,0.58495,0.55539,4.45605,742,0.49665,0.55701
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,254.19355,262.80645,517,788,1302,2090,4.39128,452,0.5736,0.54891,4.38392,596,0.45776,0.54799
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,299.03226,252.96774,552,927,1341,2268,4.34775,509,0.54908,0.54347,4.4381,633,0.47204,0.55476
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,785,485,3028,3513,4.42512,579,0.54213,0.55314,4.34338,1387,0.35025,0.54292
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,1001,1069,3405,4474,4.25951,305,0.62887,0.53244,4.31566,1153,0.38078,0.53946
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,1123,1068,3960,5028,4.39581,559,0.52292,0.54948,4.31991,1245,0.36564,0.53999
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,1471,1483,4865,6348,4.35475,564,0.54127,0.54434,4.3495,1123,0.37371,0.54369
+roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,953,1042,3005,4047,4.47466,722,0.48685,0.55933,4.41773,1738,0.35725,0.55222
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,93.0,153.0,246,409,583,992,4.33534,392,0.59036,0.54192,4.40222,360,0.60504,0.55028
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,147.0,154.0,301,664,595,1259,4.24673,289,0.7066,0.53084,4.47137,356,0.61063,0.55892
 roses_logic,Basic questions,logic puzzle,Logic about roses and flowers,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,256.0,150.0,406,965,579,1544,4.33098,411,0.57242,0.54137,4.41825,280,0.75472,0.55228
@@ -1024,6 +1134,11 @@ Ice cream parlor,AIME2025,Math,Ice cream parlor choices,grok-4-07-09,x-ai,2,Fals
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,1.0,2367.0,2368,2,288,290,3.57782,57,3.5625,0.44723,2.85539,56,0.35897,0.35692
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,1929.0,1930,2,240,242,1.0,37,18.5,0.125,2.85539,57,0.19792,0.35692
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,1806.0,1807,2,228,230,1.0,37,18.5,0.125,2.85539,58,0.25439,0.35692
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,3152,1262,8060,9322,4.90946,643,0.50951,0.61368,4.86882,2696,0.33449,0.6086
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,3204,1121,8262,9383,4.94147,633,0.53328,0.61768,4.92217,2923,0.3389,0.61527
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,4696,1204,12404,13608,4.89861,615,0.54862,0.61233,4.88105,2928,0.35439,0.61013
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,4884,1327,13274,14601,4.97226,616,0.51163,0.62153,4.99122,3857,0.31095,0.6239
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,3295,1187,8625,9812,4.87936,653,0.49209,0.60992,4.85696,3924,0.29562,0.60712
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,1833.0,7897.0,9730,2330,29714,32044,4.96263,1033,0.44335,0.62033,4.80355,7349,0.24732,0.60044
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,1809.0,7604.0,9413,1994,28111,30105,4.99684,910,0.45637,0.62461,4.83655,7347,0.26136,0.60457
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,2135.0,16614.0,18749,2444,61676,64120,4.97904,1052,0.43044,0.62238,4.83668,13983,0.22672,0.60459
@@ -1054,6 +1169,11 @@ Ice cream parlor,AIME2025,Math,Ice cream parlor choices,claude-opus-4.1,anthropi
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,579.35484,1968.64516,2548,1796,2706,4502,5.03207,810,0.451,0.62901,4.89528,1183,0.43718,0.61191
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,675.48387,2022.51613,2698,2094,2880,4974,5.07671,936,0.45371,0.63459,4.75611,1656,0.375,0.59451
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,665.48387,3119.51613,3785,2063,4416,6479,5.07333,926,0.44222,0.63417,4.72144,1259,0.43715,0.59018
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,0,0,1,0,,,4918,1356,11189,12545,4.88968,663,0.48894,0.61121,5.0232,3540,0.31638,0.6279
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,4435,1296,9806,11102,4.95958,658,0.50772,0.61995,4.8113,2956,0.30145,0.60141
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,4295,1491,8646,10137,4.91322,730,0.4896,0.61415,4.98963,2790,0.32269,0.6237
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,2951,1221,6197,7418,4.91137,622,0.50942,0.61392,5.04985,2272,0.36663,0.63123
+Ice cream parlor,AIME2025,Math,Ice cream parlor choices,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,3874,1341,8940,10281,4.90123,659,0.49142,0.61265,4.91179,3051,0.34128,0.61397
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,882.0,664.0,1546,1316,2481,3797,5.22834,721,0.54787,0.65354,5.06665,1174,0.4732,0.63333
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,917.0,786.0,1703,1091,2911,4002,5.25186,653,0.59853,0.65648,5.05609,1310,0.45002,0.63201
 Ice cream parlor,AIME2025,Math,Ice cream parlor choices,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,760.0,644.0,1404,1021,2329,3350,5.24214,599,0.58668,0.65527,5.05291,1139,0.48905,0.63161
@@ -1112,6 +1232,11 @@ Integer pairs,AIME2025,Math,Integer pairs satisfying equation,grok-4-07-09,x-ai,
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,1.0,2249.0,2250,3,276,279,0.9183,37,12.33333,0.11479,2.85539,58,0.21014,0.35692
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,1.0,3633.0,3634,3,444,447,0.9183,37,12.33333,0.11479,2.85539,58,0.25439,0.35692
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,1.0,1878.0,1879,3,228,231,0.9183,37,12.33333,0.11479,2.85539,60,0.13514,0.35692
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,4702,1449,11615,13064,4.94051,579,0.51512,0.61756,4.96744,3462,0.32286,0.62093
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,4446,1124,10723,11847,4.90525,680,0.46929,0.61316,4.87599,3433,0.29557,0.6095
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,4223,1270,10463,11733,5.02678,646,0.50866,0.62835,4.95,3446,0.32935,0.61875
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,8182,1651,22123,23774,4.87827,700,0.42399,0.60978,4.95637,5621,0.25408,0.61955
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,4237,1213,11179,12392,4.8852,587,0.48392,0.61065,4.83544,3338,0.2986,0.60443
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,3103.0,6339.0,9442,2307,23790,26097,5.09866,1013,0.4391,0.63733,4.95027,6651,0.27957,0.61878
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,3542.0,6911.0,10453,2690,25404,28094,5.05842,1125,0.41822,0.6323,5.04087,7159,0.28181,0.63011
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,3898.0,5798.0,9696,2659,21279,23938,5.05653,1083,0.4073,0.63207,5.06886,6126,0.28789,0.63361
@@ -1142,6 +1267,11 @@ Integer pairs,AIME2025,Math,Integer pairs satisfying equation,claude-opus-4.1,an
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,697.09677,4265.90323,4963,2161,5280,7441,5.01319,960,0.45649,0.62665,4.79494,2178,0.36587,0.59937
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,699.67742,4227.32258,4927,2169,5903,8072,4.99486,1051,0.43719,0.62436,4.72922,2905,0.33787,0.59115
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,775.48387,6690.51613,7466,2404,8598,11002,4.97991,981,0.45228,0.62249,4.80689,2236,0.37879,0.60086
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,0,0,1,0,,,11294,1644,29916,31560,4.94443,711,0.43248,0.61805,4.95209,7180,0.24001,0.61901
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,0,0,1,0,,,15051,1887,42500,44387,4.93342,584,0.4966,0.61668,4.992,3642,0.30752,0.624
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,5217,1176,11843,13019,4.90637,704,0.40694,0.6133,4.95237,4951,0.28237,0.61905
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,7610,1730,17534,19264,4.98624,750,0.39746,0.62328,4.80465,8453,0.19889,0.60058
+Integer pairs,AIME2025,Math,Integer pairs satisfying equation,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,4602,1401,10125,11526,4.9811,671,0.47894,0.62264,4.95359,3299,0.32583,0.6192
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,1273.0,1331.0,2604,1700,4904,6604,5.30292,862,0.50706,0.66287,5.01099,2012,0.41028,0.62637
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,1374.0,1123.0,2497,1918,4146,6064,5.26094,914,0.47654,0.65762,5.01716,1786,0.43078,0.62714
 Integer pairs,AIME2025,Math,Integer pairs satisfying equation,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,1178.0,1265.0,2443,1859,4698,6557,5.20161,932,0.50134,0.6502,5.02606,1933,0.41145,0.62826
@@ -1202,6 +1332,11 @@ bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch proble
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),grok-4-07-09,x-ai,3,False,False,30000,0,0,1,0,132.0,6814.0,6946,498,828,1326,4.34897,119,0.7,0.54362,2.85539,63,0.03323,0.35692
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),grok-4-07-09,x-ai,4,False,False,30000,0,0,1,0,92.0,15262.0,15354,303,1836,2139,4.53706,214,0.70627,0.56713,2.85539,63,0.03431,0.35692
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),grok-4-07-09,x-ai,5,False,False,30000,0,0,1,0,108.0,18976.0,19084,427,2280,2707,4.53703,279,0.6534,0.56713,2.85539,62,0.02719,0.35692
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),Hermes-4-405B,nous,1,True,True,30000,0,0,1,0,,,11495,2260,36827,39087,4.68974,871,0.37302,0.58622,4.61817,4847,0.16508,0.57727
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),Hermes-4-405B,nous,2,True,True,30000,0,0,1,0,,,10163,1249,32279,33528,4.55587,833,0.36858,0.56948,4.67336,6224,0.16901,0.58417
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,9338,2754,29980,32734,4.62441,994,0.36093,0.57805,4.64573,5048,0.16838,0.58072
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,9317,2335,29362,31697,4.59671,1103,0.31018,0.57459,4.6743,4741,0.16184,0.58429
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),Hermes-4-405B,nous,5,True,True,30000,0,0,1,0,,,9947,3556,29295,32851,4.41387,487,0.38991,0.55173,4.69909,5740,0.17782,0.58739
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),qwen3-235b-a22b-think,qwen,1,True,True,30000,0,0,1,0,4439.0,21917.0,26356,2147,77754,79901,4.61019,956,0.44527,0.57627,4.77844,13971,0.17968,0.59731
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),qwen3-235b-a22b-think,qwen,2,True,True,30000,0,0,1,0,2741.0,12636.0,15377,2693,45069,47762,4.52486,1001,0.3717,0.56561,4.75679,9778,0.21696,0.5946
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),qwen3-235b-a22b-think,qwen,3,True,True,30000,0,0,1,0,3021.0,9922.0,12943,4507,35432,39939,4.59505,1514,0.33592,0.57438,4.73653,7260,0.2049,0.59207
@@ -1229,6 +1364,11 @@ bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch proble
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),claude-opus-4.1,anthropic,3,False,False,30000,0,0,1,0,434.51613,7970.48387,8405,1347,11845,13192,4.6912,631,0.46845,0.5864,4.44417,3293,0.27801,0.55552
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,534.83871,9917.16129,10452,1658,13581,15239,4.59942,694,0.44977,0.57493,4.45097,6465,0.25592,0.55637
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),claude-opus-4.1,anthropic,5,False,False,30000,0,0,1,0,497.74194,13298.25806,13796,1543,25262,26805,4.5737,814,0.49095,0.57171,4.45175,3708,0.27303,0.55647
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,0,0,1,0,,,13153,1234,41548,42782,4.48652,600,0.42949,0.56081,4.68848,4582,0.16363,0.58606
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,0,0,1,0,,,9239,1397,28002,29399,4.47098,569,0.4611,0.55887,4.6642,5928,0.14268,0.58302
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,11333,1133,34966,36099,4.55507,531,0.46867,0.56938,4.68404,5076,0.14517,0.58551
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,0,0,1,0,,,14122,952,39882,40834,4.48738,437,0.4861,0.56092,4.70034,4777,0.14103,0.58754
+bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,0,0,1,0,,,11469,899,33873,34772,4.5288,451,0.47374,0.5661,4.79376,6242,0.15651,0.59922
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,1528.0,1028.0,2556,3762,4036,7798,4.6958,1661,0.44152,0.58698,4.80888,1332,0.33003,0.60111
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,1296.0,2104.0,3400,2025,8133,10158,4.92019,1101,0.5437,0.61502,4.85593,2469,0.30358,0.60699
 bridge_torch_impossible,Misguided Attention,logic puzzle,Bridge and Torch problem (Impossible),gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,942.0,1244.0,2186,1970,4778,6748,4.74641,1019,0.51726,0.5933,4.88368,1663,0.34805,0.61046
@@ -1289,6 +1429,11 @@ bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Eas
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,3,False,False,30000,0,0,1,0,120.0,13838.0,13958,465,1668,2133,4.5071,311,0.66882,0.56339,2.85539,63,0.03777,0.35692
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,24.0,21319.0,21343,105,2568,2673,4.20376,126,1.2,0.52547,2.85539,64,0.02492,0.35692
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),grok-4-07-09,x-ai,5,False,False,30000,0,0,1,0,221.0,19405.0,19626,887,2340,3227,4.47458,426,0.48027,0.55932,2.85539,63,0.02692,0.35692
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,11087,3673,36774,40447,4.66648,1304,0.35502,0.58331,4.56783,5948,0.16174,0.57098
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,2,True,True,30000,0,0,1,0,,,5855,2102,18775,20877,4.63451,783,0.3725,0.57931,4.58054,3945,0.21012,0.57257
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,6691,1894,21394,23288,4.68965,1006,0.34906,0.58621,4.63418,5554,0.16718,0.57927
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,10771,2882,33221,36103,4.50673,438,0.43582,0.56334,4.66656,5744,0.18219,0.58332
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),Hermes-4-405B,nous,5,True,True,30000,0,0,1,0,,,9773,1005,31528,32533,4.65382,814,0.42978,0.58173,4.61564,3609,0.16869,0.57695
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,1641.0,9484.0,11125,3094,35281,38375,4.70381,1338,0.43245,0.58798,4.72852,8077,0.22893,0.59106
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,957.0,9597.0,10554,1834,35778,37612,4.61653,878,0.47874,0.57707,4.66376,8000,0.2236,0.58297
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,1714.0,10364.0,12078,2721,38729,41450,4.62158,1161,0.42668,0.5777,4.69924,8643,0.22317,0.58741
@@ -1319,6 +1464,11 @@ bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Eas
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,371.29032,1158.70968,1530,1151,2915,4066,4.57669,517,0.6244,0.57209,4.42908,2548,0.32805,0.55364
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,260.0,2486.0,2746,806,5046,5852,4.54392,591,0.51436,0.56799,4.42505,2254,0.33532,0.55313
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,267.09677,3852.90323,4120,828,7767,8595,4.53031,485,0.60174,0.56629,4.53506,1873,0.37119,0.56688
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,0,0,1,0,,,9166,1659,29519,31178,4.58154,692,0.41712,0.57269,4.68131,5418,0.18354,0.58516
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,0,0,1,0,,,13200,1624,41065,42689,4.49969,690,0.42488,0.56246,4.66913,6271,0.15271,0.58364
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,0,0,1,0,,,12185,1033,37715,38748,4.67629,8150,0.099,0.58454,0.0,0,0.0,0.0
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,0,0,1,0,,,6487,999,20595,21594,4.68681,546,0.52856,0.58585,4.73355,5604,0.14859,0.59169
+bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,25000,82323,0,82323,4.45262,456,0.45646,0.55658,4.63157,3959,0.19223,0.57895
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),gpt-oss-120b,openai,1,True,True,30000,0,0,1,0,515.0,1069.0,1584,987,4189,5176,4.64887,432,0.6729,0.58111,4.70376,896,0.43285,0.58797
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,210.0,527.0,737,642,2070,2712,4.71138,598,0.60588,0.58892,4.76789,1425,0.34018,0.59599
 bridge_torch_easy,Misguided Attention,logic puzzle,Bridge and Torch problem (Easy),gpt-oss-120b,openai,3,True,True,30000,0,0,1,0,790.0,1091.0,1881,1289,4230,5519,4.72515,680,0.52754,0.59064,4.8378,1460,0.34515,0.60472
@@ -1378,6 +1528,11 @@ bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),grok-4-07-09,x-ai,2,False,False,30000,1,1,1,1,453.0,953.0,1406,1455,120,1575,4.6572,657,0.45155,0.58215,2.85539,56,0.46667,0.35692
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,584.0,960.0,1544,2229,120,2349,4.6071,774,0.42905,0.57589,2.85539,56,0.46667,0.35692
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,254.0,840.0,1094,753,108,861,4.46103,350,0.46481,0.55763,2.85539,56,0.51852,0.35692
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,1454,952,4100,5052,4.43838,400,0.42017,0.5548,4.58153,1428,0.34829,0.57269
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,1858,1237,5187,6424,4.49278,519,0.41956,0.5616,4.55362,1699,0.32755,0.5692
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,1585,1028,4572,5600,4.48885,450,0.43774,0.56111,4.55914,1564,0.34208,0.56989
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,2258,1095,6354,7449,4.49251,403,0.45485,0.56156,4.55671,1858,0.32511,0.56959
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,1919,886,5715,6601,4.57618,465,0.42466,0.57202,4.60056,1834,0.28864,0.57507
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,974.0,2676.0,3650,2074,10096,12170,4.4862,775,0.37367,0.56078,4.62229,2729,0.27031,0.57779
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,1233.0,3511.0,4744,1940,13098,15038,4.55252,833,0.42938,0.56906,4.69138,3358,0.25638,0.58642
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,833.0,1251.0,2084,2549,4847,7396,4.55157,921,0.36132,0.56895,4.57791,1666,0.34372,0.57224
@@ -1408,6 +1563,11 @@ bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,365.16129,955.83871,1321,1132,2287,3419,4.6775,479,0.47662,0.58469,4.50245,708,0.41476,0.56281
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,329.35484,785.64516,1115,1021,1993,3014,4.59577,497,0.48678,0.57447,4.52827,831,0.41696,0.56603
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,317.74194,611.25806,929,985,2010,2995,4.6792,497,0.50457,0.5849,4.55378,761,0.37861,0.56922
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,1147,1042,2898,3940,4.63004,577,0.4616,0.57876,4.38283,1837,0.30115,0.54785
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,1954,1250,6100,7350,4.44251,461,0.44242,0.55531,4.56559,1086,0.37474,0.5707
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,3189,946,10092,11038,4.56028,499,0.52748,0.57004,4.58398,2788,0.27626,0.573
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,3568,1348,10913,12261,4.48733,582,0.43175,0.56092,4.57165,2817,0.25813,0.57146
+bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,271,854,10008,10862,4.54785,422,0.49415,0.56848,4.51161,2836,0.28337,0.56395
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,366.0,57.0,423,1053,227,1280,4.73788,592,0.5622,0.59223,4.66962,203,0.89427,0.5837
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,327.0,137.0,464,829,545,1374,4.56383,326,0.60482,0.57048,4.64434,291,0.63956,0.58054
 bridge_torch_default,Misguided Attention,logic puzzle,Bridge and Torch problem (Default),gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,324.0,86.0,410,730,343,1073,4.6601,464,0.55971,0.58251,4.61999,327,0.6,0.5775
@@ -1468,6 +1628,11 @@ monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,g
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,285.0,717.0,1002,1289,96,1385,4.63083,737,0.57176,0.57885,2.85539,54,0.5625,0.35692
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,311.0,953.0,1264,1264,120,1384,4.61708,678,0.53639,0.57714,2.85539,56,0.46667,0.35692
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,133.0,1449.0,1582,615,180,795,4.42793,415,0.6748,0.55349,2.85539,55,0.30556,0.35692
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,2737,949,10013,10962,4.6037,491,0.52682,0.57546,4.45559,2426,0.2356,0.55695
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,4367,1185,16056,17241,4.66542,487,0.51317,0.58318,4.47321,2407,0.24039,0.55915
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,4755,929,16229,17158,4.58934,588,0.4962,0.57367,4.4853,3528,0.21973,0.56066
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,2847,932,10297,11229,4.54149,507,0.54575,0.56769,4.57984,3620,0.22306,0.57248
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,2897,1169,10301,11470,4.69333,557,0.47648,0.58667,4.42842,2515,0.24415,0.55355
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,466.0,2604.0,3070,2402,10078,12480,4.62138,933,0.38843,0.57767,4.4367,2610,0.25898,0.55459
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,676.0,6868.0,7544,2388,26266,28654,4.70365,972,0.40704,0.58796,4.52147,5396,0.20544,0.56518
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,798.0,3295.0,4093,2490,12736,15226,4.6669,1240,0.40273,0.58336,4.51167,6378,0.21427,0.56396
@@ -1498,6 +1663,11 @@ monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,c
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,371.93548,397.06452,769,1153,1562,2715,4.67217,599,0.51951,0.58402,4.66352,719,0.46031,0.58294
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,276.77419,405.22581,682,858,1601,2459,4.63249,459,0.53497,0.57906,4.62961,715,0.4466,0.5787
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,260.64516,373.35484,634,808,1480,2288,4.60131,457,0.56559,0.57516,4.67687,653,0.44122,0.58461
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,3469,1456,12277,13733,4.74217,657,0.45124,0.59277,4.45307,2759,0.22473,0.55663
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,0,0,1,0,,,918,824,2891,3715,4.62324,491,0.59587,0.57791,4.44833,1146,0.3964,0.55604
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,9755,754,36922,37676,4.7311,481,0.54535,0.59139,4.45547,1001,0.41726,0.55693
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,0,0,1,0,,,855,882,2399,3281,4.59332,400,0.5305,0.57417,4.48411,6184,0.16749,0.56051
+monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,0,0,1,0,,,1129,1210,3087,4297,4.69106,581,0.48017,0.58638,4.44465,1126,0.36476,0.55558
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,306.0,594.0,900,1320,2319,3639,4.49718,625,0.47348,0.56215,4.53492,933,0.40233,0.56686
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,267.0,457.0,724,1231,1773,3004,4.59112,564,0.45816,0.57389,4.53879,769,0.43373,0.56735
 monty_hall_inverse,Misguided Attention,logic puzzle,Inverse Monty Hall Problem,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,275.0,342.0,617,1179,1325,2504,4.67744,709,0.45246,0.58468,4.48649,1266,0.364,0.56081
@@ -1558,6 +1728,11 @@ monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,grok-4-07
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,319.0,251.0,570,1394,36,1430,4.2528,142,0.93421,0.5316,2.85539,53,1.47222,0.35692
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,39.0,258.0,297,152,36,188,4.61697,1200,0.48622,0.57712,2.85539,53,1.47222,0.35692
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,544.0,236.0,780,2468,36,2504,4.59831,807,0.57891,0.57479,2.85539,53,1.47222,0.35692
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,Hermes-4-405B,nous,1,True,True,30000,1,1,1,1,,,1043,756,3333,4089,4.6534,441,0.58333,0.58167,4.46637,1313,0.39394,0.5583
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,Hermes-4-405B,nous,2,True,True,30000,1,1,1,1,,,1086,902,3363,4265,4.60668,506,0.56098,0.57583,4.46015,1294,0.38478,0.55752
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,Hermes-4-405B,nous,3,True,True,30000,1,1,1,1,,,1471,1023,4659,5682,4.58011,460,0.57935,0.57251,4.53605,1136,0.4434,0.56701
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,Hermes-4-405B,nous,4,True,True,30000,1,1,1,1,,,1305,871,4502,5373,4.55025,522,0.51026,0.56878,4.46755,1628,0.34943,0.55844
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,855,794,2562,3356,4.58014,500,0.57405,0.57252,4.4444,1613,0.35829,0.55555
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,268.0,826.0,1094,1261,3230,4491,4.55915,591,0.46868,0.56989,4.44652,1215,0.37616,0.55582
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,244.0,710.0,954,1005,2790,3795,4.556,553,0.55025,0.5695,4.44515,1127,0.40394,0.55564
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,256.0,486.0,742,1045,1905,2950,4.56369,548,0.5244,0.57046,4.43489,862,0.45249,0.55436
@@ -1588,6 +1763,11 @@ monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,claude-op
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,223.22581,331.77419,555,692,1284,1976,4.58695,393,0.56792,0.57337,4.55696,622,0.48442,0.56962
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,265.16129,394.83871,660,822,1510,2332,4.58194,393,0.5543,0.57274,4.61535,669,0.49446,0.57692
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,228.70968,352.29032,581,709,1353,2062,4.59087,439,0.53406,0.57386,4.65258,670,0.44371,0.58157
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,1142,886,3570,4456,4.72338,486,0.54853,0.59042,4.46473,1287,0.3605,0.55809
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,1,1,1,1,,,1060,859,3399,4258,4.63846,506,0.58906,0.57981,4.45714,1273,0.37452,0.55714
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,1178,1010,3657,4667,4.53279,502,0.49703,0.5666,4.45101,1403,0.38365,0.55638
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,1143,1021,3271,4292,4.7436,524,0.51322,0.59295,4.48963,1247,0.38123,0.5612
+monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,1098,809,3729,4538,4.5648,489,0.60445,0.5706,4.42034,1334,0.35774,0.55254
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,158.0,104.0,262,610,396,1006,4.57297,375,0.61475,0.57162,4.59495,294,0.74242,0.57437
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,347.0,30.0,377,1279,118,1397,4.49843,598,0.46755,0.5623,4.4843,135,1.14407,0.56054
 monty_hall_default,Misguided Attention,logic puzzle,Monty Hall Problem,gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,263.0,38.0,301,998,150,1148,4.77149,604,0.60521,0.59644,4.4723,156,1.04,0.55904
@@ -1648,6 +1828,11 @@ monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance wit
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",grok-4-07-09,x-ai,3,False,False,30000,1,1,1,1,9.0,7792.0,7801,42,936,978,3.77527,73,1.7381,0.47191,2.85539,62,0.06624,0.35692
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",grok-4-07-09,x-ai,4,False,False,30000,1,1,1,1,18.0,9988.0,10006,86,1200,1286,4.01505,106,1.23256,0.50188,2.85539,61,0.05083,0.35692
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",grok-4-07-09,x-ai,5,False,False,30000,1,1,1,1,16.0,5355.0,5371,74,648,722,4.05946,96,1.2973,0.50743,2.85539,60,0.09259,0.35692
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",Hermes-4-405B,nous,1,True,True,30000,0,0,1,0,,,4878,489,22309,22798,4.48585,570,0.5022,0.56073,4.46599,5627,0.18158,0.55825
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",Hermes-4-405B,nous,2,True,True,30000,0,0,1,0,,,7466,1135,30989,32124,4.3633,308,0.62986,0.54541,4.34025,3806,0.1706,0.54253
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",Hermes-4-405B,nous,3,True,True,30000,0,0,1,0,,,3827,682,16508,17190,4.41199,403,0.59091,0.5515,4.38055,3004,0.18197,0.54757
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",Hermes-4-405B,nous,4,True,True,30000,0,0,1,0,,,4716,674,18642,19316,4.40844,392,0.5816,0.55106,4.51422,4050,0.21725,0.56428
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",Hermes-4-405B,nous,5,True,True,30000,1,1,1,1,,,7284,790,30955,31745,4.42731,476,0.60253,0.55341,4.4091,5232,0.16902,0.55114
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",qwen3-235b-a22b-think,qwen,1,True,True,30000,1,1,1,1,-70.0,8292.0,8222,2365,31969,34334,4.65109,990,0.4186,0.58139,4.57251,7215,0.22569,0.57156
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",qwen3-235b-a22b-think,qwen,2,True,True,30000,1,1,1,1,-334.0,11037.0,10703,3654,42677,46331,4.91857,1441,0.39436,0.61482,4.53585,8837,0.20707,0.56698
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",qwen3-235b-a22b-think,qwen,3,True,True,30000,1,1,1,1,-19.0,8940.0,8921,2521,34656,37177,4.6649,1064,0.42205,0.58311,4.5619,7517,0.2169,0.57024
@@ -1678,6 +1863,11 @@ monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance wit
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",claude-opus-4.1,anthropic,3,False,False,30000,1,1,1,1,391.6129,987.3871,1379,1214,3198,4412,4.47659,683,0.50518,0.55957,4.48022,932,0.44808,0.56003
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",claude-opus-4.1,anthropic,4,False,False,30000,1,1,1,1,364.19355,498.80645,863,1129,2018,3147,4.45339,644,0.53048,0.55667,4.45432,1299,0.40619,0.55679
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",claude-opus-4.1,anthropic,5,False,False,30000,1,1,1,1,436.12903,466.87097,903,1352,2080,3432,4.50024,609,0.53942,0.56253,4.53964,922,0.45689,0.56746
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",DeepHermes-3-Mistral-24B-Pre,nous,1,True,True,30000,1,1,1,1,,,8281,370,36845,37215,4.36318,289,0.70316,0.5454,4.47298,6420,0.14744,0.55912
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",DeepHermes-3-Mistral-24B-Pre,nous,2,True,True,30000,0,0,1,0,,,10093,411,43544,43955,4.39333,261,0.70541,0.54917,4.40871,5931,0.16097,0.55109
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",DeepHermes-3-Mistral-24B-Pre,nous,3,True,True,30000,1,1,1,1,,,2823,705,11726,12431,4.49354,448,0.63546,0.56169,4.38986,2639,0.22506,0.54873
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",DeepHermes-3-Mistral-24B-Pre,nous,4,True,True,30000,1,1,1,1,,,9479,860,39763,40623,4.53178,493,0.57326,0.56647,4.45072,6151,0.15469,0.55634
+monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",DeepHermes-3-Mistral-24B-Pre,nous,5,True,True,30000,1,1,1,1,,,1545,715,6036,6751,4.49433,429,0.6,0.56179,4.3617,1729,0.28645,0.54521
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",gpt-oss-120b,openai,1,True,True,30000,1,1,1,1,-20.0,1349.0,1329,467,5370,5837,4.35546,342,0.73233,0.54443,4.51614,1771,0.3298,0.56452
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",gpt-oss-120b,openai,2,True,True,30000,1,1,1,1,348.0,913.0,1261,1880,3622,5502,4.33481,353,0.66983,0.54185,4.37025,851,0.41111,0.54628
 monty_appliance_simple,Misguided Attention,logic puzzle,"Defective appliance with free choice of box, no returns",gpt-oss-120b,openai,3,True,True,30000,1,1,1,1,48.0,519.0,567,527,2070,2597,4.70808,981,0.52181,0.58851,4.49171,1352,0.37327,0.56146

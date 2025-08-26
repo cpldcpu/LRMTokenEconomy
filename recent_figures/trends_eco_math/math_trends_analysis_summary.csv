@@ -1,4 +1,16 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1,Math,True,True,2082.6,0.7754486506394729,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1_mod,Math,True,True,1754.8,0.7824573211552002,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.8814328429128342,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2025I_Problem_2,Math,True,True,7966.4,0.9316416323883994,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,Ice cream parlor,Math,True,True,4094.6,0.8666108124658033,0.8,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,Integer pairs,Math,True,True,8754.8,0.9207421373719237,0.6,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2023II_P1,Math,True,True,1486.8,0.6943524648882804,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2023II_P1_mod,Math,True,True,1470.4,0.7090073536608053,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2025I_P2_modified,Math,True,True,3074.4,0.8541754965642496,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,AIME2025I_Problem_2,Math,True,True,3360.0,0.8575977834064252,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,Ice cream parlor,Math,True,True,3846.2,0.8889628144089284,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,Integer pairs,Math,True,True,5158.0,0.9037270220086272,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2023II_P1,Math,False,True,2848.8,0.8596737032947264,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2023II_P1_mod,Math,False,True,2766.8,0.8368931305177713,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2025I_P2_modified,Math,False,True,7756.8,0.944303737375427,1.0,5

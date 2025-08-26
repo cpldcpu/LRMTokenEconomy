@@ -1,4 +1,20 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_default,logic puzzle,True,True,2025.8,0.8582392443225076,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy,logic puzzle,True,True,13207.6,0.7671649048843106,0.2,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy_10m,logic puzzle,True,True,6842.6,0.9610184909989901,0.8,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_impossible,logic puzzle,True,True,11863.2,0.9686167038088696,0.2,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_appliance_simple,logic puzzle,True,True,6444.2,0.9593827471483334,0.8,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_hall_default,logic puzzle,True,True,1124.2,0.7933718289156426,1.0,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_hall_inverse,logic puzzle,True,True,3225.2,0.8203498959686311,0.4,5
+DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,roses_logic,logic puzzle,True,True,1066.6,0.7839006449121901,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_default,logic puzzle,True,True,1814.8,0.8308415023469466,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_easy,logic puzzle,True,True,8835.4,0.9232913056874826,0.6,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_easy_10m,logic puzzle,True,True,2013.4,0.9428268108706266,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_impossible,logic puzzle,True,True,10052.0,0.9277765021775393,0.4,5
+Hermes-4-405B,nous,Hermes-4-405B,monty_appliance_simple,logic puzzle,True,True,5634.2,0.9687531040579163,0.2,5
+Hermes-4-405B,nous,Hermes-4-405B,monty_hall_default,logic puzzle,True,True,1152.0,0.8049769215651533,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,monty_hall_inverse,logic puzzle,True,True,3520.6,0.9211270862273164,1.0,5
+Hermes-4-405B,nous,Hermes-4-405B,roses_logic,logic puzzle,True,True,750.6,0.7467024974442585,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,bridge_torch_default,logic puzzle,False,True,11502.8,0.9609176783790199,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,bridge_torch_easy,logic puzzle,False,True,19834.0,0.9777807802111023,0.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,bridge_torch_easy_10m,logic puzzle,False,True,19497.0,0.9734067745430695,0.2,5

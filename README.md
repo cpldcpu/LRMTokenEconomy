@@ -12,7 +12,7 @@ An analysis of token efficiency in Large Reasoning Models (LRMs), investigating 
 
 ## Updates
 
-See [/recent_figures](/recent_figures) folder for updates with the latest models. (Added: Deepseek V3.1, fixed GPT-OSS, GPT5)
+See [/recent_figures](/recent_figures) folder for updates with the latest models. (Added: Deepseek V3.1, fixed GPT-OSS, GPT5, Hermes4-405b)
 
 ## Dataset
 

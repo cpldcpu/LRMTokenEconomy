@@ -1,0 +1,249 @@
+{
+  "one_plus_one": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 2": 1.0
+      },
+      "avg_character_count_output": 195.0,
+      "avg_character_count_reasoning": 913.4,
+      "avg_character_count_completion": 1108.4,
+      "avg_tokens_completions": 281.2
+    }
+  },
+  "bridge_torch_easy_10m": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 1.0
+      },
+      "avg_character_count_output": 441.6,
+      "avg_character_count_reasoning": 7745.2,
+      "avg_character_count_completion": 8186.8,
+      "avg_tokens_completions": 2013.4
+    }
+  },
+  "AIME2023II_P1": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 220": 1.0
+      },
+      "avg_character_count_output": 1334.6,
+      "avg_character_count_reasoning": 3070.0,
+      "avg_character_count_completion": 4404.6,
+      "avg_tokens_completions": 1486.8
+    }
+  },
+  "AIME2023II_P1_mod": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 660": 1.0
+      },
+      "avg_character_count_output": 1246.2,
+      "avg_character_count_reasoning": 3197.0,
+      "avg_character_count_completion": 4443.2,
+      "avg_tokens_completions": 1470.4
+    }
+  },
+  "AIME2025I_P2_modified": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 41": 1.0
+      },
+      "avg_character_count_output": 1100.2,
+      "avg_character_count_reasoning": 6669.6,
+      "avg_character_count_completion": 7769.8,
+      "avg_tokens_completions": 3074.4
+    }
+  },
+  "AIME2025I_Problem_2": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 49": 1.0
+      },
+      "avg_character_count_output": 1112.8,
+      "avg_character_count_reasoning": 7898.0,
+      "avg_character_count_completion": 9010.8,
+      "avg_tokens_completions": 3360.0
+    }
+  },
+  "capital_of_australia": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is Canberra": 1.0
+      },
+      "avg_character_count_output": 333.4,
+      "avg_character_count_reasoning": 1036.2,
+      "avg_character_count_completion": 1369.6,
+      "avg_tokens_completions": 291.0
+    }
+  },
+  "train_distance": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 150 kilometers": 1.0
+      },
+      "avg_character_count_output": 251.0,
+      "avg_character_count_reasoning": 1235.8,
+      "avg_character_count_completion": 1486.8,
+      "avg_tokens_completions": 428.4
+    }
+  },
+  "brazil_continent": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is South America": 1.0
+      },
+      "avg_character_count_output": 348.8,
+      "avg_character_count_reasoning": 979.6,
+      "avg_character_count_completion": 1328.4,
+      "avg_tokens_completions": 268.4
+    }
+  },
+  "leap_year_february_days": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 29": 1.0
+      },
+      "avg_character_count_output": 375.6,
+      "avg_character_count_reasoning": 927.6,
+      "avg_character_count_completion": 1303.2,
+      "avg_tokens_completions": 324.4
+    }
+  },
+  "roses_logic": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "No, we cannot conclude that some roses are red.": 1.0
+      },
+      "avg_character_count_output": 855.0,
+      "avg_character_count_reasoning": 2509.2,
+      "avg_character_count_completion": 3364.2,
+      "avg_tokens_completions": 750.6
+    }
+  },
+  "Ice cream parlor": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 16": 1.0
+      },
+      "avg_character_count_output": 1220.2,
+      "avg_character_count_reasoning": 10125.0,
+      "avg_character_count_completion": 11345.2,
+      "avg_tokens_completions": 3846.2
+    }
+  },
+  "Integer pairs": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 117": 1.0
+      },
+      "avg_character_count_output": 1341.4,
+      "avg_character_count_reasoning": 13220.6,
+      "avg_character_count_completion": 14562.0,
+      "avg_tokens_completions": 5158.0
+    }
+  },
+  "bridge_torch_impossible": {
+    "Hermes-4-405B": {
+      "average_total_score": 0.4,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer concludes that it is impossible to solve within 17 minutes": 0.4
+      },
+      "avg_character_count_output": 2430.8,
+      "avg_character_count_reasoning": 31548.6,
+      "avg_character_count_completion": 33979.4,
+      "avg_tokens_completions": 10052.0
+    }
+  },
+  "bridge_torch_easy": {
+    "Hermes-4-405B": {
+      "average_total_score": 0.6,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 0.6
+      },
+      "avg_character_count_output": 2311.2,
+      "avg_character_count_reasoning": 28338.4,
+      "avg_character_count_completion": 30649.6,
+      "avg_tokens_completions": 8835.4
+    }
+  },
+  "bridge_torch_default": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.": 1.0
+      },
+      "avg_character_count_output": 1039.6,
+      "avg_character_count_reasoning": 5185.6,
+      "avg_character_count_completion": 6225.2,
+      "avg_tokens_completions": 1814.8
+    }
+  },
+  "monty_hall_inverse": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to keep the existing door": 1.0
+      },
+      "avg_character_count_output": 1032.8,
+      "avg_character_count_reasoning": 12579.2,
+      "avg_character_count_completion": 13612.0,
+      "avg_tokens_completions": 3520.6
+    }
+  },
+  "monty_hall_default": {
+    "Hermes-4-405B": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to switch doors": 1.0
+      },
+      "avg_character_count_output": 869.2,
+      "avg_character_count_reasoning": 3683.8,
+      "avg_character_count_completion": 4553.0,
+      "avg_tokens_completions": 1152.0
+    }
+  },
+  "monty_appliance_simple": {
+    "Hermes-4-405B": {
+      "average_total_score": 0.2,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests to take the box the clerk tested": 0.2
+      },
+      "avg_character_count_output": 754.0,
+      "avg_character_count_reasoning": 23880.6,
+      "avg_character_count_completion": 24634.6,
+      "avg_tokens_completions": 5634.2
+    }
+  }
+}

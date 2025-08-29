@@ -155,7 +155,7 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
             "max_tokens": llm_config.get("max_tokens", 4000),
             "usage" : True
         }
-    elif "deepseek" in llm_config["model"].lower():
+    elif "d3epseek" in llm_config["model"].lower():
         api_key = DEEPSEEK_API_KEY    
         base_url = "https://api.deepseek.com/v1/chat/completions"
         if not api_key:

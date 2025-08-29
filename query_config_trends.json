@@ -266,7 +266,19 @@
         "top_p": 1.0,
         "repetition_penalty": 1,
         "system_prompt": "You are a deep thinking AI, you may use extremely long chains of thought to deeply consider the problem and deliberate with yourself via systematic reasoning processes to help come to a correct solution prior to answering. You should enclose your thoughts and internal monologue inside <think> </think> tags, and then provide your solution or response to the problem."
-      }
+      },
+               {
+      "name": "ds-r1-0528-abbr",
+      "model": "deepseek/deepseek-r1-0528",
+      "open_weights": true,
+      "full_cot": true,
+      "max_tokens": 60000,
+      "temperature": 1.0,
+      "provider": [ "parasail/fp8"],
+      "top_p": 1.0,
+      "repetition_penalty": 1,
+      "system_prompt": "Use abbreviated language when thinking. Do not use markdown.\nExample: <think>We need to solve: six terms arithmetic sequence: a, a+d, a+2d, a+3d, a+4d, a+5d. Greatest = a+5d, least = a. Condition</think>"
+    }
 
   ] 
 }

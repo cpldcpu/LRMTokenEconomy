@@ -228,6 +228,18 @@
       "temperature": 1.0,
       "top_p": 1.0,
       "repetition_penalty": 1
+    },
+             {
+      "name": "ds-r1-0528-abbr",
+      "model": "deepseek/deepseek-r1-0528",
+      "open_weights": true,
+      "full_cot": true,
+      "max_tokens": 60000,
+      "temperature": 1.0,
+      "provider": [ "parasail/fp8"],
+      "top_p": 1.0,
+      "repetition_penalty": 1,
+      "system_prompt": "Use abbreviated language when thinking. Do not use markdown.\nExample: <think>We need to solve: six terms arithmetic sequence: a, a+d, a+2d, a+3d, a+4d, a+5d. Greatest = a+5d, least = a. Condition</think>"
     }
   ] 
 }

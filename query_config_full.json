@@ -361,7 +361,7 @@
         "repetition_penalty": 1,
         "system_prompt": "You are a deep thinking AI, you may use extremely long chains of thought to deeply consider the problem and deliberate with yourself via systematic reasoning processes to help come to a correct solution prior to answering. You should enclose your thoughts and internal monologue inside <think> </think> tags, and then provide your solution or response to the problem."
       },
-                         {
+                   {
       "name": "deepseek-V3.1",
       "model": "deepseek/deepseek-reasoner",
       "open_weights": true,

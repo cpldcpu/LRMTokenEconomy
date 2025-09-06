@@ -95,6 +95,7 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
         # wait for 6s to avoid rate limiting
         await asyncio.sleep(6)
         try:
+            t_start = time.perf_counter()
             request_options = {}
             if "timeout" in llm_config and isinstance(llm_config["timeout"], int):
                 request_options["timeout"] = llm_config["timeout"]
@@ -106,6 +107,7 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
                 ),
                 request_options=request_options if request_options else None
             )
+            latency_ms = (time.perf_counter() - t_start) * 1000.0
             
             response_text = response.text
             thinking_content = None
@@ -129,7 +131,8 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
                 'provider': 'google',
                 'id': None,
                 'tokens_completion': tokens_completion,
-                'completion_tokens_details': None
+                'completion_tokens_details': None,
+                'latency_ms': latency_ms
             }
         except Exception as e:
             print(f"Gemini API error: {e}")
@@ -224,9 +227,11 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
 
     for attempt in range(max_retries):
         try:
+            t_start = time.perf_counter()
             async with session.post(base_url, headers=headers, json=data, timeout=request_timeout) as response:
                 response.raise_for_status()
                 response_json = await response.json()
+                latency_ms = (time.perf_counter() - t_start) * 1000.0
 
                 if response_json is None:
                     raise ValueError("API returned an empty JSON response")
@@ -267,6 +272,7 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
                         'id': response_json.get('id'),
                         'provider': response_json.get('provider'),
                         'finish_reason': response_json['choices'][0].get('finish_reason'),
+                        'latency_ms': latency_ms,
                         # 'native_finish_reason': response_json['choices'][0].get('native_finish_reason')
                     }
 
@@ -320,7 +326,7 @@ async def process_prompt_sample(session, semaphore, prompt, llm, sample_idx, arg
         
         if response is None:
             print(f"Failed to get response for prompt {prompt['prompt_id']}")
-            return None, None, None, None, None, None, None, None
+            return None, None, None, None, None, None, None, None, None
         else:
             if args.debug:
                 print(f"Answer: ...{response.get('content', '')[:200]}")
@@ -336,12 +342,14 @@ async def process_prompt_sample(session, semaphore, prompt, llm, sample_idx, arg
                     print(f"  Provider: {response.get('provider')}")
                 if response.get('finish_reason'):
                     print(f"  Finish Reason: {response.get('finish_reason')}")
+                if response.get('latency_ms') is not None:
+                    print(f"  Latency (ms): {response.get('latency_ms'):.2f}")
                 # if response.get('native_finish_reason'):
                 #     print(f"  Native Finish Reason: {response.get('native_finish_reason')}")
 
 
             return (response.get('content'), response.get('thinking'), response.get('tokens_completion'), response.get('completion_tokens_details'),
-                    response.get('id'), response.get('provider'), response.get('finish_reason'), response.get('native_finish_reason'))
+                    response.get('id'), response.get('provider'), response.get('finish_reason'), response.get('native_finish_reason'), response.get('latency_ms'))
 
 async def process_prompt_llm_combination(session, semaphore, prompt, llm, args, cot_data, existing_results):
     """Process all samples for a prompt-LLM combination."""
@@ -382,6 +390,8 @@ async def process_prompt_llm_combination(session, semaphore, prompt, llm, args, 
             result["provider"] = []
         if "finish_reason" not in result:
             result["finish_reason"] = []
+        if "latency_ms" not in result:
+            result["latency_ms"] = []
         # if "native_finish_reason" not in result:
         #     result["native_finish_reason"] = []
         
@@ -400,6 +410,8 @@ async def process_prompt_llm_combination(session, semaphore, prompt, llm, args, 
             result["provider"].append(None)
         while len(result["finish_reason"]) < existing_samples:
             result["finish_reason"].append(None)
+        while len(result["latency_ms"]) < existing_samples:
+            result["latency_ms"].append(None)
         # while len(result["native_finish_reason"]) < existing_samples:
         #     result["native_finish_reason"].append(None)
         
@@ -420,7 +432,8 @@ async def process_prompt_llm_combination(session, semaphore, prompt, llm, args, 
             "completion_tokens_details": [],
             "id": [],
             "provider": [],
-            "finish_reason": []
+            "finish_reason": [],
+            "latency_ms": []
             # "native_finish_reason": []
         }
 
@@ -451,7 +464,7 @@ async def process_prompt_llm_combination(session, semaphore, prompt, llm, args, 
                 # result["native_finish_reason"].append(None)
             else:
                 (output, thinking, tokens, completion_tokens_details, 
-                 req_id, provider, finish_reason, native_finish_reason) = sample_result
+                 req_id, provider, finish_reason, native_finish_reason, latency_ms) = sample_result
                 result["output"].append(output)
                 result["thinking"].append(thinking)
                 result["tokens_completion"].append(tokens)
@@ -459,6 +472,7 @@ async def process_prompt_llm_combination(session, semaphore, prompt, llm, args, 
                 result["id"].append(req_id)
                 result["provider"].append(provider)
                 result["finish_reason"].append(finish_reason)
+                result["latency_ms"].append(latency_ms)
                 # result["native_finish_reason"].append(native_finish_reason)
     
     return result

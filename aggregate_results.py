@@ -296,7 +296,19 @@ def filter_prompts_by_evalset(detailed_evaluations: Dict[str, Any],
 
 
 def create_text_lookup(output_queries: Dict[str, Any]) -> Dict[str, Dict[str, Dict[str, List[str]]]]:
-    """Create a lookup dictionary for text content from output queries."""
+    """Create a lookup dictionary for text content (output, thinking) and latency from output queries.
+
+    Structure returned:
+    {
+        prompt_id: {
+            model_name: {
+                'output': [...],
+                'thinking': [...],
+                'latency_ms': [...]
+            }
+        }
+    }
+    """
     text_lookup = {}
     
     for result in output_queries.get('results', []):
@@ -304,15 +316,17 @@ def create_text_lookup(output_queries: Dict[str, Any]) -> Dict[str, Dict[str, Di
         model_name = result.get('llm')
         output_texts = result.get('output', [])
         thinking_texts = result.get('thinking', [])
-        
+        latency_values = result.get('latency_ms', [])
+
         if prompt_id not in text_lookup:
             text_lookup[prompt_id] = {}
         if model_name not in text_lookup[prompt_id]:
             text_lookup[prompt_id][model_name] = {}
-        
+
         text_lookup[prompt_id][model_name] = {
             'output': output_texts,
-            'thinking': thinking_texts
+            'thinking': thinking_texts,
+            'latency_ms': latency_values
         }
     
     return text_lookup
@@ -368,17 +382,21 @@ def process_detailed_evaluations(detailed_evaluations: Dict[str, Any],
                 output_text = ""
                 thinking_text = ""
                 
+                latency_value = None
                 if (prompt_id in text_lookup and 
                     model_name in text_lookup[prompt_id]):
-                    
+
                     output_list = text_lookup[prompt_id][model_name].get('output', [])
                     thinking_list = text_lookup[prompt_id][model_name].get('thinking', [])
-                    
+                    latency_list = text_lookup[prompt_id][model_name].get('latency_ms', [])
+
                     # Get the text for this specific run
                     if run_idx < len(output_list):
                         output_text = output_list[run_idx] or ""
                     if run_idx < len(thinking_list):
                         thinking_text = thinking_list[run_idx] or ""
+                    if run_idx < len(latency_list):
+                        latency_value = latency_list[run_idx]
                 
                 # Calculate entropy metrics
                 output_entropy = calculate_shannon_entropy(output_text)
@@ -435,7 +453,10 @@ def process_detailed_evaluations(detailed_evaluations: Dict[str, Any],
                     'thinking_entropy': thinking_entropy,
                     'thinking_bzip2_length': thinking_compressed_length,
                     'thinking_bzip2_ratio': thinking_bzip2_ratio,
-                    'thinking_entropy_ratio': thinking_entropy_ratio
+                    'thinking_entropy_ratio': thinking_entropy_ratio,
+
+                    # Latency (ms) for this run (may be None if not recorded)
+                    'latency_ms': latency_value
                 }
                 
                 records.append(record)

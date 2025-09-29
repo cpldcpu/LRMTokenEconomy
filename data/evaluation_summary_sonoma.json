@@ -1,0 +1,521 @@
+{
+  "one_plus_one": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 2": 1.0
+      },
+      "avg_character_count_output": 30.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 30.8,
+      "avg_tokens_output": 9.0,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 9.0
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 2": 1.0
+      },
+      "avg_character_count_output": 99.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 99.8,
+      "avg_tokens_output": 24.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 24.2
+    }
+  },
+  "bridge_torch_easy_10m": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 1.0
+      },
+      "avg_character_count_output": 134.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 134.6,
+      "avg_tokens_output": 31.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 31.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.8,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 0.8
+      },
+      "avg_character_count_output": 1979.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1979.8,
+      "avg_tokens_output": 512.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 512.6
+    }
+  },
+  "AIME2023II_P1_mod": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 660": 1.0
+      },
+      "avg_character_count_output": 989.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 989.8,
+      "avg_tokens_output": 348.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 348.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.8,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 660": 0.8
+      },
+      "avg_character_count_output": 934.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 934.6,
+      "avg_tokens_output": 333.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 333.2
+    }
+  },
+  "AIME2025I_P2_modified": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 41": 1.0
+      },
+      "avg_character_count_output": 1063.4,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1063.4,
+      "avg_tokens_output": 414.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 414.2
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.2,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 41": 0.2
+      },
+      "avg_character_count_output": 1088.4,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1088.4,
+      "avg_tokens_output": 475.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 475.2
+    }
+  },
+  "AIME2025I_Problem_2": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 49": 1.0
+      },
+      "avg_character_count_output": 965.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 965.8,
+      "avg_tokens_output": 374.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 374.4
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.6,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 49": 0.6
+      },
+      "avg_character_count_output": 484.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 484.6,
+      "avg_tokens_output": 209.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 209.8
+    }
+  },
+  "capital_of_australia": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is Canberra": 1.0
+      },
+      "avg_character_count_output": 271.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 271.0,
+      "avg_tokens_output": 56.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 56.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is Canberra": 1.0
+      },
+      "avg_character_count_output": 130.4,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 130.4,
+      "avg_tokens_output": 26.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 26.6
+    }
+  },
+  "train_distance": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 150 kilometers": 1.0
+      },
+      "avg_character_count_output": 113.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 113.0,
+      "avg_tokens_output": 36.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 36.4
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 150 kilometers": 1.0
+      },
+      "avg_character_count_output": 101.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 101.8,
+      "avg_tokens_output": 31.0,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 31.0
+    }
+  },
+  "brazil_continent": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is South America": 1.0
+      },
+      "avg_character_count_output": 66.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 66.8,
+      "avg_tokens_output": 12.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 12.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is South America": 1.0
+      },
+      "avg_character_count_output": 388.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 388.6,
+      "avg_tokens_output": 71.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 71.4
+    }
+  },
+  "leap_year_february_days": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 29": 1.0
+      },
+      "avg_character_count_output": 166.2,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 166.2,
+      "avg_tokens_output": 41.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 41.4
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 29": 1.0
+      },
+      "avg_character_count_output": 335.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 335.0,
+      "avg_tokens_output": 81.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 81.8
+    }
+  },
+  "roses_logic": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "No, we cannot conclude that some roses are red.": 1.0
+      },
+      "avg_character_count_output": 863.4,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 863.4,
+      "avg_tokens_output": 190.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 190.4
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "No, we cannot conclude that some roses are red.": 1.0
+      },
+      "avg_character_count_output": 1082.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1082.8,
+      "avg_tokens_output": 226.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 226.6
+    }
+  },
+  "Ice cream parlor": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 16": 1.0
+      },
+      "avg_character_count_output": 1314.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1314.6,
+      "avg_tokens_output": 518.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 518.8
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 16": 1.0
+      },
+      "avg_character_count_output": 909.2,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 909.2,
+      "avg_tokens_output": 364.0,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 364.0
+    }
+  },
+  "Integer pairs": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 117": 1.0
+      },
+      "avg_character_count_output": 1212.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1212.6,
+      "avg_tokens_output": 474.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 474.2
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.2,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 117": 0.2
+      },
+      "avg_character_count_output": 1365.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1365.8,
+      "avg_tokens_output": 537.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 537.6
+    }
+  },
+  "bridge_torch_impossible": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 0.2,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer concludes that it is impossible to solve within 17 minutes": 0.2
+      },
+      "avg_character_count_output": 385.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 385.0,
+      "avg_tokens_output": 111.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 111.8
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.2,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer concludes that it is impossible to solve within 17 minutes": 0.2
+      },
+      "avg_character_count_output": 10875.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 10875.6,
+      "avg_tokens_output": 3271.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 3271.8
+    }
+  },
+  "bridge_torch_easy": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 0.4,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 0.4
+      },
+      "avg_character_count_output": 284.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 284.6,
+      "avg_tokens_output": 72.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 72.4
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.6,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 0.6
+      },
+      "avg_character_count_output": 6176.8,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 6176.8,
+      "avg_tokens_output": 1786.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 1786.8
+    }
+  },
+  "bridge_torch_default": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.": 1.0
+      },
+      "avg_character_count_output": 377.4,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 377.4,
+      "avg_tokens_output": 108.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 108.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.": 1.0
+      },
+      "avg_character_count_output": 910.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 910.6,
+      "avg_tokens_output": 241.4,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 241.4
+    }
+  },
+  "monty_hall_inverse": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to keep the existing door": 1.0
+      },
+      "avg_character_count_output": 1216.6,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1216.6,
+      "avg_tokens_output": 297.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 297.8
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.2,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to keep the existing door": 0.2
+      },
+      "avg_character_count_output": 3005.2,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 3005.2,
+      "avg_tokens_output": 763.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 763.2
+    }
+  },
+  "monty_hall_default": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to switch doors": 1.0
+      },
+      "avg_character_count_output": 807.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 807.0,
+      "avg_tokens_output": 184.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 184.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to switch doors": 1.0
+      },
+      "avg_character_count_output": 2598.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 2598.0,
+      "avg_tokens_output": 631.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 631.8
+    }
+  },
+  "monty_appliance_simple": {
+    "sonoma-sky-alpha": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests to take the box the clerk tested": 1.0
+      },
+      "avg_character_count_output": 178.4,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 178.4,
+      "avg_tokens_output": 35.6,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 35.6
+    },
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.6,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests to take the box the clerk tested": 0.6
+      },
+      "avg_character_count_output": 5857.2,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 5857.2,
+      "avg_tokens_output": 1482.2,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 1482.2
+    }
+  },
+  "AIME2023II_P1": {
+    "sonoma-dusk-alpha": {
+      "average_total_score": 0.4,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 220": 0.4
+      },
+      "avg_character_count_output": 1008.0,
+      "avg_character_count_reasoning": 0.0,
+      "avg_character_count_completion": 1008.0,
+      "avg_tokens_output": 403.8,
+      "avg_tokens_reasoning": 0.0,
+      "avg_tokens_completions": 403.8
+    }
+  }
+}

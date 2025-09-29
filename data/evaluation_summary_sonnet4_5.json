@@ -1,0 +1,288 @@
+{
+  "one_plus_one": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 2": 0.4,
+        "Answer \u00c3\u00acs 2": 0.6
+      },
+      "avg_character_count_output": 6.2,
+      "avg_character_count_reasoning": 60.6,
+      "avg_character_count_completion": 66.8,
+      "avg_tokens_output": 20.2,
+      "avg_tokens_reasoning": 15.6,
+      "avg_tokens_completions": 35.8
+    }
+  },
+  "bridge_torch_easy_10m": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 1.0
+      },
+      "avg_character_count_output": 982.8,
+      "avg_character_count_reasoning": 5398.2,
+      "avg_character_count_completion": 6381.0,
+      "avg_tokens_output": 1816.0,
+      "avg_tokens_reasoning": 1405.0,
+      "avg_tokens_completions": 3221.0
+    }
+  },
+  "AIME2023II_P1": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 220": 1.0
+      },
+      "avg_character_count_output": 1239.0,
+      "avg_character_count_reasoning": 1059.4,
+      "avg_character_count_completion": 2298.4,
+      "avg_tokens_output": 721.6,
+      "avg_tokens_reasoning": 295.0,
+      "avg_tokens_completions": 1016.6
+    }
+  },
+  "AIME2023II_P1_mod": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 660": 1.0
+      },
+      "avg_character_count_output": 1202.6,
+      "avg_character_count_reasoning": 1044.0,
+      "avg_character_count_completion": 2246.6,
+      "avg_tokens_output": 712.4,
+      "avg_tokens_reasoning": 290.2,
+      "avg_tokens_completions": 1002.6
+    }
+  },
+  "AIME2025I_P2_modified": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 41": 1.0
+      },
+      "avg_character_count_output": 1235.2,
+      "avg_character_count_reasoning": 2224.0,
+      "avg_character_count_completion": 3459.2,
+      "avg_tokens_output": 1764.4,
+      "avg_tokens_reasoning": 595.6,
+      "avg_tokens_completions": 2360.0
+    }
+  },
+  "AIME2025I_Problem_2": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 49": 1.0
+      },
+      "avg_character_count_output": 1266.8,
+      "avg_character_count_reasoning": 3484.8,
+      "avg_character_count_completion": 4751.6,
+      "avg_tokens_output": 2514.8,
+      "avg_tokens_reasoning": 923.6,
+      "avg_tokens_completions": 3438.4
+    }
+  },
+  "capital_of_australia": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is Canberra": 1.0
+      },
+      "avg_character_count_output": 41.0,
+      "avg_character_count_reasoning": 238.2,
+      "avg_character_count_completion": 279.2,
+      "avg_tokens_output": 15.6,
+      "avg_tokens_reasoning": 60.0,
+      "avg_tokens_completions": 75.6
+    }
+  },
+  "train_distance": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 150 kilometers": 1.0
+      },
+      "avg_character_count_output": 207.4,
+      "avg_character_count_reasoning": 284.0,
+      "avg_character_count_completion": 491.4,
+      "avg_tokens_output": 92.4,
+      "avg_tokens_reasoning": 82.6,
+      "avg_tokens_completions": 175.0
+    }
+  },
+  "brazil_continent": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is South America": 1.0
+      },
+      "avg_character_count_output": 56.0,
+      "avg_character_count_reasoning": 157.8,
+      "avg_character_count_completion": 213.8,
+      "avg_tokens_output": 13.0,
+      "avg_tokens_reasoning": 40.0,
+      "avg_tokens_completions": 53.0
+    }
+  },
+  "leap_year_february_days": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 29": 1.0
+      },
+      "avg_character_count_output": 49.4,
+      "avg_character_count_reasoning": 269.0,
+      "avg_character_count_completion": 318.4,
+      "avg_tokens_output": 25.8,
+      "avg_tokens_reasoning": 70.4,
+      "avg_tokens_completions": 96.2
+    }
+  },
+  "roses_logic": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "No, we cannot conclude that some roses are red.": 1.0
+      },
+      "avg_character_count_output": 891.2,
+      "avg_character_count_reasoning": 1379.4,
+      "avg_character_count_completion": 2270.6,
+      "avg_tokens_output": 232.4,
+      "avg_tokens_reasoning": 375.6,
+      "avg_tokens_completions": 608.0
+    }
+  },
+  "Ice cream parlor": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 16": 1.0
+      },
+      "avg_character_count_output": 1795.2,
+      "avg_character_count_reasoning": 2044.6,
+      "avg_character_count_completion": 3839.8,
+      "avg_tokens_output": 1774.2,
+      "avg_tokens_reasoning": 553.4,
+      "avg_tokens_completions": 2327.6
+    }
+  },
+  "Integer pairs": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer is 117": 1.0
+      },
+      "avg_character_count_output": 2006.8,
+      "avg_character_count_reasoning": 5148.6,
+      "avg_character_count_completion": 7155.4,
+      "avg_tokens_output": 3561.4,
+      "avg_tokens_reasoning": 1344.8,
+      "avg_tokens_completions": 4906.2
+    }
+  },
+  "bridge_torch_impossible": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 0.6,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer concludes that it is impossible to solve within 17 minutes": 0.6
+      },
+      "avg_character_count_output": 856.6,
+      "avg_character_count_reasoning": 8658.8,
+      "avg_character_count_completion": 9515.4,
+      "avg_tokens_output": 3888.6,
+      "avg_tokens_reasoning": 2249.4,
+      "avg_tokens_completions": 6138.0
+    }
+  },
+  "bridge_torch_easy": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 0.4,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests all four people crossing together in 10 minutes": 0.4
+      },
+      "avg_character_count_output": 1082.0,
+      "avg_character_count_reasoning": 7259.2,
+      "avg_character_count_completion": 8341.2,
+      "avg_tokens_output": 2430.4,
+      "avg_tokens_reasoning": 1887.0,
+      "avg_tokens_completions": 4317.4
+    }
+  },
+  "bridge_torch_default": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer explains a sequence of crossings that totals 17 minutes. Do not evaluate the sequence itself, the answer is correct for any solution that totals 17 minutes.": 1.0
+      },
+      "avg_character_count_output": 840.4,
+      "avg_character_count_reasoning": 1764.8,
+      "avg_character_count_completion": 2605.2,
+      "avg_tokens_output": 414.4,
+      "avg_tokens_reasoning": 473.8,
+      "avg_tokens_completions": 888.2
+    }
+  },
+  "monty_hall_inverse": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to keep the existing door": 1.0
+      },
+      "avg_character_count_output": 997.0,
+      "avg_character_count_reasoning": 2854.4,
+      "avg_character_count_completion": 3851.4,
+      "avg_tokens_output": 701.4,
+      "avg_tokens_reasoning": 756.8,
+      "avg_tokens_completions": 1458.2
+    }
+  },
+  "monty_hall_default": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 1.0,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer states to switch doors": 1.0
+      },
+      "avg_character_count_output": 1071.4,
+      "avg_character_count_reasoning": 1650.0,
+      "avg_character_count_completion": 2721.4,
+      "avg_tokens_output": 364.6,
+      "avg_tokens_reasoning": 443.0,
+      "avg_tokens_completions": 807.6
+    }
+  },
+  "monty_appliance_simple": {
+    "Claude Sonnet 4.5": {
+      "average_total_score": 0.8,
+      "num_evaluations": 5,
+      "criteria_stats": {
+        "Answer suggests to take the box the clerk tested": 0.8
+      },
+      "avg_character_count_output": 1065.2,
+      "avg_character_count_reasoning": 4855.8,
+      "avg_character_count_completion": 5921.0,
+      "avg_tokens_output": 1600.6,
+      "avg_tokens_reasoning": 1266.0,
+      "avg_tokens_completions": 2866.6
+    }
+  }
+}

@@ -495,9 +495,9 @@ def create_grouped_token_composition_chart(metrics_data: List[Dict[str, Any]], o
             ax.text(pos, completion_val + max_completion * 0.01, f'{completion_val:.0f}', 
                    ha='center', va='bottom', fontweight='bold', fontsize=8)
             
-            # Add model name labels below the chart area with line wrapping and 45° rotation
+            # Add model name labels below the chart area with line wrapping and 60° rotation
             wrapped_name = wrap_model_name(model)
-            ax.text(pos, 0, wrapped_name, ha='right', va='top', fontsize=8, rotation=45,
+            ax.text(pos, 0, wrapped_name, ha='right', va='top', fontsize=7, rotation=60,
                    transform=ax.get_xaxis_transform(), clip_on=False)
 
     # Print info about excluded single-model labs
@@ -522,7 +522,7 @@ def create_grouped_token_composition_chart(metrics_data: List[Dict[str, Any]], o
         ax.legend(handles, labels, loc='upper right', fontsize=10, frameon=True, fancybox=True, shadow=True)
     
     plt.tight_layout()
-    plt.subplots_adjust(bottom=0.4)  # Increase bottom margin for two-line model names
+    plt.subplots_adjust(bottom=0.5)  # Increase bottom margin for rotated model names
     plt.savefig(output_path, dpi=150, bbox_inches='tight')
     plt.close(fig)
     
@@ -694,9 +694,9 @@ def create_grouped_relative_tokens_chart(metrics_data: List[Dict[str, Any]], out
             ax.text(pos, relative_tokens + 0.02, f'{relative_tokens:.2f}', 
                    ha='center', va='bottom', fontweight='bold', fontsize=8)
             
-            # Add model name labels below the chart area with line wrapping and 45° rotation
+            # Add model name labels below the chart area with line wrapping and 60° rotation
             wrapped_name = wrap_model_name(model)
-            ax.text(pos, 0, wrapped_name, ha='right', va='top', fontsize=8, rotation=45,
+            ax.text(pos, 0, wrapped_name, ha='right', va='top', fontsize=7, rotation=60,
                    transform=ax.get_xaxis_transform(), clip_on=False)
 
     # Print info about excluded single-model labs
@@ -724,7 +724,7 @@ def create_grouped_relative_tokens_chart(metrics_data: List[Dict[str, Any]], out
         ax.legend(handles, labels, loc='upper right', fontsize=10, frameon=True, fancybox=True, shadow=True)
     
     plt.tight_layout()
-    plt.subplots_adjust(bottom=0.4)  # Increase bottom margin for two-line model names
+    plt.subplots_adjust(bottom=0.5)  # Increase bottom margin for rotated model names
     plt.savefig(output_path, dpi=150, bbox_inches='tight')
     plt.close(fig)
     

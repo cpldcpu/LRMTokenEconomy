@@ -1,4 +1,23 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2023II_P1,Math,False,False,1016.6,0.6063698260272318,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2023II_P1_mod,Math,False,False,1002.6,0.6124798592060082,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2025I_P2_modified,Math,False,False,2360.0,0.8203723205089137,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2025I_Problem_2,Math,False,False,3438.4,0.842603608921951,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,Ice cream parlor,Math,False,False,2327.6,0.7458233322795196,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,Integer pairs,Math,False,False,4906.2,0.8553452604699829,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,brazil_continent,knowledge,False,False,53.0,0.6590169902097902,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_default,logic puzzle,False,False,888.2,0.6938992465227811,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_easy,logic puzzle,False,False,4317.4,0.9166057282069131,0.4,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_easy_10m,logic puzzle,False,False,3221.0,0.8968090899828759,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_impossible,logic puzzle,False,False,6138.0,0.9538673761072893,0.6,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,capital_of_australia,knowledge,False,False,75.6,0.8249872754860123,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,leap_year_february_days,knowledge,False,False,96.2,0.8280538434826598,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,monty_appliance_simple,logic puzzle,False,False,2866.6,0.8708292364508277,0.8,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,monty_hall_default,logic puzzle,False,False,807.6,0.5668964925260532,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,monty_hall_inverse,logic puzzle,False,False,1458.2,0.765658399782026,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,one_plus_one,knowledge,False,False,35.8,0.9460380313813813,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,roses_logic,logic puzzle,False,False,608.0,0.523923745830242,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,train_distance,knowledge,False,False,175.0,0.6142247100022784,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1,Math,True,True,2082.6,0.7754486506394729,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1_mod,Math,True,True,1754.8,0.7824573211552002,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.8814328429128342,1.0,5
@@ -132,6 +151,25 @@ deepseek-V3.1,deepseek,deepseek-V3.1,monty_hall_inverse,logic puzzle,True,True,2
 deepseek-V3.1,deepseek,deepseek-V3.1,one_plus_one,knowledge,True,True,95.2,0.9422028002647561,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,roses_logic,logic puzzle,True,True,386.4,0.6885303034526812,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,train_distance,knowledge,True,True,276.6,0.7887480560582109,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2023II_P1,Math,True,True,557.8,0.44147859623079644,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2023II_P1_mod,Math,True,True,656.4,0.48159737598706254,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2025I_P2_modified,Math,True,True,2001.2,0.6495126515466908,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2025I_Problem_2,Math,True,True,1298.2,0.6372571901360926,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,Ice cream parlor,Math,True,True,2313.2,0.7099455264803988,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,Integer pairs,Math,True,True,2671.0,0.7440094835547609,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,brazil_continent,knowledge,True,True,118.8,0.905853079197526,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_default,logic puzzle,True,True,1400.4,0.8163798513884647,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_easy,logic puzzle,True,True,15351.6,0.9886978779894029,0.2,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_easy_10m,logic puzzle,True,True,3987.0,0.9678049273900072,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_impossible,logic puzzle,True,True,16532.2,0.9816909488547895,0.2,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,capital_of_australia,knowledge,True,True,140.4,0.8274270645596884,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,leap_year_february_days,knowledge,True,True,198.0,0.7702851131031159,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,monty_appliance_simple,logic puzzle,True,True,4149.4,0.9743213081708217,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,monty_hall_default,logic puzzle,True,True,596.0,0.7566270077757193,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,monty_hall_inverse,logic puzzle,True,True,1939.0,0.8593326476845172,0.8,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,one_plus_one,knowledge,True,True,117.2,0.9004278309041378,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,roses_logic,logic puzzle,True,True,304.0,0.6986065091867293,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,train_distance,knowledge,True,True,258.4,0.7472378242521727,1.0,5
 deepseek-r1,deepseek,deepseek-r1,AIME2023II_P1,Math,True,True,1982.2,0.769239131778362,1.0,5
 deepseek-r1,deepseek,deepseek-r1,AIME2023II_P1_mod,Math,True,True,1449.2,0.7232953699324952,1.0,5
 deepseek-r1,deepseek,deepseek-r1,AIME2025I_P2_modified,Math,True,True,3170.4,0.8725225763557625,1.0,5

@@ -1,4 +1,9 @@
 llm,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+Claude Sonnet 4.5,brazil_continent,knowledge,False,False,53.0,0.6590169902097902,1.0,5
+Claude Sonnet 4.5,capital_of_australia,knowledge,False,False,75.6,0.8249872754860123,1.0,5
+Claude Sonnet 4.5,leap_year_february_days,knowledge,False,False,96.2,0.8280538434826598,1.0,5
+Claude Sonnet 4.5,one_plus_one,knowledge,False,False,35.8,0.9460380313813813,1.0,5
+Claude Sonnet 4.5,train_distance,knowledge,False,False,175.0,0.6142247100022784,1.0,5
 DeepHermes-3-Mistral-24B-Pre,brazil_continent,knowledge,True,True,182.2,0.9267117310302732,1.0,5
 DeepHermes-3-Mistral-24B-Pre,capital_of_australia,knowledge,True,True,337.2,0.7904934563718511,1.0,5
 DeepHermes-3-Mistral-24B-Pre,leap_year_february_days,knowledge,True,True,501.4,0.8202228919314793,1.0,5
@@ -24,6 +29,11 @@ deepseek-V3.1,capital_of_australia,knowledge,True,True,126.2,0.7810890745140744,
 deepseek-V3.1,leap_year_february_days,knowledge,True,True,153.6,0.8729904597258227,1.0,5
 deepseek-V3.1,one_plus_one,knowledge,True,True,95.2,0.9422028002647561,1.0,5
 deepseek-V3.1,train_distance,knowledge,True,True,276.6,0.7887480560582109,1.0,5
+deepseek-V3.2-Exp,brazil_continent,knowledge,True,True,118.8,0.905853079197526,1.0,5
+deepseek-V3.2-Exp,capital_of_australia,knowledge,True,True,140.4,0.8274270645596884,1.0,5
+deepseek-V3.2-Exp,leap_year_february_days,knowledge,True,True,198.0,0.7702851131031159,1.0,5
+deepseek-V3.2-Exp,one_plus_one,knowledge,True,True,117.2,0.9004278309041378,1.0,5
+deepseek-V3.2-Exp,train_distance,knowledge,True,True,258.4,0.7472378242521727,1.0,5
 deepseek-r1-0528,brazil_continent,knowledge,True,True,234.6,0.7975364112589689,1.0,5
 deepseek-r1-0528,capital_of_australia,knowledge,True,True,360.2,0.6071182573154031,1.0,5
 deepseek-r1-0528,leap_year_february_days,knowledge,True,True,454.6,0.8000288728374947,1.0,5
@@ -89,3 +99,13 @@ qwen3-235b-a22b-thinking-2507,capital_of_australia,knowledge,True,True,467.8,0.5
 qwen3-235b-a22b-thinking-2507,leap_year_february_days,knowledge,True,True,419.4,0.6239919251522983,1.0,5
 qwen3-235b-a22b-thinking-2507,one_plus_one,knowledge,True,True,363.0,0.8502530478356783,1.0,5
 qwen3-235b-a22b-thinking-2507,train_distance,knowledge,True,True,599.0,0.6507086652333097,1.0,5
+sonoma-dusk-alpha,brazil_continent,knowledge,False,False,71.4,0.0,1.0,5
+sonoma-dusk-alpha,capital_of_australia,knowledge,False,False,26.6,0.0,1.0,5
+sonoma-dusk-alpha,leap_year_february_days,knowledge,False,False,81.8,0.0,1.0,5
+sonoma-dusk-alpha,one_plus_one,knowledge,False,False,24.2,0.0,1.0,5
+sonoma-dusk-alpha,train_distance,knowledge,False,False,31.0,0.0,1.0,5
+sonoma-sky-alpha,brazil_continent,knowledge,False,False,12.6,0.0,1.0,5
+sonoma-sky-alpha,capital_of_australia,knowledge,False,False,56.6,0.0,1.0,5
+sonoma-sky-alpha,leap_year_february_days,knowledge,False,False,41.4,0.0,1.0,5
+sonoma-sky-alpha,one_plus_one,knowledge,False,False,9.0,0.0,1.0,5
+sonoma-sky-alpha,train_distance,knowledge,False,False,36.4,0.0,1.0,5

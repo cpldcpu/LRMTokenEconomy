@@ -1,4 +1,12 @@
 llm,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+Claude Sonnet 4.5,bridge_torch_default,logic puzzle,False,False,888.2,0.6938992465227811,1.0,5
+Claude Sonnet 4.5,bridge_torch_easy,logic puzzle,False,False,4317.4,0.9166057282069131,0.4,5
+Claude Sonnet 4.5,bridge_torch_easy_10m,logic puzzle,False,False,3221.0,0.8968090899828759,1.0,5
+Claude Sonnet 4.5,bridge_torch_impossible,logic puzzle,False,False,6138.0,0.9538673761072893,0.6,5
+Claude Sonnet 4.5,monty_appliance_simple,logic puzzle,False,False,2866.6,0.8708292364508277,0.8,5
+Claude Sonnet 4.5,monty_hall_default,logic puzzle,False,False,807.6,0.5668964925260532,1.0,5
+Claude Sonnet 4.5,monty_hall_inverse,logic puzzle,False,False,1458.2,0.765658399782026,1.0,5
+Claude Sonnet 4.5,roses_logic,logic puzzle,False,False,608.0,0.523923745830242,1.0,5
 DeepHermes-3-Mistral-24B-Pre,bridge_torch_default,logic puzzle,True,True,2025.8,0.8582392443225076,1.0,5
 DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy,logic puzzle,True,True,13207.6,0.7671649048843106,0.2,5
 DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy_10m,logic puzzle,True,True,6842.6,0.9610184909989901,0.8,5
@@ -39,6 +47,14 @@ deepseek-V3.1,monty_appliance_simple,logic puzzle,True,True,5471.4,0.96584010305
 deepseek-V3.1,monty_hall_default,logic puzzle,True,True,454.0,0.6584678221056371,1.0,5
 deepseek-V3.1,monty_hall_inverse,logic puzzle,True,True,2128.6,0.8807579172150627,0.8,5
 deepseek-V3.1,roses_logic,logic puzzle,True,True,386.4,0.6885303034526812,1.0,5
+deepseek-V3.2-Exp,bridge_torch_default,logic puzzle,True,True,1400.4,0.8163798513884647,1.0,5
+deepseek-V3.2-Exp,bridge_torch_easy,logic puzzle,True,True,15351.6,0.9886978779894029,0.2,5
+deepseek-V3.2-Exp,bridge_torch_easy_10m,logic puzzle,True,True,3987.0,0.9678049273900072,1.0,5
+deepseek-V3.2-Exp,bridge_torch_impossible,logic puzzle,True,True,16532.2,0.9816909488547895,0.2,5
+deepseek-V3.2-Exp,monty_appliance_simple,logic puzzle,True,True,4149.4,0.9743213081708217,1.0,5
+deepseek-V3.2-Exp,monty_hall_default,logic puzzle,True,True,596.0,0.7566270077757193,1.0,5
+deepseek-V3.2-Exp,monty_hall_inverse,logic puzzle,True,True,1939.0,0.8593326476845172,0.8,5
+deepseek-V3.2-Exp,roses_logic,logic puzzle,True,True,304.0,0.6986065091867293,1.0,5
 deepseek-r1-0528,bridge_torch_default,logic puzzle,True,True,5915.6,0.9166766772995238,1.0,5
 deepseek-r1-0528,bridge_torch_easy,logic puzzle,True,True,12177.0,0.9695592971356713,1.0,5
 deepseek-r1-0528,bridge_torch_easy_10m,logic puzzle,True,True,5451.0,0.9354679335273246,1.0,5
@@ -143,3 +159,19 @@ qwen3-235b-a22b-thinking-2507,monty_appliance_simple,logic puzzle,True,True,1083
 qwen3-235b-a22b-thinking-2507,monty_hall_default,logic puzzle,True,True,1436.2,0.4719030435777275,1.0,5
 qwen3-235b-a22b-thinking-2507,monty_hall_inverse,logic puzzle,True,True,5395.4,0.8487558960222419,1.0,5
 qwen3-235b-a22b-thinking-2507,roses_logic,logic puzzle,True,True,1026.8,0.4529549124355488,1.0,5
+sonoma-dusk-alpha,bridge_torch_default,logic puzzle,False,False,241.4,0.0,1.0,5
+sonoma-dusk-alpha,bridge_torch_easy,logic puzzle,False,False,1786.8,0.0,0.6,5
+sonoma-dusk-alpha,bridge_torch_easy_10m,logic puzzle,False,False,512.6,0.0,0.8,5
+sonoma-dusk-alpha,bridge_torch_impossible,logic puzzle,False,False,3271.8,0.0,0.2,5
+sonoma-dusk-alpha,monty_appliance_simple,logic puzzle,False,False,1482.2,0.0,0.6,5
+sonoma-dusk-alpha,monty_hall_default,logic puzzle,False,False,631.8,0.0,1.0,5
+sonoma-dusk-alpha,monty_hall_inverse,logic puzzle,False,False,763.2,0.0,0.2,5
+sonoma-dusk-alpha,roses_logic,logic puzzle,False,False,226.6,0.0,1.0,5
+sonoma-sky-alpha,bridge_torch_default,logic puzzle,False,False,108.6,0.0,1.0,5
+sonoma-sky-alpha,bridge_torch_easy,logic puzzle,False,False,72.4,0.0,0.4,5
+sonoma-sky-alpha,bridge_torch_easy_10m,logic puzzle,False,False,31.6,0.0,1.0,5
+sonoma-sky-alpha,bridge_torch_impossible,logic puzzle,False,False,111.8,0.0,0.2,5
+sonoma-sky-alpha,monty_appliance_simple,logic puzzle,False,False,35.6,0.0,1.0,5
+sonoma-sky-alpha,monty_hall_default,logic puzzle,False,False,184.6,0.0,1.0,5
+sonoma-sky-alpha,monty_hall_inverse,logic puzzle,False,False,297.8,0.0,1.0,5
+sonoma-sky-alpha,roses_logic,logic puzzle,False,False,190.4,0.0,1.0,5

@@ -1,4 +1,9 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,brazil_continent,knowledge,False,False,53.0,0.6590169902097902,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,capital_of_australia,knowledge,False,False,75.6,0.8249872754860123,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,leap_year_february_days,knowledge,False,False,96.2,0.8280538434826598,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,one_plus_one,knowledge,False,False,35.8,0.9460380313813813,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,train_distance,knowledge,False,False,175.0,0.6142247100022784,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,brazil_continent,knowledge,True,True,182.2,0.9267117310302732,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,capital_of_australia,knowledge,True,True,337.2,0.7904934563718511,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,leap_year_february_days,knowledge,True,True,501.4,0.8202228919314793,1.0,5
@@ -34,6 +39,11 @@ deepseek-V3.1,deepseek,deepseek-V3.1,capital_of_australia,knowledge,True,True,12
 deepseek-V3.1,deepseek,deepseek-V3.1,leap_year_february_days,knowledge,True,True,153.6,0.8729904597258227,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,one_plus_one,knowledge,True,True,95.2,0.9422028002647561,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,train_distance,knowledge,True,True,276.6,0.7887480560582109,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,brazil_continent,knowledge,True,True,118.8,0.905853079197526,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,capital_of_australia,knowledge,True,True,140.4,0.8274270645596884,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,leap_year_february_days,knowledge,True,True,198.0,0.7702851131031159,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,one_plus_one,knowledge,True,True,117.2,0.9004278309041378,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,train_distance,knowledge,True,True,258.4,0.7472378242521727,1.0,5
 deepseek-r1,deepseek,deepseek-r1,brazil_continent,knowledge,True,True,354.0,0.8403235961823914,1.0,5
 deepseek-r1,deepseek,deepseek-r1,capital_of_australia,knowledge,True,True,245.6,0.7936741225827277,1.0,5
 deepseek-r1,deepseek,deepseek-r1,leap_year_february_days,knowledge,True,True,302.8,0.8215453403653049,1.0,5

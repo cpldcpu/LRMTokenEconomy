@@ -1,28 +1,10 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_default,logic puzzle,False,False,888.2,0.6938992465227811,1.0,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_easy,logic puzzle,False,False,4317.4,0.9166057282069131,0.4,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_easy_10m,logic puzzle,False,False,3221.0,0.8968090899828759,1.0,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,bridge_torch_impossible,logic puzzle,False,False,6138.0,0.9538673761072893,0.6,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,monty_appliance_simple,logic puzzle,False,False,2866.6,0.8708292364508277,0.8,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,monty_hall_default,logic puzzle,False,False,807.6,0.5668964925260532,1.0,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,monty_hall_inverse,logic puzzle,False,False,1458.2,0.765658399782026,1.0,5
-Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,roses_logic,logic puzzle,False,False,608.0,0.523923745830242,1.0,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_default,logic puzzle,True,True,2025.8,0.8582392443225076,1.0,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy,logic puzzle,True,True,13207.6,0.7671649048843106,0.2,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_easy_10m,logic puzzle,True,True,6842.6,0.9610184909989901,0.8,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,bridge_torch_impossible,logic puzzle,True,True,11863.2,0.9686167038088696,0.2,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_appliance_simple,logic puzzle,True,True,6444.2,0.9593827471483334,0.8,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_hall_default,logic puzzle,True,True,1124.2,0.7933718289156426,1.0,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,monty_hall_inverse,logic puzzle,True,True,3225.2,0.8203498959686311,0.4,5
-DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,roses_logic,logic puzzle,True,True,1066.6,0.7839006449121901,1.0,5
-Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_default,logic puzzle,True,True,1814.8,0.8308415023469466,1.0,5
-Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_easy,logic puzzle,True,True,8835.4,0.9232913056874826,0.6,5
-Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_easy_10m,logic puzzle,True,True,2013.4,0.9428268108706266,1.0,5
-Hermes-4-405B,nous,Hermes-4-405B,bridge_torch_impossible,logic puzzle,True,True,10052.0,0.9277765021775393,0.4,5
-Hermes-4-405B,nous,Hermes-4-405B,monty_appliance_simple,logic puzzle,True,True,5634.2,0.9687531040579163,0.2,5
-Hermes-4-405B,nous,Hermes-4-405B,monty_hall_default,logic puzzle,True,True,1152.0,0.8049769215651533,1.0,5
-Hermes-4-405B,nous,Hermes-4-405B,monty_hall_inverse,logic puzzle,True,True,3520.6,0.9211270862273164,1.0,5
-Hermes-4-405B,nous,Hermes-4-405B,roses_logic,logic puzzle,True,True,750.6,0.7467024974442585,1.0,5
+claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2023II_P1,Math,False,True,2848.8,0.8596737032947264,1.0,5
+claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2023II_P1_mod,Math,False,True,2766.8,0.8368931305177713,1.0,5
+claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2025I_P2_modified,Math,False,True,7756.8,0.944303737375427,1.0,5
+claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,AIME2025I_Problem_2,Math,False,True,9248.4,0.9470885348922918,1.0,5
+claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,Ice cream parlor,Math,False,True,15636.2,0.9641972871177813,1.0,5
+claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,Integer pairs,Math,False,True,14976.8,0.9601613672076887,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,bridge_torch_default,logic puzzle,False,True,11502.8,0.9609176783790199,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,bridge_torch_easy,logic puzzle,False,True,19834.0,0.9777807802111023,0.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,bridge_torch_easy_10m,logic puzzle,False,True,19497.0,0.9734067745430695,0.2,5
@@ -31,6 +13,12 @@ claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,monty_appliance_
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,monty_hall_default,logic puzzle,False,True,858.8,0.6496834701134626,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,monty_hall_inverse,logic puzzle,False,True,12035.0,0.9593594629595815,1.0,5
 claude-3-7-sonnet-20250219,anthropic,claude-3-7-sonnet-20250219,roses_logic,logic puzzle,False,True,1261.6,0.7588821830252519,1.0,5
+claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,AIME2023II_P1,Math,False,False,1831.4,0.6972889237080703,1.0,5
+claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,AIME2023II_P1_mod,Math,False,False,2650.0,0.7801433370770015,1.0,5
+claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,AIME2025I_P2_modified,Math,False,False,7479.4,0.9356501530731911,1.0,5
+claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,AIME2025I_Problem_2,Math,False,False,5118.2,0.8828246934418484,1.0,5
+claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,Ice cream parlor,Math,False,False,3905.6,0.7990363081194171,1.0,5
+claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,Integer pairs,Math,False,False,8508.4,0.914769117559819,1.0,5
 claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,bridge_torch_default,logic puzzle,False,False,1821.6,0.7915007490655801,1.0,5
 claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,bridge_torch_easy,logic puzzle,False,False,5745.0,0.9302379352608595,0.6,5
 claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,bridge_torch_easy_10m,logic puzzle,False,False,4446.2,0.9116074420764615,1.0,5
@@ -39,6 +27,12 @@ claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,monty_appl
 claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,monty_hall_default,logic puzzle,False,False,745.2,0.6363549049359937,1.0,5
 claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,monty_hall_inverse,logic puzzle,False,False,2385.4,0.7773788334565763,1.0,5
 claude-4-sonnet-0522-thinking,anthropic,claude-4-sonnet-0522-thinking,roses_logic,logic puzzle,False,False,724.8,0.5310389587949288,1.0,5
+claude-opus-4,anthropic,claude-opus-4,AIME2023II_P1,Math,False,False,1181.2,0.6627352810402416,1.0,5
+claude-opus-4,anthropic,claude-opus-4,AIME2023II_P1_mod,Math,False,False,1385.8,0.6732283825471836,1.0,5
+claude-opus-4,anthropic,claude-opus-4,AIME2025I_P2_modified,Math,False,False,6155.8,0.9329499805499782,1.0,5
+claude-opus-4,anthropic,claude-opus-4,AIME2025I_Problem_2,Math,False,False,6012.0,0.9105509823308605,1.0,5
+claude-opus-4,anthropic,claude-opus-4,Ice cream parlor,Math,False,False,3571.4,0.8184621304529319,1.0,5
+claude-opus-4,anthropic,claude-opus-4,Integer pairs,Math,False,False,5833.4,0.8631266249359802,1.0,5
 claude-opus-4,anthropic,claude-opus-4,bridge_torch_default,logic puzzle,False,False,941.4,0.6492606067890412,1.0,5
 claude-opus-4,anthropic,claude-opus-4,bridge_torch_easy,logic puzzle,False,False,2168.8,0.839124273356114,0.8,5
 claude-opus-4,anthropic,claude-opus-4,bridge_torch_easy_10m,logic puzzle,False,False,582.4,0.5922422669535845,1.0,5
@@ -47,6 +41,12 @@ claude-opus-4,anthropic,claude-opus-4,monty_appliance_simple,logic puzzle,False,
 claude-opus-4,anthropic,claude-opus-4,monty_hall_default,logic puzzle,False,False,638.8,0.6040845836122485,1.0,5
 claude-opus-4,anthropic,claude-opus-4,monty_hall_inverse,logic puzzle,False,False,1541.8,0.661957053046818,0.8,5
 claude-opus-4,anthropic,claude-opus-4,roses_logic,logic puzzle,False,False,520.0,0.4932724410023601,1.0,5
+claude-opus-4.1,anthropic,claude-opus-4.1,AIME2023II_P1,Math,False,False,1103.2,0.6189751466049487,1.0,5
+claude-opus-4.1,anthropic,claude-opus-4.1,AIME2023II_P1_mod,Math,False,False,1540.4,0.6837265348596889,1.0,5
+claude-opus-4.1,anthropic,claude-opus-4.1,AIME2025I_P2_modified,Math,False,False,2275.4,0.8050469170598691,1.0,5
+claude-opus-4.1,anthropic,claude-opus-4.1,AIME2025I_Problem_2,Math,False,False,3314.6,0.8344058462402375,1.0,5
+claude-opus-4.1,anthropic,claude-opus-4.1,Ice cream parlor,Math,False,False,3077.8,0.7775144591349518,1.0,5
+claude-opus-4.1,anthropic,claude-opus-4.1,Integer pairs,Math,False,False,4914.4,0.8461016760552571,1.0,5
 claude-opus-4.1,anthropic,claude-opus-4.1,bridge_torch_default,logic puzzle,False,False,1055.4,0.669209175034682,1.0,5
 claude-opus-4.1,anthropic,claude-opus-4.1,bridge_torch_easy,logic puzzle,False,False,3450.8,0.8908475874209711,1.0,5
 claude-opus-4.1,anthropic,claude-opus-4.1,bridge_torch_easy_10m,logic puzzle,False,False,668.6,0.566313688140304,1.0,5
@@ -55,22 +55,26 @@ claude-opus-4.1,anthropic,claude-opus-4.1,monty_appliance_simple,logic puzzle,Fa
 claude-opus-4.1,anthropic,claude-opus-4.1,monty_hall_default,logic puzzle,False,False,622.0,0.57227122312891,1.0,5
 claude-opus-4.1,anthropic,claude-opus-4.1,monty_hall_inverse,logic puzzle,False,False,730.6,0.5624805869177731,1.0,5
 claude-opus-4.1,anthropic,claude-opus-4.1,roses_logic,logic puzzle,False,False,558.6,0.47321036910679865,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,AIME2023II_P1,Math,True,True,547.2,0.4598117328338307,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,AIME2023II_P1_mod,Math,True,True,579.2,0.4458795149685576,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,AIME2025I_P2_modified,Math,True,True,1759.8,0.6640753662819913,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,AIME2025I_Problem_2,Math,True,True,1404.8,0.6385664451175982,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,Ice cream parlor,Math,True,True,2007.0,0.6770559319093747,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,Integer pairs,Math,True,True,1801.4,0.5958939857209815,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_default,logic puzzle,True,True,1504.4,0.8568931718542153,1.0,5
-deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_easy,logic puzzle,True,True,13855.4,0.9841351868137638,0.4,5
-deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_easy_10m,logic puzzle,True,True,5316.6,0.9752093536689973,1.0,5
-deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_impossible,logic puzzle,True,True,21088.2,0.9860141128682127,0.2,5
-deepseek-V3.1,deepseek,deepseek-V3.1,monty_appliance_simple,logic puzzle,True,True,5471.4,0.9658401030541708,0.6,5
-deepseek-V3.1,deepseek,deepseek-V3.1,monty_hall_default,logic puzzle,True,True,454.0,0.6584678221056371,1.0,5
-deepseek-V3.1,deepseek,deepseek-V3.1,monty_hall_inverse,logic puzzle,True,True,2128.6,0.8807579172150627,0.8,5
+deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_easy,logic puzzle,True,True,4999.8,1.0,0.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_easy_10m,logic puzzle,True,True,5316.6,0.9752093536689971,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,bridge_torch_impossible,logic puzzle,True,True,4999.6,1.0,0.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,monty_appliance_simple,logic puzzle,True,True,4277.6,0.9860159579487838,0.2,5
+deepseek-V3.1,deepseek,deepseek-V3.1,monty_hall_default,logic puzzle,True,True,454.0,0.6584678221056373,1.0,5
+deepseek-V3.1,deepseek,deepseek-V3.1,monty_hall_inverse,logic puzzle,True,True,2128.6,0.8807579172150625,0.8,5
 deepseek-V3.1,deepseek,deepseek-V3.1,roses_logic,logic puzzle,True,True,386.4,0.6885303034526812,1.0,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_default,logic puzzle,True,True,1400.4,0.8163798513884647,1.0,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_easy,logic puzzle,True,True,15351.6,0.9886978779894029,0.2,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_easy_10m,logic puzzle,True,True,3987.0,0.9678049273900072,1.0,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,bridge_torch_impossible,logic puzzle,True,True,16532.2,0.9816909488547895,0.2,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,monty_appliance_simple,logic puzzle,True,True,4149.4,0.9743213081708217,1.0,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,monty_hall_default,logic puzzle,True,True,596.0,0.7566270077757193,1.0,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,monty_hall_inverse,logic puzzle,True,True,1939.0,0.8593326476845172,0.8,5
-deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,roses_logic,logic puzzle,True,True,304.0,0.6986065091867293,1.0,5
+deepseek-r1,deepseek,deepseek-r1,AIME2023II_P1,Math,True,True,1982.2,0.769239131778362,1.0,5
+deepseek-r1,deepseek,deepseek-r1,AIME2023II_P1_mod,Math,True,True,1449.2,0.7232953699324952,1.0,5
+deepseek-r1,deepseek,deepseek-r1,AIME2025I_P2_modified,Math,True,True,3170.4,0.8725225763557625,1.0,5
+deepseek-r1,deepseek,deepseek-r1,AIME2025I_Problem_2,Math,True,True,2674.0,0.8573053763137171,1.0,5
+deepseek-r1,deepseek,deepseek-r1,Ice cream parlor,Math,True,True,3098.2,0.8340728129218533,1.0,5
+deepseek-r1,deepseek,deepseek-r1,Integer pairs,Math,True,True,4966.2,0.8947130508127519,1.0,5
 deepseek-r1,deepseek,deepseek-r1,bridge_torch_default,logic puzzle,True,True,1950.0,0.8483548570746484,1.0,5
 deepseek-r1,deepseek,deepseek-r1,bridge_torch_easy,logic puzzle,True,True,9136.4,0.9238472616107897,0.2,5
 deepseek-r1,deepseek,deepseek-r1,bridge_torch_easy_10m,logic puzzle,True,True,2822.8,0.9412832038729769,1.0,5
@@ -79,6 +83,12 @@ deepseek-r1,deepseek,deepseek-r1,monty_appliance_simple,logic puzzle,True,True,4
 deepseek-r1,deepseek,deepseek-r1,monty_hall_default,logic puzzle,True,True,1033.2,0.7585450213198698,1.0,5
 deepseek-r1,deepseek,deepseek-r1,monty_hall_inverse,logic puzzle,True,True,2704.6,0.8921060940081569,1.0,5
 deepseek-r1,deepseek,deepseek-r1,roses_logic,logic puzzle,True,True,758.6,0.7587559178907399,1.0,5
+deepseek-r1-0528,deepseek,deepseek-r1-0528,AIME2023II_P1,Math,True,True,4122.6,0.8862073076623785,1.0,5
+deepseek-r1-0528,deepseek,deepseek-r1-0528,AIME2023II_P1_mod,Math,True,True,4005.2,0.8923767033885797,1.0,5
+deepseek-r1-0528,deepseek,deepseek-r1-0528,AIME2025I_P2_modified,Math,True,True,6261.6,0.8897027337695949,1.0,5
+deepseek-r1-0528,deepseek,deepseek-r1-0528,AIME2025I_Problem_2,Math,True,True,7673.4,0.9195804627619693,1.0,5
+deepseek-r1-0528,deepseek,deepseek-r1-0528,Ice cream parlor,Math,True,True,11761.6,0.9556454484617258,1.0,5
+deepseek-r1-0528,deepseek,deepseek-r1-0528,Integer pairs,Math,True,True,13108.0,0.9480477746028477,1.0,5
 deepseek-r1-0528,deepseek,deepseek-r1-0528,bridge_torch_default,logic puzzle,True,True,5915.6,0.9166766772995238,1.0,5
 deepseek-r1-0528,deepseek,deepseek-r1-0528,bridge_torch_easy,logic puzzle,True,True,12177.0,0.9695592971356713,1.0,5
 deepseek-r1-0528,deepseek,deepseek-r1-0528,bridge_torch_easy_10m,logic puzzle,True,True,5451.0,0.9354679335273246,1.0,5
@@ -87,6 +97,12 @@ deepseek-r1-0528,deepseek,deepseek-r1-0528,monty_appliance_simple,logic puzzle,T
 deepseek-r1-0528,deepseek,deepseek-r1-0528,monty_hall_default,logic puzzle,True,True,1720.0,0.6888874747258533,1.0,5
 deepseek-r1-0528,deepseek,deepseek-r1-0528,monty_hall_inverse,logic puzzle,True,True,7591.6,0.9197766061778267,1.0,5
 deepseek-r1-0528,deepseek,deepseek-r1-0528,roses_logic,logic puzzle,True,True,1193.6,0.6858256849311548,1.0,5
+gemini-2.5-flash-high,google,gemini-2.5-flash-high,AIME2023II_P1,Math,False,False,4612.4,0.7509345903010345,1.0,5
+gemini-2.5-flash-high,google,gemini-2.5-flash-high,AIME2023II_P1_mod,Math,False,False,4206.2,0.7051603859375808,1.0,5
+gemini-2.5-flash-high,google,gemini-2.5-flash-high,AIME2025I_P2_modified,Math,False,False,2878.2,0.6767252147069028,1.0,5
+gemini-2.5-flash-high,google,gemini-2.5-flash-high,AIME2025I_Problem_2,Math,False,False,3551.0,0.6849696278116582,1.0,5
+gemini-2.5-flash-high,google,gemini-2.5-flash-high,Ice cream parlor,Math,False,False,5752.4,0.733081053454214,1.0,5
+gemini-2.5-flash-high,google,gemini-2.5-flash-high,Integer pairs,Math,False,False,5679.2,0.7200639256588726,1.0,5
 gemini-2.5-flash-high,google,gemini-2.5-flash-high,bridge_torch_default,logic puzzle,False,False,2005.6,0.8032336201110691,1.0,5
 gemini-2.5-flash-high,google,gemini-2.5-flash-high,bridge_torch_easy,logic puzzle,False,False,8220.6,0.9262264886260729,0.0,5
 gemini-2.5-flash-high,google,gemini-2.5-flash-high,bridge_torch_easy_10m,logic puzzle,False,False,5414.0,0.9383480355155708,0.8,5
@@ -95,30 +111,40 @@ gemini-2.5-flash-high,google,gemini-2.5-flash-high,monty_appliance_simple,logic 
 gemini-2.5-flash-high,google,gemini-2.5-flash-high,monty_hall_default,logic puzzle,False,False,1377.0,0.7037563496471732,1.0,5
 gemini-2.5-flash-high,google,gemini-2.5-flash-high,monty_hall_inverse,logic puzzle,False,False,2494.4,0.7790459541730816,1.0,5
 gemini-2.5-flash-high,google,gemini-2.5-flash-high,roses_logic,logic puzzle,False,False,1073.4,0.8012068103590426,1.0,5
-gpt-5,openai,gpt-5,bridge_torch_default,logic puzzle,False,False,1855.0,0.9531819444081148,1.0,5
-gpt-5,openai,gpt-5,bridge_torch_easy,logic puzzle,False,False,6062.6,0.9862480341034081,1.0,5
-gpt-5,openai,gpt-5,bridge_torch_easy_10m,logic puzzle,False,False,2489.2,0.9758805501433561,1.0,5
-gpt-5,openai,gpt-5,bridge_torch_impossible,logic puzzle,False,False,8403.6,0.9790257902032679,1.0,5
-gpt-5,openai,gpt-5,monty_appliance_simple,logic puzzle,False,False,4898.8,0.9925698163331511,1.0,5
-gpt-5,openai,gpt-5,monty_hall_default,logic puzzle,False,False,449.4,0.8758294146137823,1.0,5
-gpt-5,openai,gpt-5,monty_hall_inverse,logic puzzle,False,False,3122.2,0.9750761531201201,1.0,5
-gpt-5,openai,gpt-5,roses_logic,logic puzzle,False,False,1226.8,0.959202380941497,1.0,5
-gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_default,logic puzzle,True,True,427.0,0.32054043367299984,1.0,5
-gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_easy,logic puzzle,True,True,1707.6,0.7694864342368499,0.2,5
-gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_easy_10m,logic puzzle,True,True,583.0,0.7388742923216468,1.0,5
-gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_impossible,logic puzzle,True,True,2504.2,0.7218471486376792,0.8,5
-gpt-oss-120b,openai,gpt-oss-120b,monty_appliance_simple,logic puzzle,True,True,1092.8,0.798021421071768,1.0,5
-gpt-oss-120b,openai,gpt-oss-120b,monty_hall_default,logic puzzle,True,True,298.6,0.17608352926226384,1.0,5
-gpt-oss-120b,openai,gpt-oss-120b,monty_hall_inverse,logic puzzle,True,True,841.4,0.620297402828252,1.0,5
-gpt-oss-120b,openai,gpt-oss-120b,roses_logic,logic puzzle,True,True,322.0,0.3998838295323862,1.0,5
-gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_default,logic puzzle,True,True,380.4,0.47291904508135474,1.0,5
-gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_easy,logic puzzle,True,True,3157.2,0.9530952658794625,0.8,5
-gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_easy_10m,logic puzzle,True,True,1067.4,0.9193865559653854,1.0,5
-gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_impossible,logic puzzle,True,True,6858.2,0.828509310493428,1.0,5
-gpt-oss-20b,openai,gpt-oss-20b,monty_appliance_simple,logic puzzle,True,True,1049.4,0.850145596636535,0.2,5
-gpt-oss-20b,openai,gpt-oss-20b,monty_hall_default,logic puzzle,True,True,189.6,0.3853067597479713,1.0,5
-gpt-oss-20b,openai,gpt-oss-20b,monty_hall_inverse,logic puzzle,True,True,642.4,0.7512824169952805,0.6,5
-gpt-oss-20b,openai,gpt-oss-20b,roses_logic,logic puzzle,True,True,925.4,0.6174661061214561,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,AIME2023II_P1,Math,True,True,688.8,0.6452683278458982,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,AIME2023II_P1_mod,Math,True,True,638.6,0.6041934028047665,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,AIME2025I_P2_modified,Math,True,True,1728.4,0.8010188940030373,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,AIME2025I_Problem_2,Math,True,True,1610.2,0.7815845842469209,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,Ice cream parlor,Math,True,True,1686.0,0.7231189665490604,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,Integer pairs,Math,True,True,2454.2,0.7598683092736248,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_default,logic puzzle,True,True,475.6,0.43234310129352804,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_easy,logic puzzle,True,True,2847.4,0.8166516688109763,0.2,5
+gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_easy_10m,logic puzzle,True,True,660.4,0.7810697074836792,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,bridge_torch_impossible,logic puzzle,True,True,4120.2,0.8637944414124948,0.6,5
+gpt-oss-120b,openai,gpt-oss-120b,monty_appliance_simple,logic puzzle,True,True,1161.8,0.8930070388016158,0.8,5
+gpt-oss-120b,openai,gpt-oss-120b,monty_hall_default,logic puzzle,True,True,336.0,0.1642940516350166,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,monty_hall_inverse,logic puzzle,True,True,1000.2,0.7081019814274792,1.0,5
+gpt-oss-120b,openai,gpt-oss-120b,roses_logic,logic puzzle,True,True,275.4,0.5381806544843408,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,AIME2023II_P1,Math,True,True,645.2,0.4378480407496121,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,AIME2023II_P1_mod,Math,True,True,518.2,0.5365259899414669,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,AIME2025I_P2_modified,Math,True,True,1859.8,0.7147634462458186,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,AIME2025I_Problem_2,Math,True,True,1122.8,0.6631845963047557,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,Ice cream parlor,Math,True,True,1612.6,0.7277749591123144,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,Integer pairs,Math,True,True,1953.4,0.661078800514133,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_default,logic puzzle,True,True,356.6,0.36832547697757934,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_easy,logic puzzle,True,True,1420.2,0.9153658658510923,0.8,5
+gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_easy_10m,logic puzzle,True,True,742.0,0.8945473661497891,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,bridge_torch_impossible,logic puzzle,True,True,2618.6,0.8614157004113849,0.4,5
+gpt-oss-20b,openai,gpt-oss-20b,monty_appliance_simple,logic puzzle,True,True,1080.4,0.8480486343870851,0.0,5
+gpt-oss-20b,openai,gpt-oss-20b,monty_hall_default,logic puzzle,True,True,206.8,0.3574445375568177,1.0,5
+gpt-oss-20b,openai,gpt-oss-20b,monty_hall_inverse,logic puzzle,True,True,501.0,0.7297247943740104,0.6,5
+gpt-oss-20b,openai,gpt-oss-20b,roses_logic,logic puzzle,True,True,244.8,0.7122256230823805,1.0,5
+grok-3-mini-think,x-ai,grok-3-mini-think,AIME2023II_P1,Math,False,True,1665.0,0.7977363789708066,1.0,5
+grok-3-mini-think,x-ai,grok-3-mini-think,AIME2023II_P1_mod,Math,False,True,1930.6,0.8503371710816072,1.0,5
+grok-3-mini-think,x-ai,grok-3-mini-think,AIME2025I_P2_modified,Math,False,True,3650.2,0.8676252462924541,1.0,5
+grok-3-mini-think,x-ai,grok-3-mini-think,AIME2025I_Problem_2,Math,False,True,3767.6,0.9059743634017373,1.0,5
+grok-3-mini-think,x-ai,grok-3-mini-think,Ice cream parlor,Math,False,True,4638.0,0.9277250993484956,1.0,5
+grok-3-mini-think,x-ai,grok-3-mini-think,Integer pairs,Math,False,True,10083.4,0.9651116082014646,1.0,5
 grok-3-mini-think,x-ai,grok-3-mini-think,bridge_torch_default,logic puzzle,False,True,3194.2,0.936724014033401,1.0,5
 grok-3-mini-think,x-ai,grok-3-mini-think,bridge_torch_easy,logic puzzle,False,True,2833.0,0.9554473480105085,1.0,5
 grok-3-mini-think,x-ai,grok-3-mini-think,bridge_torch_easy_10m,logic puzzle,False,True,1185.2,0.9048373989068974,1.0,5
@@ -127,6 +153,12 @@ grok-3-mini-think,x-ai,grok-3-mini-think,monty_appliance_simple,logic puzzle,Fal
 grok-3-mini-think,x-ai,grok-3-mini-think,monty_hall_default,logic puzzle,False,True,827.4,0.7782163069800563,1.0,5
 grok-3-mini-think,x-ai,grok-3-mini-think,monty_hall_inverse,logic puzzle,False,True,3035.6,0.9315026654958498,1.0,5
 grok-3-mini-think,x-ai,grok-3-mini-think,roses_logic,logic puzzle,False,True,873.6,0.8482050067910081,1.0,5
+grok-4-07-09,x-ai,grok-4-07-09,AIME2023II_P1,Math,False,False,967.4,0.9989172799187325,1.0,5
+grok-4-07-09,x-ai,grok-4-07-09,AIME2023II_P1_mod,Math,False,False,1014.6,0.9988932266730641,1.0,5
+grok-4-07-09,x-ai,grok-4-07-09,AIME2025I_P2_modified,Math,False,False,1922.6,0.9994439359449497,1.0,5
+grok-4-07-09,x-ai,grok-4-07-09,AIME2025I_Problem_2,Math,False,False,2093.0,0.9994997007845438,1.0,5
+grok-4-07-09,x-ai,grok-4-07-09,Ice cream parlor,Math,False,False,1953.0,0.9983129749387215,1.0,5
+grok-4-07-09,x-ai,grok-4-07-09,Integer pairs,Math,False,False,2340.0,0.9995455657458537,1.0,5
 grok-4-07-09,x-ai,grok-4-07-09,bridge_torch_default,logic puzzle,False,False,1382.25,0.681327000384255,1.0,4
 grok-4-07-09,x-ai,grok-4-07-09,bridge_torch_easy,logic puzzle,False,False,18335.6,0.9916872772944124,0.2,5
 grok-4-07-09,x-ai,grok-4-07-09,bridge_torch_easy_10m,logic puzzle,False,False,2924.2,0.9853249262196087,1.0,5
@@ -135,6 +167,12 @@ grok-4-07-09,x-ai,grok-4-07-09,monty_appliance_simple,logic puzzle,False,False,8
 grok-4-07-09,x-ai,grok-4-07-09,monty_hall_default,logic puzzle,False,False,489.4,0.6240947398968959,1.0,5
 grok-4-07-09,x-ai,grok-4-07-09,monty_hall_inverse,logic puzzle,False,False,1432.8,0.7609729865709323,1.0,5
 grok-4-07-09,x-ai,grok-4-07-09,roses_logic,logic puzzle,False,False,523.8,0.8351092007765282,1.0,5
+o1-mini,openai,o1-mini,AIME2023II_P1,Math,False,False,495.0,0.3858548502438116,1.0,5
+o1-mini,openai,o1-mini,AIME2023II_P1_mod,Math,False,False,600.0,0.3853105898953896,1.0,5
+o1-mini,openai,o1-mini,AIME2025I_P2_modified,Math,False,False,1486.2,0.6511641855855415,1.0,5
+o1-mini,openai,o1-mini,AIME2025I_Problem_2,Math,False,False,1520.2,0.6185646441748716,1.0,5
+o1-mini,openai,o1-mini,Ice cream parlor,Math,False,False,1450.8,0.613529332946645,1.0,5
+o1-mini,openai,o1-mini,Integer pairs,Math,False,False,2025.4,0.6548901437898371,0.8,5
 o1-mini,openai,o1-mini,bridge_torch_default,logic puzzle,False,False,696.2,0.39380689716515954,1.0,5
 o1-mini,openai,o1-mini,bridge_torch_easy,logic puzzle,False,False,2560.4,0.8867015345043736,0.2,5
 o1-mini,openai,o1-mini,bridge_torch_easy_10m,logic puzzle,False,False,1031.6,0.7981615011320502,1.0,5
@@ -143,6 +181,12 @@ o1-mini,openai,o1-mini,monty_appliance_simple,logic puzzle,False,False,2126.0,0.
 o1-mini,openai,o1-mini,monty_hall_default,logic puzzle,False,False,549.0,0.20771811626072162,1.0,5
 o1-mini,openai,o1-mini,monty_hall_inverse,logic puzzle,False,False,1705.6,0.7241500663035219,1.0,5
 o1-mini,openai,o1-mini,roses_logic,logic puzzle,False,False,479.0,0.453787041697312,1.0,5
+o3-mini-high,openai,o3-mini-high,AIME2023II_P1,Math,False,False,460.2,0.35908788302646083,1.0,5
+o3-mini-high,openai,o3-mini-high,AIME2023II_P1_mod,Math,False,False,473.6,0.3776979742188563,1.0,5
+o3-mini-high,openai,o3-mini-high,AIME2025I_P2_modified,Math,False,False,1038.4,0.5146571946797565,1.0,5
+o3-mini-high,openai,o3-mini-high,AIME2025I_Problem_2,Math,False,False,899.6,0.493426485900028,1.0,5
+o3-mini-high,openai,o3-mini-high,Ice cream parlor,Math,False,False,1624.0,0.5386765016426889,1.0,5
+o3-mini-high,openai,o3-mini-high,Integer pairs,Math,False,False,1985.0,0.5408799862357241,1.0,5
 o3-mini-high,openai,o3-mini-high,bridge_torch_default,logic puzzle,False,False,358.0,0.6741315485229572,1.0,5
 o3-mini-high,openai,o3-mini-high,bridge_torch_easy,logic puzzle,False,False,5533.2,0.9177632185117354,0.2,5
 o3-mini-high,openai,o3-mini-high,bridge_torch_easy_10m,logic puzzle,False,False,1611.8,0.9321415740577124,1.0,5
@@ -151,6 +195,12 @@ o3-mini-high,openai,o3-mini-high,monty_appliance_simple,logic puzzle,False,False
 o3-mini-high,openai,o3-mini-high,monty_hall_default,logic puzzle,False,False,232.2,0.4950393533723993,1.0,5
 o3-mini-high,openai,o3-mini-high,monty_hall_inverse,logic puzzle,False,False,1224.4,0.8043071711463737,1.0,5
 o3-mini-high,openai,o3-mini-high,roses_logic,logic puzzle,False,False,226.4,0.6589607250443407,1.0,5
+o4-mini-high-long,openai,o4-mini-high-long,AIME2023II_P1,Math,False,False,417.6,0.8644624987998935,1.0,5
+o4-mini-high-long,openai,o4-mini-high-long,AIME2023II_P1_mod,Math,False,False,572.2,0.7561581896669181,1.0,5
+o4-mini-high-long,openai,o4-mini-high-long,AIME2025I_P2_modified,Math,False,False,1631.6,0.8814917321425874,1.0,5
+o4-mini-high-long,openai,o4-mini-high-long,AIME2025I_Problem_2,Math,False,False,1506.2,0.9082620536967585,1.0,5
+o4-mini-high-long,openai,o4-mini-high-long,Ice cream parlor,Math,False,False,2068.0,0.9097087607193244,1.0,5
+o4-mini-high-long,openai,o4-mini-high-long,Integer pairs,Math,False,False,2264.0,0.8741448384014273,1.0,5
 o4-mini-high-long,openai,o4-mini-high-long,bridge_torch_default,logic puzzle,False,False,805.0,0.8146720029173133,1.0,5
 o4-mini-high-long,openai,o4-mini-high-long,bridge_torch_easy,logic puzzle,False,False,7276.8,0.9816076867298105,0.6,5
 o4-mini-high-long,openai,o4-mini-high-long,bridge_torch_easy_10m,logic puzzle,False,False,1577.0,0.9628804079808322,1.0,5
@@ -159,6 +209,12 @@ o4-mini-high-long,openai,o4-mini-high-long,monty_appliance_simple,logic puzzle,F
 o4-mini-high-long,openai,o4-mini-high-long,monty_hall_default,logic puzzle,False,False,492.4,0.6972416316318174,1.0,5
 o4-mini-high-long,openai,o4-mini-high-long,monty_hall_inverse,logic puzzle,False,False,1892.6,0.8785902933654512,1.0,5
 o4-mini-high-long,openai,o4-mini-high-long,roses_logic,logic puzzle,False,False,643.8,0.7265364931177102,1.0,5
+qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,AIME2023II_P1,Math,True,True,3272.0,0.8019617806681067,1.0,5
+qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,AIME2023II_P1_mod,Math,True,True,3730.8,0.8127370766402124,1.0,5
+qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,AIME2025I_P2_modified,Math,True,True,7839.8,0.8899557040215085,1.0,5
+qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,AIME2025I_Problem_2,Math,True,True,9528.8,0.9077544296214576,1.0,5
+qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,Ice cream parlor,Math,True,True,12275.0,0.937342729696778,1.0,5
+qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,Integer pairs,Math,True,True,9854.0,0.8971235719860873,1.0,5
 qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,bridge_torch_default,logic puzzle,True,True,3637.8,0.7889899993112814,1.0,5
 qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,bridge_torch_easy,logic puzzle,True,True,11151.6,0.9378258175892047,0.8,5
 qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,bridge_torch_easy_10m,logic puzzle,True,True,4742.6,0.8955712478176927,1.0,5
@@ -167,6 +223,12 @@ qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,monty_appliance_simple,logic pu
 qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,monty_hall_default,logic puzzle,True,True,831.0,0.6960612548777083,1.0,5
 qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,monty_hall_inverse,logic puzzle,True,True,5810.2,0.8673015689535409,1.0,5
 qwen3-235b-a22b-think,qwen,qwen3-235b-a22b-think,roses_logic,logic puzzle,True,True,969.8,0.7439240438846896,1.0,5
+qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,AIME2023II_P1,Math,True,True,5032.4,0.8693018813607193,1.0,5
+qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,AIME2023II_P1_mod,Math,True,True,5114.0,0.8951685326246352,1.0,5
+qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,AIME2025I_P2_modified,Math,True,True,9257.8,0.9185415582815308,1.0,5
+qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,AIME2025I_Problem_2,Math,True,True,8739.6,0.92074318596841,1.0,5
+qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,Ice cream parlor,Math,True,True,15039.666666666666,0.9434692760412732,1.0,3
+qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,Integer pairs,Math,True,True,12182.0,0.9135722678417617,1.0,5
 qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,bridge_torch_default,logic puzzle,True,True,3155.0,0.7543932143218057,1.0,5
 qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,bridge_torch_easy,logic puzzle,True,True,12949.2,0.8988159079985213,0.6,5
 qwen3-235b-a22b-thinking-2507,qwen,qwen3-235b-a22b-thinking-2507,bridge_torch_easy_10m,logic puzzle,True,True,1763.6,0.7052580736215477,1.0,5

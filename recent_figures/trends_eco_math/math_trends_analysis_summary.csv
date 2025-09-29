@@ -1,4 +1,10 @@
 llm,lab,clean_model_name,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2023II_P1,Math,False,False,1016.6,0.6063698260272318,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2023II_P1_mod,Math,False,False,1002.6,0.6124798592060082,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2025I_P2_modified,Math,False,False,2360.0,0.8203723205089137,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,AIME2025I_Problem_2,Math,False,False,3438.4,0.842603608921951,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,Ice cream parlor,Math,False,False,2327.6,0.7458233322795196,1.0,5
+Claude Sonnet 4.5,anthropic,Claude Sonnet 4.5,Integer pairs,Math,False,False,4906.2,0.8553452604699829,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1,Math,True,True,2082.6,0.7754486506394729,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1_mod,Math,True,True,1754.8,0.7824573211552002,1.0,5
 DeepHermes-3-Mistral-24B-Pre,nous,DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.8814328429128342,1.0,5
@@ -41,6 +47,12 @@ deepseek-V3.1,deepseek,deepseek-V3.1,AIME2025I_P2_modified,Math,True,True,1759.8
 deepseek-V3.1,deepseek,deepseek-V3.1,AIME2025I_Problem_2,Math,True,True,1404.8,0.6385664451175981,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,Ice cream parlor,Math,True,True,2007.0,0.6770559319093747,1.0,5
 deepseek-V3.1,deepseek,deepseek-V3.1,Integer pairs,Math,True,True,1801.4,0.5958939857209815,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2023II_P1,Math,True,True,557.8,0.44147859623079644,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2023II_P1_mod,Math,True,True,656.4,0.48159737598706254,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2025I_P2_modified,Math,True,True,2001.2,0.6495126515466908,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,AIME2025I_Problem_2,Math,True,True,1298.2,0.6372571901360926,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,Ice cream parlor,Math,True,True,2313.2,0.7099455264803988,1.0,5
+deepseek-V3.2-Exp,deepseek,deepseek-V3.2-Exp,Integer pairs,Math,True,True,2671.0,0.7440094835547609,1.0,5
 deepseek-r1,deepseek,deepseek-r1,AIME2023II_P1,Math,True,True,1982.2,0.6528841319422973,1.0,5
 deepseek-r1,deepseek,deepseek-r1,AIME2023II_P1_mod,Math,True,True,1449.2,0.5988062522066477,1.0,5
 deepseek-r1,deepseek,deepseek-r1,AIME2025I_P2_modified,Math,True,True,3170.4,0.6510339832153258,1.0,5

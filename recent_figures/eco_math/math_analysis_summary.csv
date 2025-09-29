@@ -1,4 +1,10 @@
 llm,prompt_id,type,open_weights,full_cot,avg_completion_tokens,avg_reasoning_ratio,avg_success_rate,total_responses
+Claude Sonnet 4.5,AIME2023II_P1,Math,False,False,1016.6,0.6063698260272318,1.0,5
+Claude Sonnet 4.5,AIME2023II_P1_mod,Math,False,False,1002.6,0.6124798592060082,1.0,5
+Claude Sonnet 4.5,AIME2025I_P2_modified,Math,False,False,2360.0,0.8203723205089137,1.0,5
+Claude Sonnet 4.5,AIME2025I_Problem_2,Math,False,False,3438.4,0.842603608921951,1.0,5
+Claude Sonnet 4.5,Ice cream parlor,Math,False,False,2327.6,0.7458233322795196,1.0,5
+Claude Sonnet 4.5,Integer pairs,Math,False,False,4906.2,0.8553452604699829,1.0,5
 DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1,Math,True,True,2082.6,0.7754486506394729,1.0,5
 DeepHermes-3-Mistral-24B-Pre,AIME2023II_P1_mod,Math,True,True,1754.8,0.7824573211552002,1.0,5
 DeepHermes-3-Mistral-24B-Pre,AIME2025I_P2_modified,Math,True,True,7612.8,0.8814328429128342,1.0,5
@@ -29,6 +35,12 @@ deepseek-V3.1,AIME2025I_P2_modified,Math,True,True,1759.8,0.6640753662819914,1.0
 deepseek-V3.1,AIME2025I_Problem_2,Math,True,True,1404.8,0.6385664451175981,1.0,5
 deepseek-V3.1,Ice cream parlor,Math,True,True,2007.0,0.6770559319093747,1.0,5
 deepseek-V3.1,Integer pairs,Math,True,True,1801.4,0.5958939857209815,1.0,5
+deepseek-V3.2-Exp,AIME2023II_P1,Math,True,True,557.8,0.44147859623079644,1.0,5
+deepseek-V3.2-Exp,AIME2023II_P1_mod,Math,True,True,656.4,0.48159737598706254,1.0,5
+deepseek-V3.2-Exp,AIME2025I_P2_modified,Math,True,True,2001.2,0.6495126515466908,1.0,5
+deepseek-V3.2-Exp,AIME2025I_Problem_2,Math,True,True,1298.2,0.6372571901360926,1.0,5
+deepseek-V3.2-Exp,Ice cream parlor,Math,True,True,2313.2,0.7099455264803988,1.0,5
+deepseek-V3.2-Exp,Integer pairs,Math,True,True,2671.0,0.7440094835547609,1.0,5
 deepseek-r1-0528,AIME2023II_P1,Math,True,True,4122.6,0.7517499955303253,1.0,5
 deepseek-r1-0528,AIME2023II_P1_mod,Math,True,True,4005.2,0.7596158947621519,1.0,5
 deepseek-r1-0528,AIME2025I_P2_modified,Math,True,True,6261.6,0.6320592969756006,1.0,5
@@ -107,3 +119,14 @@ qwen3-235b-a22b-thinking-2507,AIME2025I_P2_modified,Math,True,True,9257.8,0.5913
 qwen3-235b-a22b-thinking-2507,AIME2025I_Problem_2,Math,True,True,8739.6,0.59755290319126,1.0,5
 qwen3-235b-a22b-thinking-2507,Ice cream parlor,Math,True,True,15039.666666666666,0.7108630439779193,1.0,3
 qwen3-235b-a22b-thinking-2507,Integer pairs,Math,True,True,12182.0,0.593325219821246,1.0,5
+sonoma-dusk-alpha,AIME2023II_P1,Math,False,False,403.8,0.0,0.4,5
+sonoma-dusk-alpha,AIME2023II_P1_mod,Math,False,False,333.2,0.0,0.8,5
+sonoma-dusk-alpha,AIME2025I_P2_modified,Math,False,False,475.2,0.0,0.2,5
+sonoma-dusk-alpha,AIME2025I_Problem_2,Math,False,False,209.8,0.0,0.6,5
+sonoma-dusk-alpha,Ice cream parlor,Math,False,False,364.0,0.0,1.0,5
+sonoma-dusk-alpha,Integer pairs,Math,False,False,537.6,0.0,0.2,5
+sonoma-sky-alpha,AIME2023II_P1_mod,Math,False,False,348.6,0.0,1.0,5
+sonoma-sky-alpha,AIME2025I_P2_modified,Math,False,False,414.2,0.0,1.0,5
+sonoma-sky-alpha,AIME2025I_Problem_2,Math,False,False,374.4,0.0,1.0,5
+sonoma-sky-alpha,Ice cream parlor,Math,False,False,518.8,0.0,1.0,5
+sonoma-sky-alpha,Integer pairs,Math,False,False,474.2,0.0,1.0,5

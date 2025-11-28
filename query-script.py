@@ -60,7 +60,7 @@ def extract_thinking_from_response(response_text):
 
     return cleaned_response, thinking_content
 
-async def query_llm_async(session, prompt, llm_config, temperature_override, cot_entry=None, max_retries=3, extract_thinking=False):
+async def query_llm_async(session, prompt, llm_config, temperature_override, cot_entry=None, max_retries=3, extract_thinking=False, base_url=None):
     OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
     DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
     OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
@@ -180,7 +180,10 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
         }
     else:
         api_key = OPENROUTER_API_KEY or OPENAI_API_KEY
-        base_url = "https://openrouter.ai/api/v1/chat/completions"
+        if base_url is None:
+            base_url = "https://openrouter.ai/api/v1/chat/completions"
+        else:
+            base_url = base_url.rstrip('/') + '/chat/completions'
         if not api_key:
             raise ValueError("Neither OPENROUTER_API_KEY nor OPENAI_API_KEY environment variable is set")
 
@@ -276,8 +279,8 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
                         # 'native_finish_reason': response_json['choices'][0].get('native_finish_reason')
                     }
 
-                    # Add only tokens_completion if this was an OpenRouter call
-                    if base_url == "https://openrouter.ai/api/v1/chat/completions" or base_url == "https://inference-api.nousresearch.com/v1/chat/completions" or base_url == "https://api.deepseek.com/v1/chat/completions":
+                    # Add tokens_completion for any OpenAI-compatible endpoint
+                    if base_url and "/chat/completions" in base_url:
                         source_for_metadata = response_json.get('data') if isinstance(response_json.get('data'), dict) else response_json
                         
                         if response_json.get('usage'):
@@ -322,7 +325,7 @@ async def process_prompt_sample(session, semaphore, prompt, llm, sample_idx, arg
             if cot_entry:
                 print(f"Using CoT entry: {cot_entry[:200]}...")
 
-        response = await query_llm_async(session, prompt["prompt"], llm, args.temp, cot_entry, args.max_retries, args.think)
+        response = await query_llm_async(session, prompt["prompt"], llm, args.temp, cot_entry, args.max_retries, args.think, args.base_url)
         
         if response is None:
             print(f"Failed to get response for prompt {prompt['prompt_id']}")
@@ -544,6 +547,7 @@ if __name__ == "__main__":
     parser.add_argument("--think", action="store_true", help="Extract content within <think> tags as thinking content")
     parser.add_argument("--concurrency", type=int, default=5, help="Maximum number of concurrent requests")
     parser.add_argument("--save-frequency", type=int, default=10, help="Save results every N processed combinations")
+    parser.add_argument("--base-url", help="Custom base URL for OpenAI-compatible API (e.g., http://localhost:8000/v1)")
 
     args = parser.parse_args()
     main(args)

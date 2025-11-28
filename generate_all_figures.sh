@@ -1,7 +1,7 @@
 
 #######################################################################
 ## Danger: This script will aggregate all results from /data and
-## Generate figures in the figure/ folder. Everything will be overwritte
+## Generate figures in the figure/ folder. Everything will be overwritten
 #######################################################################
 
 

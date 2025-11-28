@@ -132,6 +132,25 @@ claude-opus-4.1,monty_hall_inverse,logic puzzle,False,False,730.6,0.562480586917
 claude-opus-4.1,one_plus_one,knowledge,False,False,49.2,0.9409682375450179,1.0,5
 claude-opus-4.1,roses_logic,logic puzzle,False,False,558.6,0.47321036910679865,1.0,5
 claude-opus-4.1,train_distance,knowledge,False,False,147.8,0.49562789946875885,1.0,5
+claude-opus-4.5,AIME2023II_P1,Math,False,False,892.4,0.6025296978297964,1.0,5
+claude-opus-4.5,AIME2023II_P1_mod,Math,False,False,1094.8,0.6269075439907349,1.0,5
+claude-opus-4.5,AIME2025I_P2_modified,Math,False,False,1584.8,0.7589323656412408,1.0,5
+claude-opus-4.5,AIME2025I_Problem_2,Math,False,False,1790.2,0.7850359616643476,1.0,5
+claude-opus-4.5,Ice cream parlor,Math,False,False,2551.8,0.7637871571487453,1.0,5
+claude-opus-4.5,Integer pairs,Math,False,False,5542.6,0.8978889568126218,1.0,5
+claude-opus-4.5,brazil_continent,knowledge,False,False,76.8,0.3558927451115712,1.0,5
+claude-opus-4.5,bridge_torch_default,logic puzzle,False,False,1185.4,0.7684905934899855,1.0,5
+claude-opus-4.5,bridge_torch_easy,logic puzzle,False,False,6863.0,0.9445754505426848,0.0,5
+claude-opus-4.5,bridge_torch_easy_10m,logic puzzle,False,False,3652.6,0.9010636577382325,1.0,5
+claude-opus-4.5,bridge_torch_impossible,logic puzzle,False,False,6590.2,0.9470371008416816,0.2,5
+claude-opus-4.5,capital_of_australia,knowledge,False,False,119.2,0.8108381465226504,1.0,5
+claude-opus-4.5,leap_year_february_days,knowledge,False,False,98.0,0.7513090784242226,1.0,5
+claude-opus-4.5,monty_appliance_simple,logic puzzle,False,False,5679.2,0.9215405269498815,0.8,5
+claude-opus-4.5,monty_hall_default,logic puzzle,False,False,669.8,0.5572913606967704,1.0,5
+claude-opus-4.5,monty_hall_inverse,logic puzzle,False,False,4191.2,0.8727013379943539,1.0,5
+claude-opus-4.5,one_plus_one,knowledge,False,False,43.8,0.92677499585411,1.0,5
+claude-opus-4.5,roses_logic,logic puzzle,False,False,686.4,0.5304506659289119,1.0,5
+claude-opus-4.5,train_distance,knowledge,False,False,129.6,0.505500897918552,1.0,5
 deepseek-V3.1,AIME2023II_P1,Math,True,True,547.2,0.4598117328338307,1.0,5
 deepseek-V3.1,AIME2023II_P1_mod,Math,True,True,579.2,0.4458795149685576,1.0,5
 deepseek-V3.1,AIME2025I_P2_modified,Math,True,True,1759.8,0.6640753662819914,1.0,5

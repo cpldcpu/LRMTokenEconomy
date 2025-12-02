@@ -160,7 +160,8 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
         }
     elif "deepseek" in llm_config["model"].lower():
         api_key = DEEPSEEK_API_KEY    
-        base_url = "https://api.deepseek.com/v1/chat/completions"
+        # DeepSeek V3.2 Speciale (thinking only) – expires 2025-12-15 15:59 UTC
+        base_url = "https://api.deepseek.com/v3.2_speciale_expires_on_20251215/chat/completions"
         if not api_key:
             raise ValueError("DEEPSEEK_API_KEY environment variable not set")
         
@@ -277,7 +278,12 @@ async def query_llm_async(session, prompt, llm_config, temperature_override, cot
                     }
 
                     # Add only tokens_completion if this was an OpenRouter call
-                    if base_url == "https://openrouter.ai/api/v1/chat/completions" or base_url == "https://inference-api.nousresearch.com/v1/chat/completions" or base_url == "https://api.deepseek.com/v1/chat/completions":
+                    if base_url in [
+                        "https://openrouter.ai/api/v1/chat/completions",
+                        "https://inference-api.nousresearch.com/v1/chat/completions",
+                        "https://api.deepseek.com/v1/chat/completions",
+                        "https://api.deepseek.com/v3.2_speciale_expires_on_20251215/chat/completions",
+                    ]:
                         source_for_metadata = response_json.get('data') if isinstance(response_json.get('data'), dict) else response_json
                         
                         if response_json.get('usage'):

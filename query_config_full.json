@@ -436,6 +436,16 @@
         "effort": "high",
         "exclude": false
       }
+    },
+                       {
+      "name": "deepseek-V3.2-speciale",
+      "model": "deepseek/deepseek-reasoner",
+      "open_weights": true,
+      "full_cot": true,
+      "max_tokens": 60000,
+      "temperature": 1.0,
+      "top_p": 1.0,
+      "repetition_penalty": 1
     }
   ] 
 }
